@@ -36,15 +36,14 @@ jobs:
       run: |
         git branch -a
         cd public
-      uses: actions/checkout@v1
-      name: Install coscmd
+    - name: Install coscmd
       run: sudo pip install coscmd
-      name: Configure coscmd
+    - name: Configure coscmd
       env:
         SECRET_ID: ${{ secrets.SecretId }}
         SECRET_KEY: ${{ secrets.SecretKey }}
         BUCKET: hexo-1301559367
         REGION: ap-shanghai
       run: coscmd config -a $SECRET_ID -s $SECRET_KEY -b $BUCKET -r $REGION
-      name: Upload
+    - name: Upload
       run: coscmd upload -rs --delete -f ./ / --ignore "./.git/*"
