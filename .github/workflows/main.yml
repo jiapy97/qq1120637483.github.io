@@ -32,7 +32,7 @@ jobs:
         npx hexo clean
         npx hexo g
         npx gulp
-        npx d
+        npx hexo d
 
 
     - name: testDev
