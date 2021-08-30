@@ -31,3 +31,7 @@ jobs:
         npm install
         npx hexo clean
         npx hexo g -d
+
+    - name: testDev
+      run: |
+        git branch -a
