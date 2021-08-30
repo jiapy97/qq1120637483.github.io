@@ -25,9 +25,9 @@ jobs:
         git config --global user.name 'qq1120637483' # github用户名
         git config --global user.email '1120637483@qq.com' # github邮箱
         sed -i "s/ACCESS_TOKEN/$ACCESS_TOKEN/g" ./_config.yml
-
     - name: Hexo
       run: |
-        npm i -g hexo-cli
-        npm i
-        hexo clean && hexo g && hexo d
+        npm install hexo
+        npm install
+        npx hexo clean
+        npx hexo g -d
