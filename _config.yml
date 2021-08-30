@@ -128,7 +128,8 @@ deploy:
   # repo: git@e.coding.net:faithpassion/boke2.0.git
   # repo: git@github.com:1120637483/1120637483.github.io.git
   # 2021-8-19
-  repo: git@github.com:qq1120637483/qq1120637483.github.io.git
+  # repo: git@github.com:qq1120637483/qq1120637483.github.io.git
+  repo: https://ACCESS_TOKEN@github.com/qq1120637483/qq1120637483.github.io.git
   # branch: master
 
   # repo: git@121.4.55.149:/home/git/blog.git
