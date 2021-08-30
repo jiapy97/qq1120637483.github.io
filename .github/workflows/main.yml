@@ -30,7 +30,10 @@ jobs:
         npm install hexo
         npm install
         npx hexo clean
-        npx hexo g -d
+        npx hexo g
+        npx gulp
+        npx d
+
 
     - name: testDev
       run: |
