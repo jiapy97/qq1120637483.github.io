@@ -44,6 +44,7 @@ useEffect(() => () => {
     console.log('当做componentWillUnmount');
 })
 ```
+
 ### 2. useEffect的使用方法示例
 1. 为window对象添加滚动事件。（挂载完成后绑定事件，卸载组件后解除绑定）
 ```js
@@ -85,6 +86,7 @@ function App() {
     )
 }
 ```
+
 ### 3. useEffect解决的问题
 1. 将一组相干的业务逻辑归置到了同一个副作用函数中.
 2. 简化重复代码,使组件内部代码更加清晰.
@@ -96,6 +98,7 @@ useEffect(() => {
     document.title = count;
 }, [count]) 
 ```
+
 ### 5：useEffect结合异步函数
 >在useEffect中直接使用async和await是会报错的，推荐使用立即执行函数来包裹异步函数。
 ```js
