@@ -22,6 +22,7 @@ tags:
 * solid 实线
 * dashed 虚线
 * dotted 点线
+
 ### 边框简写
 ```
 border: 5px solid red
@@ -98,6 +99,7 @@ border-collapse: collapse
 
 ### 行内元素或者行内块元素水平居中的方法
 * 给其父元素添加 text-align: center
+
 ### 外边距合并
 ![](https://jiapeiyang.oss-cn-beijing.aliyuncs.com/img/20200530190643.png)
 
@@ -107,6 +109,7 @@ border-collapse: collapse
 
 ### 嵌套块元素垂直外边距塌陷
 * 父元素和子元素同时有margin-top的时候，以最大的那个为准
+
 ![](https://jiapeiyang.oss-cn-beijing.aliyuncs.com/img/20200530190902.png)
 
 #### 解决方案
@@ -114,5 +117,6 @@ border-collapse: collapse
 
 ### 清除内外边距
 * 在body里面写内容的时候，浏览器会默认给我们添加一个内边距和外边距
+
 ![](https://jiapeiyang.oss-cn-beijing.aliyuncs.com/img/20200530191101.png)
 

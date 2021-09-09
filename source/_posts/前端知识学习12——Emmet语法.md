@@ -32,10 +32,12 @@ div+p
 .demo0$*3 + tab
 ```
 ![](https://jiapeiyang.oss-cn-beijing.aliyuncs.com/img/20200520215547.png)
+
 ### 7.快速给标签中添加内容
 ```
 .demo{当时打广告}
 ```
 ![](https://jiapeiyang.oss-cn-beijing.aliyuncs.com/img/20200520215634.png)
+
 ### Emmet语法总结
 ![](https://jiapeiyang.oss-cn-beijing.aliyuncs.com/img/20200520215657.png)

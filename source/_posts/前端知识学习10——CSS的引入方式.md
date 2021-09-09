@@ -7,8 +7,10 @@ tags:
 ---
 ## 1.内部样式表
 ![](https://gitee.com/justin2/pic/raw/master/20200519093119.png)
+
 ## 2.行内样式表（在标签里面直接加上style）
 ![](https://gitee.com/justin2/pic/raw/master/20200519093148.png)
+
 ## 3.外部样式表
 步骤：
 ```
@@ -17,5 +19,6 @@ tags:
 3：使用link标签引入CSS文件
 ```
 ![](https://gitee.com/justin2/pic/raw/master/20200519093234.png)
+
 ## CSS引入方式总结
 ![](https://gitee.com/justin2/pic/raw/master/20200519093302.png)

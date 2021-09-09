@@ -13,6 +13,7 @@ tags:
 ### 注意事项
 * 1：尽量使用mp4格式
 * 2：假如给video标签设置宽高不起作用的话，可以给其设置一个父盒子，然后给父盒子指定宽高。
+
 ### 常见属性
 ![](https://jiapeiyang.oss-cn-beijing.aliyuncs.com/img/20201005165932.png)
 
@@ -24,7 +25,8 @@ tags:
 ![](https://jiapeiyang.oss-cn-beijing.aliyuncs.com/img/20201005170237.png)
 
 ## 4：新增input属性
-下列的属性必须放在form表单中。
+>下列的属性必须放在form表单中。
+
 ![](https://jiapeiyang.oss-cn-beijing.aliyuncs.com/img/20201005170315.png)
 ![](https://jiapeiyang.oss-cn-beijing.aliyuncs.com/img/20201005170336.png)
 

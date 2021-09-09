@@ -7,15 +7,20 @@ tags:
 ---
 ## 1.背景图片
 * backgroud-image
+
 ![](https://jiapeiyang.oss-cn-beijing.aliyuncs.com/img/20200527214955.png)
 
 ## 2.背景平铺
 * backgroud-repeat
+
 ![](https://jiapeiyang.oss-cn-beijing.aliyuncs.com/img/20200527215028.png)
+
 ## 3.背景图片位置
 * background-positon
+
 ![](https://jiapeiyang.oss-cn-beijing.aliyuncs.com/img/20200527215047.png)
 ![](https://jiapeiyang.oss-cn-beijing.aliyuncs.com/img/20200527215130.png)
+
 > 使用img标签难以控制位置，使用背景图片便于掌控位置
 
 ## 4.文字图片小案例
@@ -50,9 +55,11 @@ tags:
 ```
 ### 实现效果
 ![](https://jiapeiyang.oss-cn-beijing.aliyuncs.com/img/20200527215335.png)
+
 ## 5.背景固定
 * backgroud-attachment
 * 背景固定后，背景是固定不动的，滚动的是其他的位置
+
 ![](https://jiapeiyang.oss-cn-beijing.aliyuncs.com/img/20200527215423.png)
 
 ## 6.背景颜色半透明
