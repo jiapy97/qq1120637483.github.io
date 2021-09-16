@@ -5,7 +5,8 @@ author: Justin
 top: false
 cover: false
 categories: LeetCode
-- LeetCode
+tags:
+  - LeetCode
 ---
 
 ## 题目描述

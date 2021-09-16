@@ -5,7 +5,8 @@ author: Justin
 top: false
 cover: false
 categories: Next
-- Next
+tags:
+  - Next
 ---
 
 ## Next.js整体介绍
