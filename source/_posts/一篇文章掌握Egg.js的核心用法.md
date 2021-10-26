@@ -1,6 +1,6 @@
 ---
 title: 一篇文章掌握Egg.js的核心用法
-date: 2021-8-20
+date: 2021-10-26
 author: Justin
 top: false
 cover: false
@@ -23,6 +23,20 @@ npm install
 ```
 4. 运行项目
 ```shell
+npm run dev
+```
+## 推荐使用下面的方式创建项目
+1. 首先全局安装egg-init
+2. 使用egg-init创建项目
+3. 进入项目
+4. 安装依赖
+5. 运行
+
+```js
+npm i egg-init -g
+egg-init eggname --type=simple
+cd eggname
+npm i
 npm run dev
 ```
 
