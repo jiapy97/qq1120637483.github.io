@@ -1,6 +1,6 @@
 ---
 title: 使用egg-mysql操作MySQL数据库
-date: 2021-11-08
+date: 2021-11-09
 author: Justin
 top: false
 cover: false
