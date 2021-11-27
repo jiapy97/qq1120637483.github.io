@@ -36,8 +36,8 @@ async doAdd() {
 ```js
 async uploadCos(filename, body) {
     var cos = new COS({
-      SecretId: 'AKID4xbz6wWNyIM8droUt0qQjkUyBCwPbW9V',
-      SecretKey: '7xWoqb7OSHpxxx'
+      SecretId: 'xxx',
+      SecretKey: 'xxx'
     });
     return new Promise((resolve,reject) => {
       cos.putObject({
@@ -81,8 +81,8 @@ async uploadCos(filename, body) {
 ```js
   async uploadCos(filename, body) {
     var cos = new COS({
-      SecretId: 'AKID4xbz6wWNyIM8droUt0qQjkUyBCwPbW9V',
-      SecretKey: '7xWoqb7OSHp65nEOGsCF1WkhNltDG2bs'
+      SecretId: 'xxx',
+      SecretKey: 'xxx'
     });
     return new Promise((resolve,reject) => {
       cos.putObject({
