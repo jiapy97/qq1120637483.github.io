@@ -1,6 +1,6 @@
 ---
 title: LeetCode——合并两个有序数组（双指针）
-date: 2021-10-28
+date: 2021-12-17
 author: Justin
 top: false
 cover: false
@@ -8,9 +8,10 @@ categories: LeetCode
 tags:
   - LeetCode
 ---
+
 ## 题目描述
 
-![image.png](https://img-blog.csdnimg.cn/img_convert/294e5e51fdc39f28b6394487f8e8f33f.png)
+![image.png](https://img-blog.csdnimg.cn/img_convert/860cffda351e0350f20dd29d45b88786.png)
 
 ## 解题思路
 
@@ -23,35 +24,31 @@ tags:
 
 ```js
 var merge = function(nums1, m, nums2, n) {
-  nums1.splice(m)
-  nums2.splice(n)
+  // 合并两个有序数组需要注意的是，是将nums2合并到nums1中，并且是原地排序，不允许出现赋值的情况。
+  // 1. 去除无关元素
+  nums1.splice(m);
+  nums2.splice(n);
+  // 2. 特殊情况判断
   if (nums1.length === 0 || nums2.length === 0) {
     nums1.push(...nums2);
     return;
   }
-  // 定义左指针
+  // 3. 一般情况判断
   let left = 0;
-  // 定义右指针
   let right = 0;
-  // 定义最终结果数组
-  let result = [];
-  // 当双方都没有走到头的时候
-  while (left != nums1.length && right != nums2.length) {
+  while (left < nums1.length && right < nums2.length) {
     if (nums1[left] <= nums2[right]) {
       left++;
+      continue;
     } else {
-      nums1.splice(left,0,nums2[right])
+      nums1.splice(left,0,nums2[right]);
       right++
     }
   }
-  // 如果是左指针走到头了，但是右指针还没有
-  if (left === nums1.length && right != nums2.length) {
+  if (left === nums1.length && right < nums2.length) {
     nums1.push(...nums2.slice(right));
   }
-  // 如果是右指针走到头了，但是左指针还没有
-  if (right === nums1.length && left != nums2.length) {
-    nums1.push(...nums1.slice(left));
-  }
+
 };
 ```
 
