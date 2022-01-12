@@ -1,6 +1,6 @@
 ---
 title: 考查候选人正则基本功的面试题之《解析URL请求参数》
-date: 2021-10-8
+date: 2021-01-12
 author: Justin
 top: false
 cover: false
@@ -34,7 +34,7 @@ function parseParam(url) {
             // 对value进行解码
             value = decodeURIComponent(value);
             // 如果是数字字符串就将其转换为浮点数
-            value = /^\d+$/.test(v) ? parseFloat(value) : value;
+            value = /^\d+$/.test(value) ? parseFloat(value) : value;
             // 判断要返回的对象中是否已经有了相同的key，有则添加，没有则赋值
             if (paramObj.hasOwnProperty(key)) {
                 paramObj[key] = [].concat(paramObj[key],value);
