@@ -1,6 +1,6 @@
 ---
 title: 轻量级服务器通过nginx部署express项目
-date: 2022-01-28
+date: 2022-01-29
 author: Justin
 top: false
 cover: false
