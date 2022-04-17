@@ -8,6 +8,7 @@ categories: JavaScript基础
 tags:
   - JavaScript基础
 ---
+
 ## 什么是防抖？
 >通过setTimeout的方式，在一定的时间间隔内，将多次触发变成一次触发。（通俗的说是在最后一次点击间隔规定时间之后才能再次成功触发，否则触发不成功）
 
@@ -18,7 +19,7 @@ tags:
 4. 如果是第一次执行，则通过apply(this,arguments)进行执行.
 5. 最后设置定时器，规定时间之后将t设置为null,使得间隔时间之后t为null，间隔时间之后的点击变为第一次点击。
 
-## 防抖实现代码
+## 防抖实现代码（立即执行版）
 ```js
 const btn = document.querySelector('#input');
 
@@ -47,6 +48,19 @@ function debounce(fn,timer) {
 }
 ```
 >### [codeSandBox在线演示](https://codesandbox.io/s/shouxiefangdouhanshu-8mf22?file=/index.html)
+
+## 防抖实现代码（延迟执行版）
+```js
+function debounce(fn,time) {
+    let t = null;
+    return function() {
+        clearTimeout(t);
+        t = setTimeout(() => {
+            fn.apply(this,arguments);
+        },time)
+    }
+}
+```
 
 -------
 ## 什么是节流？
@@ -85,3 +99,4 @@ function throttle(fn,delay) {
 ## 节流与防抖的区别是什么？
 1. 防抖只在最后一次成功点击之后间隔规定时间之后才能再次成功触发，如果在时间间隔之内就被点击，需要重新间隔时间间隔才能点击。
 2. 节流则不同，节流只要在上一次成功触发规定时间之后点击就能再次触发，中间的触发不会产生影响。
+
