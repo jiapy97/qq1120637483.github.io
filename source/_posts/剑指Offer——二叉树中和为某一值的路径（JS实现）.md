@@ -5,8 +5,9 @@ categories: LeetCode
 tags: 
 - LeetCode
 ---
+
 ## 题目描述
-![](https://img-blog.csdnimg.cn/img_convert/543c36870647246b07a4ae42d941b2af.png)
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0ed5150791f445fe8f8bbdd018eaa008~tplv-k3u1fbpfcp-zoom-1.image)
 
 ## 解题思路
 * 这道题属于二叉树的深度优先遍历
@@ -38,6 +39,30 @@ var pathSum = function (root, target) {
     return temp;
 };
 ```
+
+## 更优解
+> 通过DFS求解路径。
+
+```js
+var pathSum = function(root, targetSum) {
+    // 路径总和II 是经典的DFS问题
+    if (!root) return [];
+    const res = [];
+    function dfs(root,sum,temp) {
+        temp.push(root.val);
+        if (root.val === sum && !root.left && !root.right) {
+            res.push(temp);
+            return;    
+        }
+        if (root.left) dfs(root.left,sum - root.val,temp.slice());
+        if (root.right) dfs(root.right,sum - root.val,temp.slice());
+    }
+    dfs(root,targetSum,[]);
+    return res;
+};
+```
+
 ## 总结（本题给我们的启示思路）
 * 思路一：如何使用DFS算法遍历二叉树。
 * 思路二：在进行遍历的时候，该返回什么?什么时候进行存储才是本题的核心，才应当是我们应该多加练习的地方。
+
