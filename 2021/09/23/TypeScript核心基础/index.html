@@ -1,0 +1,683 @@
+<!DOCTYPE HTML><html lang="zh-CN"><head><meta charset="utf-8"><meta name="keywords" content="TypeScript核心基础, Faith&amp;Passion"><meta name="description" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no"><meta name="renderer" content="webkit|ie-stand|ie-comp"><meta name="mobile-web-app-capable" content="yes"><meta name="format-detection" content="telephone=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><title>TypeScript核心基础 | Faith&amp;Passion</title><link rel="icon" type="image/png" href="/favicon.png"><link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css"><link rel="stylesheet" type="text/css" href="/libs/materialize/materialize.min.css"><link rel="stylesheet" type="text/css" href="/libs/aos/aos.css"><link rel="stylesheet" type="text/css" href="/libs/animate/animate.min.css"><link rel="stylesheet" type="text/css" href="/libs/lightGallery/css/lightgallery.min.css"><link rel="stylesheet" type="text/css" href="/css/matery.css"><link rel="stylesheet" type="text/css" href="/css/my.css"><script src="/libs/jquery/jquery.min.js"></script><meta name="generator" content="Hexo 5.4.2"><style>.github-emoji{position:relative;display:inline-block;width:1.2em;min-height:1.2em;overflow:hidden;vertical-align:top;color:transparent}.github-emoji>span{position:relative;z-index:10}.github-emoji .fancybox,.github-emoji img{margin:0!important;padding:0!important;border:none!important;outline:0!important;text-decoration:none!important;user-select:none!important;cursor:auto!important}.github-emoji img{height:1.2em!important;width:1.2em!important;position:absolute!important;left:50%!important;top:50%!important;transform:translate(-50%,-50%)!important;user-select:none!important;cursor:auto!important}.github-emoji-fallback{color:inherit}.github-emoji-fallback img{opacity:0!important}</style></head><body><header class="navbar-fixed"><nav id="headNav" class="bg-color nav-transparent"><div id="navContainer" class="nav-wrapper container"><div class="brand-logo"> <a href="/" class="waves-effect waves-light"><img src="/medias/logo.png" class="logo-img" alt="LOGO"> <span class="logo-span">Faith&amp;Passion</span></a></div><a href="#" data-target="mobile-nav" class="sidenav-trigger button-collapse"><i class="fas fa-bars"></i></a><ul class="right nav-menu"><li class="hide-on-med-and-down nav-item"><a href="/" class="waves-effect waves-light"><i class="fas fa-home" style="zoom:.6"></i> <span>首页</span></a></li><li class="hide-on-med-and-down nav-item"><a href="/tags/" class="waves-effect waves-light"><i class="fas fa-tags" style="zoom:.6"></i> <span>标签</span></a></li><li class="hide-on-med-and-down nav-item"><a href="/categories/" class="waves-effect waves-light"><i class="fas fa-bookmark" style="zoom:.6"></i> <span>分类</span></a></li><li class="hide-on-med-and-down nav-item"><a href="/archives/" class="waves-effect waves-light"><i class="fas fa-archive" style="zoom:.6"></i> <span>归档</span></a></li><li class="hide-on-med-and-down nav-item"><a href="/about/" class="waves-effect waves-light"><i class="fas fa-user-circle" style="zoom:.6"></i> <span>关于</span></a></li><li class="hide-on-med-and-down nav-item"><a href="/friends/" class="waves-effect waves-light"><i class="fas fa-address-book" style="zoom:.6"></i> <span>友情链接</span></a></li><li><a href="#searchModal" class="modal-trigger waves-effect waves-light"><i id="searchIcon" class="fas fa-search" title="搜索" style="zoom:.85"></i></a></li></ul><div id="mobile-nav" class="side-nav sidenav"><div class="mobile-head bg-color"> <img src="/medias/logo.png" class="logo-img circle responsive-img"><div class="logo-name">Faith&amp;Passion</div><div class="logo-desc"> Never really desperate, only the lost of the soul.</div></div><ul class="menu-list mobile-menu-list"><li class="m-nav-item"><a href="/" class="waves-effect waves-light"><i class="fa-fw fas fa-home"></i> 首页</a></li><li class="m-nav-item"><a href="/tags/" class="waves-effect waves-light"><i class="fa-fw fas fa-tags"></i> 标签</a></li><li class="m-nav-item"><a href="/categories/" class="waves-effect waves-light"><i class="fa-fw fas fa-bookmark"></i> 分类</a></li><li class="m-nav-item"><a href="/archives/" class="waves-effect waves-light"><i class="fa-fw fas fa-archive"></i> 归档</a></li><li class="m-nav-item"><a href="/about/" class="waves-effect waves-light"><i class="fa-fw fas fa-user-circle"></i> 关于</a></li><li class="m-nav-item"><a href="/friends/" class="waves-effect waves-light"><i class="fa-fw fas fa-address-book"></i> 友情链接</a></li><li><div class="divider"></div></li><li><a href="https://jiapy.blog.csdn.net/" class="waves-effect waves-light" target="_blank"><i class="fab fa-github-square fa-fw"></i> Fork Me</a></li></ul></div></div><style>.nav-transparent .github-corner{display:none!important}.github-corner{position:absolute;z-index:10;top:0;right:0;border:0;transform:scale(1.1)}.github-corner svg{color:#0f9d58;fill:#fff;height:64px;width:64px}.github-corner:hover .octo-arm{animation:a .56s ease-in-out}.github-corner .octo-arm{animation:none}@keyframes a{0%,to{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}</style> <a href="https://jiapy.blog.csdn.net/" class="github-corner tooltipped hide-on-med-and-down" target="_blank" data-tooltip="Fork Me" data-position="left" data-delay="50"><svg viewBox="0 0 250 250" aria-hidden="true"><path d="M0 0 115 115 130 115 142 142 250 250 250 0Z"></path><path d="M128.3 109C113.8 99.7 119 89.6 119 89.6 122 82.7 120.5 78.6 120.5 78.6 119.2 72 123.4 76.3 123.4 76.3 127.3 80.9 125.5 87.3 125.5 87.3 122.9 97.6 130.6 101.9 134.4 103.2" fill="currentColor" style="transform-origin:130px 106px" class="octo-arm"></path><path d="M115 115C114.9 115.1 118.7 116.5 119.8 115.4L133.7 101.6C136.9 99.2 139.9 98.4 142.2 98.6 133.8 88 127.5 74.4 143.8 58 148.5 53.4 154 51.2 159.7 51 160.3 49.4 163.2 43.6 171.4 40.1 171.4 40.1 176.1 42.5 178.8 56.2 183.1 58.6 187.2 61.8 190.9 65.4 194.5 69 197.7 73.2 200.1 77.6 213.8 80.2 216.3 84.9 216.3 84.9 212.7 93.1 206.9 96 205.4 96.6 205.1 102.4 203 107.8 198.3 112.5 181.9 128.9 168.3 122.5 157.7 114.1 157.9 116.9 156.7 120.9 152.7 124.9L141 136.5C139.8 137.7 141.6 141.9 141.8 141.8Z" fill="currentColor" class="octo-body"></path></svg></a></nav></header><div class="bg-cover pd-header post-cover" style="background-image:url(/medias/featureimages/14.jpg)"><div class="container" style="right:0;left:0"><div class="row"><div class="col s12 m12 l12"><div class="brand"><h1 class="description center-align post-title">TypeScript核心基础</h1></div></div></div></div></div><main class="post-container content"><link rel="stylesheet" href="/libs/tocbot/tocbot.css"><style>#articleContent h1::before,#articleContent h2::before,#articleContent h3::before,#articleContent h4::before,#articleContent h5::before,#articleContent h6::before{display:block;content:" ";height:100px;margin-top:-100px;visibility:hidden}#articleContent :focus{outline:0}.toc-fixed{position:fixed;top:64px}.toc-widget{width:345px;padding-left:20px}.toc-widget .toc-title{padding:35px 0 15px 17px;font-size:1.5rem;font-weight:700;line-height:1.5rem}.toc-widget ol{padding:0;list-style:none}#toc-content{padding-bottom:30px;overflow:auto}#toc-content ol{padding-left:10px}#toc-content ol li{padding-left:10px}#toc-content .toc-link:hover{color:#42b983;font-weight:700;text-decoration:underline}#toc-content .toc-link::before{background-color:transparent;max-height:25px;position:absolute;right:23.5vw;display:block}#toc-content .is-active-link{color:#42b983}#floating-toc-btn{position:fixed;right:15px;bottom:76px;padding-top:15px;margin-bottom:0;z-index:998}#floating-toc-btn .btn-floating{width:48px;height:48px}#floating-toc-btn .btn-floating i{line-height:48px;font-size:1.4rem}</style><div class="row"><div id="main-content" class="col s12 m12 l9"><div id="artDetail"><div class="card"><div class="card-content article-info"><div class="row tag-cate"><div class="col s7"><div class="article-tag"> <a href="/tags/TypeScript/"><span class="chip bg-color">TypeScript</span></a></div></div><div class="col s5 right-align"><div class="post-cate"><i class="fas fa-bookmark fa-fw icon-category"></i> <a href="/categories/TypeScript/" class="post-category">TypeScript</a></div></div></div><div class="post-info"><div class="post-date info-break-policy"><i class="far fa-calendar-minus fa-fw"></i> 发布日期:&nbsp;&nbsp; 2021-09-23</div><div class="info-break-policy"><i class="far fa-file-word fa-fw"></i> 文章字数:&nbsp;&nbsp; 2.8k</div></div></div><hr class="clearfix"><link rel="stylesheet" href="/libs/prism/prism.css"><div class="card-content article-card-content"><div id="articleContent"><h2 id="配置VScode自动生成TS文件"><a href="#配置VScode自动生成TS文件" class="headerlink" title="配置VScode自动生成TS文件"></a>配置VScode自动生成TS文件</h2><ul><li><p>生成ts配置文件</p><pre class="line-numbers language-js" data-language="js"><code class="language-js">tsc <span class="token operator">--</span>init<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></li><li><p>激活输出路径<br><img src="https://img-blog.csdnimg.cn/img_convert/632424ce8189318838bd1cb1ebd6b645.png" alt="image.png"></p></li><li><p>配置保存即输出到指定路径</p></li></ul><ol><li>点击终端下的运行任务<br><img src="https://img-blog.csdnimg.cn/img_convert/55bca9ada4d0197bdc290b8d129676bd.png" alt="image.png"></li><li>点击typescript<br><img src="https://img-blog.csdnimg.cn/img_convert/1772984e91806ed69a505940da85dcdd.png" alt="image.png"></li><li>点击tsc监视</li></ol><h2 id="TS中的基本数据类型"><a href="#TS中的基本数据类型" class="headerlink" title="TS中的基本数据类型"></a>TS中的基本数据类型</h2><h3 id="boolean类型"><a href="#boolean类型" class="headerlink" title="boolean类型"></a>boolean类型</h3><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token keyword">let</span> flag<span class="token operator">:</span> boolean <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">;</span>
+flag <span class="token operator">=</span> <span class="token boolean">false</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><h3 id="number类型"><a href="#number类型" class="headerlink" title="number类型"></a>number类型</h3><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token keyword">let</span> num<span class="token operator">:</span> number <span class="token operator">=</span> <span class="token number">666</span><span class="token punctuation">;</span>
+num <span class="token operator">=</span> <span class="token number">777</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><h3 id="string类型"><a href="#string类型" class="headerlink" title="string类型"></a>string类型</h3><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token keyword">let</span> str<span class="token operator">:</span> string <span class="token operator">=</span> <span class="token string">'666'</span><span class="token punctuation">;</span>
+str <span class="token operator">=</span> <span class="token string">'777'</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><h3 id="array类型"><a href="#array类型" class="headerlink" title="array类型"></a>array类型</h3><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token comment">// 方式1</span>
+<span class="token keyword">let</span> arr<span class="token operator">:</span> number<span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">,</span><span class="token number">2</span><span class="token punctuation">,</span><span class="token number">3</span><span class="token punctuation">]</span><span class="token punctuation">;</span>
+<span class="token comment">// 方式2</span>
+<span class="token keyword">let</span> arr2<span class="token operator">:</span> Array<span class="token operator">&lt;</span>number<span class="token operator">&gt;</span> <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token number">6</span><span class="token punctuation">,</span><span class="token number">7</span><span class="token punctuation">,</span><span class="token number">8</span><span class="token punctuation">]</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h3 id="元组类型-tuple"><a href="#元组类型-tuple" class="headerlink" title="元组类型(tuple)"></a>元组类型(tuple)</h3><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token comment">// 元组类型</span>
+<span class="token keyword">let</span> arr<span class="token operator">:</span> <span class="token punctuation">[</span>number<span class="token punctuation">,</span>string<span class="token punctuation">,</span>boolean<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">,</span><span class="token string">'60'</span><span class="token punctuation">,</span><span class="token boolean">true</span><span class="token punctuation">]</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><h3 id="枚举类型"><a href="#枚举类型" class="headerlink" title="枚举类型"></a>枚举类型</h3><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token comment">// 枚举类型</span>
+<span class="token keyword">enum</span> Flag<span class="token punctuation">{</span>color1 <span class="token operator">=</span> <span class="token string">'blue'</span><span class="token punctuation">,</span>color2 <span class="token operator">=</span> <span class="token string">'pink'</span><span class="token punctuation">}</span><span class="token punctuation">;</span>
+
+<span class="token keyword">let</span> flag<span class="token operator">:</span> Flag <span class="token operator">=</span> Flag<span class="token punctuation">.</span>color2<span class="token punctuation">;</span>
+
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>flag<span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="任意类型any"><a href="#任意类型any" class="headerlink" title="任意类型any"></a>任意类型any</h3><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token comment">// 任意类型</span>
+<span class="token keyword">let</span> num<span class="token operator">:</span> any <span class="token operator">=</span> <span class="token number">666</span><span class="token punctuation">;</span>
+num <span class="token operator">=</span> <span class="token string">'test'</span><span class="token punctuation">;</span>
+num <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h3 id="undefined类型"><a href="#undefined类型" class="headerlink" title="undefined类型"></a>undefined类型</h3><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token comment">// undefined类型</span>
+<span class="token keyword">let</span> num<span class="token operator">:</span> <span class="token keyword">undefined</span><span class="token punctuation">;</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>num<span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><h3 id="null类型"><a href="#null类型" class="headerlink" title="null类型"></a>null类型</h3><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token keyword">let</span> num<span class="token operator">:</span> <span class="token keyword">null</span><span class="token punctuation">;</span>
+num <span class="token operator">=</span> <span class="token keyword">null</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><h3 id="void类型"><a href="#void类型" class="headerlink" title="void类型"></a>void类型</h3><ul><li>表示方法没有任何返回类型<pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token keyword">function</span> <span class="token function">run</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">:</span> <span class="token keyword">void</span><span class="token punctuation">{</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'run'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre></li></ul><h3 id="never类型"><a href="#never类型" class="headerlink" title="never类型"></a>never类型</h3><blockquote><p>表示无法到达终点的函数，例如死循环或者抛出异常。</p></blockquote><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token keyword">function</span> <span class="token function">test</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">:</span> never <span class="token punctuation">{</span>
+    <span class="token keyword">throw</span> <span class="token keyword">new</span> <span class="token class-name">Error</span><span class="token punctuation">(</span><span class="token string">'错误'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><h2 id="TS的函数类型"><a href="#TS的函数类型" class="headerlink" title="TS的函数类型"></a>TS的函数类型</h2><h3 id="基本形式"><a href="#基本形式" class="headerlink" title="基本形式"></a>基本形式</h3><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token keyword">function</span> <span class="token function">test</span><span class="token punctuation">(</span><span class="token parameter">name<span class="token operator">:</span> string<span class="token punctuation">,</span>age<span class="token operator">:</span> number</span><span class="token punctuation">)</span><span class="token operator">:</span> string<span class="token punctuation">{</span>
+    <span class="token keyword">return</span> <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>name<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string"> ---- </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>age<span class="token interpolation-punctuation punctuation">}</span></span><span class="token template-punctuation string">`</span></span>
+<span class="token punctuation">}</span>
+<span class="token function">test</span><span class="token punctuation">(</span><span class="token string">'nihao'</span><span class="token punctuation">,</span><span class="token number">666</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h3 id="可选参数"><a href="#可选参数" class="headerlink" title="可选参数"></a>可选参数</h3><blockquote><p>在JS中，函数定义的参数可传也可不传，但是在TS中是必须传递的，如果不传需要配置可选参数。</p></blockquote><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token keyword">function</span> <span class="token function">test</span><span class="token punctuation">(</span><span class="token parameter">name<span class="token operator">:</span> string<span class="token punctuation">,</span>age<span class="token operator">?</span><span class="token operator">:</span> number</span><span class="token punctuation">)</span><span class="token operator">:</span> string<span class="token punctuation">{</span>
+    <span class="token keyword">return</span> <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>name<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string"> ---- </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>age<span class="token interpolation-punctuation punctuation">}</span></span><span class="token template-punctuation string">`</span></span>
+<span class="token punctuation">}</span>
+<span class="token function">test</span><span class="token punctuation">(</span><span class="token string">'nihao'</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h3 id="默认参数"><a href="#默认参数" class="headerlink" title="默认参数"></a>默认参数</h3><blockquote><p>下面的例子中的number是默认参数。</p></blockquote><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token keyword">function</span> <span class="token function">test</span><span class="token punctuation">(</span><span class="token parameter">name<span class="token operator">:</span> string<span class="token punctuation">,</span>age<span class="token operator">:</span> number<span class="token operator">=</span><span class="token number">20</span></span><span class="token punctuation">)</span><span class="token operator">:</span> string<span class="token punctuation">{</span>
+    <span class="token keyword">return</span> <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>name<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string"> ---- </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>age<span class="token interpolation-punctuation punctuation">}</span></span><span class="token template-punctuation string">`</span></span>
+<span class="token punctuation">}</span>
+<span class="token function">test</span><span class="token punctuation">(</span><span class="token string">'nihao'</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h3 id="剩余参数"><a href="#剩余参数" class="headerlink" title="剩余参数"></a>剩余参数</h3><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token keyword">function</span> <span class="token function">sum</span><span class="token punctuation">(</span><span class="token parameter"><span class="token operator">...</span>arg<span class="token operator">:</span> number<span class="token punctuation">[</span><span class="token punctuation">]</span></span><span class="token punctuation">)</span><span class="token operator">:</span> number<span class="token punctuation">{</span>
+    <span class="token keyword">return</span> arg<span class="token punctuation">.</span><span class="token function">reduce</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token parameter">pre<span class="token punctuation">,</span>cur</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> pre <span class="token operator">+</span> cur<span class="token punctuation">,</span><span class="token number">0</span><span class="token punctuation">)</span>
+<span class="token punctuation">}</span>
+<span class="token function">sum</span><span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">,</span><span class="token number">2</span><span class="token punctuation">,</span><span class="token number">3</span><span class="token punctuation">,</span><span class="token number">4</span><span class="token punctuation">)</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h3 id="函数重载"><a href="#函数重载" class="headerlink" title="函数重载"></a>函数重载</h3><blockquote><p>在JS中一旦出现同名方法在同一作用域的情况下，下面的会覆盖上面的，但是在TS中则存在重载的情况。</p></blockquote><ul><li>注意：下面的any并不是说可以传递任意类型。<pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token keyword">function</span> <span class="token function">test</span><span class="token punctuation">(</span><span class="token parameter">name<span class="token operator">:</span> string</span><span class="token punctuation">)</span><span class="token operator">:</span> string<span class="token punctuation">;</span>
+
+<span class="token keyword">function</span> <span class="token function">test</span><span class="token punctuation">(</span><span class="token parameter">age<span class="token operator">:</span> number</span><span class="token punctuation">)</span><span class="token operator">:</span> string<span class="token punctuation">;</span>
+<span class="token comment">// 这里的any其实并不是真正的any，必须传递上面的两种类型之一，反之报错</span>
+<span class="token keyword">function</span> <span class="token function">test</span><span class="token punctuation">(</span><span class="token parameter">str<span class="token operator">:</span> any</span><span class="token punctuation">)</span><span class="token operator">:</span> string<span class="token punctuation">{</span>
+    <span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token keyword">typeof</span> str <span class="token operator">===</span> <span class="token string">'string'</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        <span class="token keyword">return</span> <span class="token string">'姓名'</span> <span class="token operator">+</span> str<span class="token punctuation">;</span>
+    <span class="token punctuation">}</span> <span class="token keyword">else</span> <span class="token punctuation">{</span>
+        <span class="token keyword">return</span> <span class="token string">'年龄'</span> <span class="token operator">+</span> str<span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+<span class="token function">test</span><span class="token punctuation">(</span><span class="token string">'里斯'</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></li></ul><h2 id="TS中的类"><a href="#TS中的类" class="headerlink" title="TS中的类"></a>TS中的类</h2><h3 id="类中属性和方法的定义"><a href="#类中属性和方法的定义" class="headerlink" title="类中属性和方法的定义"></a>类中属性和方法的定义</h3><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">class Person{
+    name: string;
+    constructor(n: string) {
+        this.name = n;
+    }   
+    run() :void {
+        console.log(this.name);
+    }
+}
+
+const p = new Person('张三');
+p.run();<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="TS中实现继承"><a href="#TS中实现继承" class="headerlink" title="TS中实现继承"></a>TS中实现继承</h3><blockquote><p>TS中实现继承主要用到了extends和super两个关键字。</p></blockquote><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token keyword">class</span> <span class="token class-name">Person</span><span class="token punctuation">{</span>
+    name<span class="token operator">:</span> string<span class="token punctuation">;</span>
+
+    <span class="token function">constructor</span><span class="token punctuation">(</span><span class="token parameter">name<span class="token operator">:</span> string</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        <span class="token keyword">this</span><span class="token punctuation">.</span>name <span class="token operator">=</span> name<span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+    <span class="token function">run</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">:</span> string <span class="token punctuation">{</span>
+        <span class="token keyword">return</span> <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span><span class="token keyword">this</span><span class="token punctuation">.</span>name<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">在学习</span><span class="token template-punctuation string">`</span></span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+
+<span class="token keyword">class</span> <span class="token class-name">child</span> <span class="token keyword">extends</span> <span class="token class-name">Person</span><span class="token punctuation">{</span>
+    <span class="token function">constructor</span><span class="token punctuation">(</span><span class="token parameter">name<span class="token operator">:</span> string</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        <span class="token keyword">super</span><span class="token punctuation">(</span>name<span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+
+<span class="token keyword">const</span> c <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">child</span><span class="token punctuation">(</span><span class="token string">'小明'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>c<span class="token punctuation">.</span><span class="token function">run</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="类中的修饰符"><a href="#类中的修饰符" class="headerlink" title="类中的修饰符"></a>类中的修饰符</h3><ul><li>public: 自身可以调用，子类可以调用，实例可以调用<pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token keyword">class</span> <span class="token class-name">Person</span><span class="token punctuation">{</span>
+    <span class="token keyword">public</span> name<span class="token operator">:</span> string<span class="token punctuation">;</span>
+
+    <span class="token function">constructor</span><span class="token punctuation">(</span><span class="token parameter">name<span class="token operator">:</span> string</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        <span class="token keyword">this</span><span class="token punctuation">.</span>name <span class="token operator">=</span> name<span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+    <span class="token function">run</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">:</span> string <span class="token punctuation">{</span>
+        <span class="token keyword">return</span> <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span><span class="token keyword">this</span><span class="token punctuation">.</span>name<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">在学习</span><span class="token template-punctuation string">`</span></span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+
+<span class="token keyword">const</span> p <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Person</span><span class="token punctuation">(</span><span class="token string">'张三'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>p<span class="token punctuation">.</span>name<span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></li><li>protected: 自身可以调用，子类可以调用<pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token keyword">class</span> <span class="token class-name">Person</span><span class="token punctuation">{</span>
+    <span class="token keyword">protected</span> name<span class="token operator">:</span> string<span class="token punctuation">;</span>
+
+    <span class="token function">constructor</span><span class="token punctuation">(</span><span class="token parameter">name<span class="token operator">:</span> string</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        <span class="token keyword">this</span><span class="token punctuation">.</span>name <span class="token operator">=</span> name<span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+    <span class="token function">run</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">:</span> string <span class="token punctuation">{</span>
+        <span class="token keyword">return</span> <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span><span class="token keyword">this</span><span class="token punctuation">.</span>name<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">在学习</span><span class="token template-punctuation string">`</span></span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+
+<span class="token keyword">class</span> <span class="token class-name">Child</span> <span class="token keyword">extends</span> <span class="token class-name">Person</span><span class="token punctuation">{</span>
+    
+    <span class="token function">constructor</span><span class="token punctuation">(</span><span class="token parameter">name<span class="token operator">:</span> string</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        <span class="token keyword">super</span><span class="token punctuation">(</span>name<span class="token punctuation">)</span>
+    <span class="token punctuation">}</span>
+    <span class="token function">run2</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">:</span> <span class="token keyword">void</span><span class="token punctuation">{</span>
+        console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token keyword">this</span><span class="token punctuation">.</span>name<span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+
+<span class="token keyword">const</span> c <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Child</span><span class="token punctuation">(</span><span class="token string">'666'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>c<span class="token punctuation">.</span><span class="token function">run</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></li><li>private：只有自身能够访问<pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token keyword">class</span> <span class="token class-name">Person</span><span class="token punctuation">{</span>
+    <span class="token keyword">private</span> name<span class="token operator">:</span> string<span class="token punctuation">;</span>
+
+    <span class="token function">constructor</span><span class="token punctuation">(</span><span class="token parameter">name<span class="token operator">:</span> string</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        <span class="token keyword">this</span><span class="token punctuation">.</span>name <span class="token operator">=</span> name<span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+    <span class="token function">run</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">:</span> string <span class="token punctuation">{</span>
+        <span class="token keyword">return</span> <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span><span class="token keyword">this</span><span class="token punctuation">.</span>name<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">在学习</span><span class="token template-punctuation string">`</span></span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+
+<span class="token keyword">const</span> p <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Person</span><span class="token punctuation">(</span><span class="token string">'张三'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+p<span class="token punctuation">.</span>name   <span class="token comment">// 报错</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><blockquote><p>注意：如果不写类成员修饰符默认是public.</p></blockquote></li></ul><h3 id="静态属性和静态方法"><a href="#静态属性和静态方法" class="headerlink" title="静态属性和静态方法"></a>静态属性和静态方法</h3><ul><li>通过static关键词定义静态属性<pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">class Person{
+    name: string;
+    constructor(name: string){
+        this.name = name;
+    }
+
+    run() {
+        console.log(this.name);
+    }
+    static work() {
+        console.log('这是类的静态方法');
+    }
+}
+
+const p = new Person('张三');
+
+// p.work()  // 报错
+Person.work();<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></li><li>静态方法只能调用静态属性不能调用实例属性<pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">class Person{
+    name: string;
+    static age: number = 18;
+    constructor(name: string){
+        this.name = name;
+    }
+
+    run() {
+        console.log(this.name);
+    }
+    static work() {
+        console.log('这是类的静态方法');
+        console.log('年龄是：',Person.age);        
+    }
+}
+
+const p = new Person('张三');
+
+Person.age;
+Person.work();<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></li></ul><h3 id="多态"><a href="#多态" class="headerlink" title="多态"></a>多态</h3><blockquote><p>多态指的是父类定义一个方法不去实现，让子类去实现，每一个子类有不同的表现。</p></blockquote><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">class Animal {
+    name: string;
+    constructor(name: string) {
+        this.name = name;
+    }
+    eat(): void {
+        console.log('这是父类的eat');
+    }
+}
+
+class Cat extends Animal {
+    name: string;
+    constructor(name: string) {
+        super(name)
+        this.name = name;
+    }
+    eat(): void {
+        console.log('这是子类的多态：',this.name);
+        
+    }
+}
+const c = new Cat('小猫');
+c.eat();<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="抽象类"><a href="#抽象类" class="headerlink" title="抽象类"></a>抽象类</h3><blockquote><p>用abstract关键字定义抽象类和抽象方法，抽象类中的抽象方法不包含具体的实现且必须在派生类中实现。抽象方法只能放在抽象类中。</p></blockquote><ol><li><p>抽象类无法进行具体的实例化</p><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">abstract class Animal{
+    abstract eat(): void;
+}
+const a = new Animal()   // 直接报错<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre></li><li><p>抽象类的子类必须实现抽象类中的抽象方法</p><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">abstract class Animal {
+    abstract eat(): void;
+}
+class cat extends Animal {
+    eat(): void {
+        console.log(666);
+    }
+}
+const c = new cat();
+c.eat()<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></li></ol><h2 id="TS中的接口"><a href="#TS中的接口" class="headerlink" title="TS中的接口"></a>TS中的接口</h2><blockquote><p>接口的存在也是为了定义标准。</p></blockquote><h3 id="属性接口"><a href="#属性接口" class="headerlink" title="属性接口"></a>属性接口</h3><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">interface fullname {
+    firstName: string;
+    secondName: string;
+}
+function getName (name: fullname) {
+    console.log(`${name.firstName} + '---' + ${name.secondName}`);
+}
+const obj = {
+    firstName: '小',
+    secondName: '明'
+}
+getName(obj);<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="接口的可选属性"><a href="#接口的可选属性" class="headerlink" title="接口的可选属性"></a>接口的可选属性</h3><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">interface fullname {
+    firstName: string;
+    secondName?: string;
+}
+function getName (name: fullname) {
+    console.log(`${name.firstName} + '---' + ${name.secondName}`);
+}
+const obj = {
+    firstName: '小',
+    // secondName: '明'
+}
+getName(obj);<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="函数类型的接口"><a href="#函数类型的接口" class="headerlink" title="函数类型的接口"></a>函数类型的接口</h3><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">interface encrypht {
+    (key: string,value: string): string;
+}
+const md5: encrypht = function md5(key: string, value: string): string {
+    return key + value;
+}
+console.log(md5('1','2'));<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="可索引接口"><a href="#可索引接口" class="headerlink" title="可索引接口"></a>可索引接口</h3><blockquote><p>这个接口主要是对数组和对象的约束。</p></blockquote><ul><li>对数组的约束<pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">interface useArr {
+    [index: number]: string;
+}
+
+const arr: useArr = ['1','2']<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre></li><li>对对象的约束<pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">interface useObj {
+    [index: string]: string;
+}
+const obj: useObj = {
+    name: '张三',
+    age: '666'
+}<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></li></ul><h3 id="类类型接口"><a href="#类类型接口" class="headerlink" title="类类型接口"></a>类类型接口</h3><blockquote><p>类类型接口存在的意义主要是对类进行约束。</p></blockquote><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">interface Animal {
+    name: string;
+    eat(str: string): void;
+}
+class Cat implements Animal {
+    name: string;
+    constructor(name: string) {
+        this.name = name;
+    }
+    eat(str: string): void {
+        console.log(this.name + str);
+    }
+}
+const cat = new Cat('小猫咪');
+console.log(cat.eat('玉米'));<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="接口拓展"><a href="#接口拓展" class="headerlink" title="接口拓展"></a>接口拓展</h3><blockquote><p>接口拓展指的是接口可以继承另一个接口。</p></blockquote><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">interface Animal {
+    eat(): void;
+}
+interface Person extends Animal {
+    work(): void;
+}
+class people implements Person {
+    name: string;
+    constructor(name: string) {
+        this.name = name;
+    }
+    eat() {
+        console.log('eat');
+    }
+    work() {
+        console.log('work');
+    }
+}
+const p = new people('小张');
+p.eat()
+p.work()<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="继承-实现"><a href="#继承-实现" class="headerlink" title="继承+实现"></a>继承+实现</h3><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">interface Animal {
+    eat(): void;
+}
+interface Person extends Animal {
+    work(): void;
+}
+class Programer {
+    name: string;
+    constructor(name: string) {
+        this.name = name;
+    }
+    coding(): void {
+        console.log(this.name + '在写代码');
+    }
+}
+class people extends Programer implements Person {
+    name: string;
+    constructor(name: string) {
+        super(name);
+        this.name = name;
+    }
+    eat() {
+        console.log('eat');
+    }
+    work() {
+        console.log('work');
+    }
+}
+const p = new people('小张');
+p.coding();<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="TS中的泛型"><a href="#TS中的泛型" class="headerlink" title="TS中的泛型"></a>TS中的泛型</h2><blockquote><p>泛型可以支持不特定的类型。</p></blockquote><h3 id="泛型定义"><a href="#泛型定义" class="headerlink" title="泛型定义"></a>泛型定义</h3><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">function getData&lt;T&gt;(value: T): T {
+    return value;
+}
+
+console.log(getData&lt;string&gt;('123'));
+console.log(getData&lt;number&gt;(123));<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="类的泛型"><a href="#类的泛型" class="headerlink" title="类的泛型"></a>类的泛型</h3><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">class MinClass&lt;T&gt; {
+    list: T[] = [];
+
+    add(num: T) {
+        this.list.push(num);
+    }
+
+    min(): T {
+        let minNum = this.list[0];
+        for (let v of this.list) {
+            if (v &lt; minNum) {
+                minNum = v;
+            }
+        }
+        return minNum;
+    }
+}
+const m = new MinClass&lt;number&gt;();<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="泛型接口"><a href="#泛型接口" class="headerlink" title="泛型接口"></a>泛型接口</h3><ul><li>写法1<pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">interface configFn {
+    &lt;T&gt;(value: T): T;
+}
+
+const fn: configFn = function&lt;T&gt;(value: T): T {
+
+    return value;
+}
+
+console.log(fn&lt;string&gt;('666'));<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></li><li>写法2<pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">interface configFn&lt;T&gt; {
+    (value: T): T;
+}
+
+function getData&lt;T&gt;(value: T): T {
+    return value;
+}
+
+const myGetData: configFn&lt;string&gt; = getData;
+
+myGetData('20')<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></li></ul><h3 id="泛型类实现泛型接口（用于逻辑复用）"><a href="#泛型类实现泛型接口（用于逻辑复用）" class="headerlink" title="泛型类实现泛型接口（用于逻辑复用）"></a>泛型类实现泛型接口（用于逻辑复用）</h3><blockquote><p>泛型类快速实现泛型接口的方法</p></blockquote><ol><li><p>定义好初始结构</p><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">class MongoDb&lt;T&gt; implements DBI&lt;T&gt; {
+    
+}<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre></li><li><p>光标悬浮然后点击快速修复<br><img src="https://img-blog.csdnimg.cn/img_convert/0efd3feec3b2d71e6cd0158406fd6fbf.png" alt="image.png"></p></li><li><p>点击实现接口<br><img src="https://img-blog.csdnimg.cn/img_convert/64fdad63cff639b1f9b18fa95c8a8e08.png" alt="image.png"></p></li></ol><ul><li>经典实例<pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">interface DBI&lt;T&gt; {
+    add(info: T): boolean;
+    update(info: T): boolean;
+    delete(id: number): boolean;
+    get(id: number): any[];
+}
+
+/**
+ * @description: 要实现泛型接口的类也必须是泛型类
+ * @param {*}
+ * @return {*}
+ */
+class MysqlDb&lt;T&gt; implements DBI&lt;T&gt; {
+    add(info: T): boolean {
+        throw new Error("Method not implemented.");
+    }
+    update(info: T): boolean {
+        throw new Error("Method not implemented.");
+    }
+    delete(id: number): boolean {
+        throw new Error("Method not implemented.");
+    }
+    get(id: number): any[] {
+        throw new Error("Method not implemented.");
+    }
+}
+
+class MongoDb&lt;T&gt; implements DBI&lt;T&gt; {
+    add(info: T): boolean {
+        console.log(info);
+        return true;
+        
+    }
+    update(info: T): boolean {
+        throw new Error("Method not implemented.");
+    }
+    delete(id: number): boolean {
+        throw new Error("Method not implemented.");
+    }
+    get(id: number): any[] {
+        throw new Error("Method not implemented.");
+    }
+    
+}
+
+class User {
+    username: string | undefined;
+    password: string | undefined;   
+}
+
+const u = new User();
+u.username = '张三';
+u.password = '123';
+
+const m = new MongoDb();
+m.add(u);<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></li></ul><h2 id="命名空间"><a href="#命名空间" class="headerlink" title="命名空间"></a>命名空间</h2><ul><li>命名空间和模块的区别<blockquote><p>命名空间：内部模块，主要用于组织代码，避免命名冲突。<br>模块：TS的外部模块的简称，侧重代码的复用，一个模块里可能会有多个命名空间。</p></blockquote></li></ul><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">namespace A {
+    export class Animal {
+        name: string | undefined;
+        age: number | undefined;
+    }
+}
+namespace B {
+    export class Animal {
+        name: string | undefined;
+        age: number | undefined;
+    }
+}
+const cat = new A.Animal()
+const dog = new B.Animal()<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="TS装饰器"><a href="#TS装饰器" class="headerlink" title="TS装饰器"></a>TS装饰器</h2><h3 id="装饰器有什么用？"><a href="#装饰器有什么用？" class="headerlink" title="装饰器有什么用？"></a>装饰器有什么用？</h3><blockquote><p>装饰器是一种特殊类型的声明，它能够被附加到类声明，方法，属性或参数上，可以修改类的行为。通俗的讲装饰器就是一个方法，可以注入到类、方法、属性参数上来拓展类、属性、方法，参数的功能。</p></blockquote><h3 id="类装饰器"><a href="#类装饰器" class="headerlink" title="类装饰器"></a>类装饰器</h3><blockquote><p>注意：类装饰器功能的实现需要在tsconfig.json文件中配置如下代码。</p></blockquote><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">"experimentalDecorators": true<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><ol><li>普通装饰器（无法传参）</li></ol><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">function logClass(params: any) {
+    // 这里的params指的就是被装饰器下面的函数
+    console.log(params);
+    // 下面就是我们动态拓展的属性
+    params.prototype.apiUrl = 'http://www.baidu.com'
+}
+
+// 
+@logClass
+class HttpClient {
+    constructor() {
+
+    }
+    getData() {
+
+    }
+}
+
+const h: any = new HttpClient();
+console.log(h.apiUrl);<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><ol start="2"><li>装饰器工厂（可以传参）</li></ol><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">// 装饰器工厂
+function logClass(params: any) {
+    // params：是装饰器传过来的参数
+    // 下面的target才是指的类本身
+    return function(target: any) {
+        console.log('这是target：',target);
+        console.log('这是params：',params);
+        target.prototype.apiUrl = params;
+    }
+}
+
+// 
+@logClass('666')
+class HttpClient {
+    constructor() {
+
+    }
+    getData() {
+
+    }
+}
+const h: any = new HttpClient();
+console.log(h.apiUrl);  //666<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="类装饰器重载"><a href="#类装饰器重载" class="headerlink" title="类装饰器重载"></a>类装饰器重载</h3><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">function logClass(target: any) {
+    return class extends target {
+        apiUrl: string = '这个是修改后的url';
+        getData() {
+            this.apiUrl = '这个是修改后的url---'
+            console.log(this.apiUrl);
+            
+        }
+    }
+}
+@logClass
+class HttpClient {
+    apiUrl: string | undefined;
+    constructor() {
+        this.apiUrl = '这是构造函数中的URL'
+    }
+    getData() {
+        console.log(this.apiUrl);
+    }
+}
+const h = new HttpClient();
+h.getData();<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="属性装饰器"><a href="#属性装饰器" class="headerlink" title="属性装饰器"></a>属性装饰器</h3><blockquote><p>属性装饰器表达式会在运行时当做函数被调用，传入下列两个参数</p></blockquote><ol><li>对于静态成员来说是类的构造函数，对于实例成员是类的原型对象。</li><li>成员的名字。</li></ol><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">// 属性装饰器
+function logProperty(params: any) {
+    return function(target: any,attr: any) {
+        // 这里的target指的就是类的原型对象
+        // 这里的attr指的是类的属性
+        console.log(target);
+        console.log(attr);
+        target[attr] = params;
+    }
+}
+class HttpClient {
+    @logProperty('http://www.baidu.com')
+    url: string | undefined;
+    constructor() {
+
+    }
+    getData() {
+        console.log(this.url);
+    }
+}
+const h = new HttpClient();
+h.getData()<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="方法装饰器"><a href="#方法装饰器" class="headerlink" title="方法装饰器"></a>方法装饰器</h3><blockquote><p>在方法装饰器中可以修改方法装饰器对应的方法或属性。</p></blockquote><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">/**
+ * @description: 方法装饰器
+ * @param {any} params
+ * @return {*}
+ */
+function logFun(params: any) {
+    /**
+     * @description: 
+     * @param {any} target：原型对象
+     * @param {any} methodName：方法名
+     * @param {any} desc：方法的属性描述
+     * @return {*}
+     */
+    return function(target: any,methodName: any,desc: any) {
+        console.log(target);
+        console.log(methodName);
+        console.log(desc.value);
+
+        const oldMethod = desc.value;
+        desc.value = function(...args: any[]) {
+            args = args.map(item =&gt; {
+                return String(item)
+            })
+            oldMethod.apply(this,args)
+        }
+    }
+}
+class HttpClient {
+    url: string | undefined;
+    constructor() {
+    }
+    @logFun('你好')
+    getData(...args: any[]) {
+        console.log(args);  // ['123','666']
+        console.log('这是getData中的方法');
+    }
+}
+const h = new HttpClient();
+h.getData(123,'666')<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="方法参数装饰器"><a href="#方法参数装饰器" class="headerlink" title="方法参数装饰器"></a>方法参数装饰器</h3><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">/**
+ * @description: 方法参数装饰器
+ * @param {any} params
+ * @return {*}
+ */
+function logParams(params: any) {
+    /**
+     * @description: 
+     * @param {any} target：类的原型对象
+     * @param {any} methodName：参数对应的方法名
+     * @param {any} paramsIndex：参数对应的索引
+     * @return {*}
+     */
+    return function(target: any,methodName: any,paramsIndex: any) {
+        console.log(params);
+        console.log(target);
+        console.log(methodName);
+        console.log(paramsIndex);
+        // 增加一个属性
+        target.apiUrl = params;
+    }
+}
+class HttpClient {
+    url: string | undefined;
+    constructor() {
+    }
+    getData(@logParams('你好') uuid: any) {
+        console.log(uuid);
+    }
+}
+const h: any = new HttpClient();
+h.getData(123);
+console.log(h.apiUrl);   //你好<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="装饰器的执行顺序"><a href="#装饰器的执行顺序" class="headerlink" title="装饰器的执行顺序"></a>装饰器的执行顺序</h3><blockquote><p>首先看下面的代码</p></blockquote><pre class="line-numbers language-ts" data-language="ts"><code class="language-ts">function logClass1(params: any) {
+    return function(target: any) {
+        console.log('类装饰器1');
+    }
+}
+function logClass2(params: any) {
+    return function(target: any) {
+        console.log('类装饰器2');
+    }
+}
+function logAttribute() {
+    return function(target: any,attr: any) {
+        console.log('属性装饰器');
+    }
+}
+function logMethod() {
+    return function(target: any,methodName: any,desc: any) {
+        console.log('方法装饰器');
+    }
+}
+function logParams1() {
+    return function (target: any,methodName: any,paramsIndex: any) {
+        console.log('方法参数装饰器1'); 
+    }
+}
+function logParams2() {
+    return function (target: any,methodName: any,paramsIndex: any) {
+        console.log('方法参数装饰器2'); 
+    }
+}
+
+@logClass1('111')
+@logClass2('2222')
+class HttpClient {
+    @logAttribute()
+    url: string | undefined;
+    constructor() {
+    }
+    @logMethod()
+    getData() {
+        return true
+    }
+    setDate(@logParams1() attr1: any,@logParams2() attr2: any) {
+        return true;
+    }
+}<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p><img src="https://img-blog.csdnimg.cn/img_convert/ed7a97c9040340387ad196ded9624c6c.png" alt="image.png"></p><blockquote><p>注意：在class内部执行顺序是按照代码顺序来的。</p></blockquote></div><hr><div class="reprint" id="reprint-statement"><div class="reprint__author"> <span class="reprint-meta" style="font-weight:700"><i class="fas fa-user">文章作者:</i></span> <span class="reprint-info"><a href="/about" rel="external nofollow noreferrer">Justin</a></span></div><div class="reprint__type"> <span class="reprint-meta" style="font-weight:700"><i class="fas fa-link">文章链接:</i></span> <span class="reprint-info"><a href="https://qq1120637483.github.io/2021/09/23/TypeScript%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80/">https://qq1120637483.github.io/2021/09/23/TypeScript%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80/</a></span></div><div class="reprint__notice"> <span class="reprint-meta" style="font-weight:700"><i class="fas fa-copyright">版权声明:</i></span> <span class="reprint-info">本博客所有文章除特別声明外，均采用 <a href="https://creativecommons.org/licenses/by/4.0/deed.zh" rel="external nofollow noreferrer" target="_blank">CC BY 4.0</a> 许可协议。转载请注明来源 <a href="/about" target="_blank">Justin</a> !</span></div></div><script async defer="defer">
+      document.addEventListener("copy", function (e) {
+        let toastHTML = '<span>复制成功，请遵循本文的转载规则</span><button class="btn-flat toast-action" onclick="navToReprintStatement()" style="font-size: smaller">查看</a>';
+        M.toast({html: toastHTML})
+      });
+
+      function navToReprintStatement() {
+        $("html, body").animate({scrollTop: $("#reprint-statement").offset().top - 80}, 800);
+      }
+    </script><div class="tag_share" style="display:block"><div class="post-meta__tag-list" style="display:inline-block"><div class="article-tag"> <a href="/tags/TypeScript/"><span class="chip bg-color">TypeScript</span></a></div></div><div class="post_share" style="zoom:80%;width:fit-content;display:inline-block;float:right;margin:-.15rem 0"><link rel="stylesheet" type="text/css" href="/libs/share/css/share.min.css"><div id="article-share"><div class="social-share" data-sites="twitter,facebook,google,qq,qzone,wechat,weibo,douban,linkedin" data-wechat-qrcode-helper="<p>微信扫一扫即可分享！</p>"></div><script src="/libs/share/js/social-share.min.js"></script></div></div></div><style>#reward{margin:40px 0;text-align:center}#reward .reward-link{font-size:1.4rem;line-height:38px}#reward .btn-floating:hover{box-shadow:0 6px 12px rgba(0,0,0,.2),0 5px 15px rgba(0,0,0,.2)}#rewardModal{width:320px;height:350px}#rewardModal .reward-title{margin:15px auto;padding-bottom:5px}#rewardModal .modal-content{padding:10px}#rewardModal .close{position:absolute;right:15px;top:15px;color:rgba(0,0,0,.5);font-size:1.3rem;line-height:20px;cursor:pointer}#rewardModal .close:hover{color:#ef5350;transform:scale(1.3);-moz-transform:scale(1.3);-webkit-transform:scale(1.3);-o-transform:scale(1.3)}#rewardModal .reward-tabs{margin:0 auto;width:210px}.reward-tabs .tabs{height:38px;margin:10px auto;padding-left:0}.reward-content ul{padding-left:0!important}.reward-tabs .tabs .tab{height:38px;line-height:38px}.reward-tabs .tab a{color:#fff;background-color:#ccc}.reward-tabs .tab a:hover{background-color:#ccc;color:#fff}.reward-tabs .wechat-tab .active{color:#fff!important;background-color:#22ab38!important}.reward-tabs .alipay-tab .active{color:#fff!important;background-color:#019fe8!important}.reward-tabs .reward-img{width:210px;height:210px}</style><div id="reward"> <a href="#rewardModal" class="reward-link modal-trigger btn-floating btn-medium waves-effect waves-light red">赏</a><div id="rewardModal" class="modal"><div class="modal-content"><a class="close modal-close"><i class="fas fa-times"></i></a><h4 class="reward-title">你的赏识是我前进的动力</h4><div class="reward-content"><div class="reward-tabs"><ul class="tabs row"><li class="tab col s6 alipay-tab waves-effect waves-light"><a href="#alipay">支付宝</a></li><li class="tab col s6 wechat-tab waves-effect waves-light"><a href="#wechat">微 信</a></li></ul><div id="alipay"> <img src="/medias/reward/alipay.jpg" class="reward-img" alt="支付宝打赏二维码"></div><div id="wechat"> <img src="/medias/reward/wechat.png" class="reward-img" alt="微信打赏二维码"></div></div></div></div></div></div><script>$(function(){$(".tabs").tabs()})</script></div></div><article id="prenext-posts" class="prev-next articles"><div class="row article-row"><div class="article col s12 m6" data-aos="fade-up"><div class="article-badge left-badge text-color"><i class="fas fa-chevron-left"></i> &nbsp;上一篇</div><div class="card"><a href="/2021/09/24/%E5%A6%82%E4%BD%95%E6%8E%A7%E5%88%B6Promise%E7%9A%84%E4%B8%B2%E8%A1%8C%E6%89%A7%E8%A1%8C%EF%BC%9F/"><div class="card-image"> <img src="/medias/featureimages/3.jpg" class="responsive-img" alt="如何控制Promise的串行执行？"> <span class="card-title">如何控制Promise的串行执行？</span></div></a><div class="card-content article-content"><div class="summary block-with-text"></div><div class="publish-info"><span class="publish-date"><i class="far fa-clock fa-fw icon-date"></i> 2021-09-24</span><span class="publish-author"><i class="fas fa-bookmark fa-fw icon-category"></i> <a href="/categories/Promise/" class="post-category">Promise</a></span></div></div><div class="card-action article-tags"> <a href="/tags/Promise/"><span class="chip bg-color">Promise</span></a></div></div></div><div class="article col s12 m6" data-aos="fade-up"><div class="article-badge right-badge text-color"> 下一篇&nbsp;<i class="fas fa-chevron-right"></i></div><div class="card"><a href="/2021/09/22/%E4%BC%98%E5%8C%96HTTP%E8%AF%B7%E6%B1%82%E5%92%8C%E5%93%8D%E5%BA%94%E7%9A%84%E6%96%B9%E6%B3%95/"><div class="card-image"> <img src="/medias/featureimages/14.jpg" class="responsive-img" alt="优化HTTP请求和响应的方法"> <span class="card-title">优化HTTP请求和响应的方法</span></div></a><div class="card-content article-content"><div class="summary block-with-text"></div><div class="publish-info"><span class="publish-date"><i class="far fa-clock fa-fw icon-date"></i> 2021-09-22</span><span class="publish-author"><i class="fas fa-bookmark fa-fw icon-category"></i> <a href="/categories/HTTP/" class="post-category">HTTP</a></span></div></div><div class="card-action article-tags"> <a href="/tags/HTTP/"><span class="chip bg-color">HTTP</span></a></div></div></div></div></article></div><script type="text/javascript" src="/libs/codeBlock/codeBlockFuction.js"></script><script type="text/javascript" src="/libs/codeBlock/codeLang.js"></script><script type="text/javascript" src="/libs/codeBlock/codeCopy.js"></script><script type="text/javascript" src="/libs/codeBlock/codeShrink.js"></script></div><div id="toc-aside" class="expanded col l3 hide-on-med-and-down"><div class="toc-widget card" style="background-color:#fff"><div class="toc-title"><i class="far fa-list-alt"></i>&nbsp;&nbsp;目录</div><div id="toc-content"></div></div></div></div><div id="floating-toc-btn" class="hide-on-med-and-down"><a class="btn-floating btn-large bg-color"><i class="fas fa-list-ul"></i></a></div><script src="/libs/tocbot/tocbot.min.js"></script><script>
+    $(function () {
+        tocbot.init({
+            tocSelector: '#toc-content',
+            contentSelector: '#articleContent',
+            headingsOffset: -($(window).height() * 0.4 - 45),
+            collapseDepth: Number('0'),
+            headingSelector: 'h2, h3, h4'
+        });
+
+        // modify the toc link href to support Chinese.
+        let i = 0;
+        let tocHeading = 'toc-heading-';
+        $('#toc-content a').each(function () {
+            $(this).attr('href', '#' + tocHeading + (++i));
+        });
+
+        // modify the heading title id to support Chinese.
+        i = 0;
+        $('#articleContent').children('h2, h3, h4').each(function () {
+            $(this).attr('id', tocHeading + (++i));
+        });
+
+        // Set scroll toc fixed.
+        let tocHeight = parseInt($(window).height() * 0.4 - 64);
+        let $tocWidget = $('.toc-widget');
+        $(window).scroll(function () {
+            let scroll = $(window).scrollTop();
+            /* add post toc fixed. */
+            if (scroll > tocHeight) {
+                $tocWidget.addClass('toc-fixed');
+            } else {
+                $tocWidget.removeClass('toc-fixed');
+            }
+        });
+
+        
+        /* 修复文章卡片 div 的宽度. */
+        let fixPostCardWidth = function (srcId, targetId) {
+            let srcDiv = $('#' + srcId);
+            if (srcDiv.length === 0) {
+                return;
+            }
+
+            let w = srcDiv.width();
+            if (w >= 450) {
+                w = w + 21;
+            } else if (w >= 350 && w < 450) {
+                w = w + 18;
+            } else if (w >= 300 && w < 350) {
+                w = w + 16;
+            } else {
+                w = w + 14;
+            }
+            $('#' + targetId).width(w);
+        };
+
+        // 切换TOC目录展开收缩的相关操作.
+        const expandedClass = 'expanded';
+        let $tocAside = $('#toc-aside');
+        let $mainContent = $('#main-content');
+        $('#floating-toc-btn .btn-floating').click(function () {
+            if ($tocAside.hasClass(expandedClass)) {
+                $tocAside.removeClass(expandedClass).hide();
+                $mainContent.removeClass('l9');
+            } else {
+                $tocAside.addClass(expandedClass).show();
+                $mainContent.addClass('l9');
+            }
+            fixPostCardWidth('artDetail', 'prenext-posts');
+        });
+        
+    });
+</script></main><footer class="page-footer bg-color"><link rel="stylesheet" href="/libs/aplayer/APlayer.min.css"><style>.aplayer .aplayer-lrc p{display:none;font-size:12px;font-weight:700;line-height:16px!important}.aplayer .aplayer-lrc p.aplayer-lrc-current{display:none;font-size:15px;color:#42b983}.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body{left:-66px!important}.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover{left:0!important}</style><div class=""><div class="row"><meting-js class="col l8 offset-l2 m10 offset-m1 s12" server="netease" type="playlist" id="503838841" fixed="true" autoplay="false" theme="#42b983" loop="all" order="random" preload="auto" volume="0.7" list-folded="true"></meting-js></div></div><script src="/libs/aplayer/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script><div class="container row center-align" style="margin-bottom:0!important"><div class="col s12 m8 l8 copy-right"> Copyright&nbsp;&copy; <span id="year">2020-2022</span> <span id="year">2020</span> <a href="/about" target="_blank">Justin</a> |&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a> |&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a><br> &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span class="white-color">314.7k</span> <span id="busuanzi_container_site_pv">&nbsp;|&nbsp;<i class="far fa-eye"></i>&nbsp;总访问量:&nbsp;<span id="busuanzi_value_site_pv" class="white-color"></span></span> <span id="busuanzi_container_site_uv">&nbsp;|&nbsp;<i class="fas fa-users"></i>&nbsp;总访问人数:&nbsp;<span id="busuanzi_value_site_uv" class="white-color"></span></span><br><br> <span id="icp"><img src="/medias/icp.png" style="vertical-align:text-bottom"> <a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">豫ICP备2020035275号-1</a></span></div><div class="col s12 m4 l4 social-link social-statis"><a href="https://github.com/blinkfox" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50"><i class="fab fa-github"></i></a><a href="mailto:1181062873@qq.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50"><i class="fas fa-envelope-open"></i></a><a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1181062873" class="tooltipped" target="_blank" data-tooltip="QQ联系我: 1181062873" data-position="top" data-delay="50"><i class="fab fa-qq"></i></a><a href="/atom.xml" class="tooltipped" target="_blank" data-tooltip="RSS 订阅" data-position="top" data-delay="50"><i class="fas fa-rss"></i></a></div></div></footer><div class="progress-bar"></div><div id="searchModal" class="modal"><div class="modal-content"><div class="search-header"><span class="title"><i class="fas fa-search"></i> &nbsp;&nbsp;搜索</span> <input type="search" id="searchInput" name="s" placeholder="请输入搜索的关键字" class="search-input"></div><div id="searchResult"></div></div></div><script type="text/javascript">$(function(){!function(t,a,s){"use strict";$.ajax({url:t,dataType:"xml",success:function(t){var e=$("entry",t).map(function(){return{title:$("title",this).text(),content:$("content",this).text(),url:$("url",this).text()}}).get(),r=document.getElementById(a),n=document.getElementById(s);r.addEventListener("input",function(){var f='<ul class="search-result-list">',m=this.value.trim().toLowerCase().split(/[\s\-]+/);n.innerHTML="",this.value.trim().length<=0||(e.forEach(function(t){var r=!0,n=t.title.trim().toLowerCase(),a=t.content.trim().replace(/<[^>]+>/g,"").toLowerCase(),e=t.url;e=0===e.indexOf("/")?t.url:"/"+e;var s=-1,i=-1,l=-1;if(""!==n&&""!==a&&m.forEach(function(t,e){s=n.indexOf(t),i=a.indexOf(t),s<0&&i<0?r=!1:(i<0&&(i=0),0===e&&(l=i))}),r){f+="<li><a href='"+e+"' class='search-result-title'>"+n+"</a>";var c=t.content.trim().replace(/<[^>]+>/g,"");if(0<=l){var u=l-20,o=l+80;u<0&&(u=0),0===u&&(o=100),o>c.length&&(o=c.length);var h=c.substr(u,o);m.forEach(function(t){var e=new RegExp(t,"gi");h=h.replace(e,'<em class="search-keyword">'+t+"</em>")}),f+='<p class="search-result">'+h+"...</p>"}f+="</li>"}}),f+="</ul>",n.innerHTML=f)})}})}("/search.xml","searchInput","searchResult")})</script><div id="backTop" class="top-scroll"><a class="btn-floating btn-large waves-effect waves-light" href="#!"><i class="fas fa-arrow-up"></i></a></div><script src="/libs/materialize/materialize.min.js"></script><script src="/libs/masonry/masonry.pkgd.min.js"></script><script src="/libs/aos/aos.js"></script><script src="/libs/scrollprogress/scrollProgress.min.js"></script><script src="/libs/lightGallery/js/lightgallery-all.min.js"></script><script src="/js/matery.js"></script><script>!function(){var t=document.createElement("script"),e=window.location.protocol.split(":")[0];t.src="https"===e?"https://zz.bdstatic.com/linksubmit/push.js":"http://push.zhanzhang.baidu.com/push.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}()</script><script src="/libs/others/clicklove.js" async="async"></script><script async src="/libs/others/busuanzi.pure.mini.js"></script><script src="/libs/instantpage/instantpage.js" type="module"></script></body></html>
