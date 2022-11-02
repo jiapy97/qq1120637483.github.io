@@ -8,11 +8,16 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "7Wate",
   tagline: "For Freedom",
-  url: "https://wiki.7wate.com",
+  url: "https://qq1120637483.github.io/",
   baseUrl: "/",
   onBrokenLinks: "log",
   onBrokenMarkdownLinks: "log",
   favicon: "img/favicon.ico",
+
+  projectName: 'qq1120637483.github.io',
+  organizationName: 'qq1120637483',
+  trailingSlash: false,
+  deploymentBranch:"gh-pages",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -74,19 +79,6 @@ const config = {
     ],
   ],
   plugins: [
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        id: "programming-language",
-        path: "wiki/programming-language",
-        routeBasePath: "programming-language",
-        sidebarPath: require.resolve("./sidebars.js"),
-        editUrl: "https://git.7wate.com/zhouzhongping/wiki/src/branch/master",
-        showLastUpdateAuthor: true,
-        showLastUpdateTime: true,
-        breadcrumbs: false,
-      },
-    ],
     [
       "@docusaurus/plugin-content-docs",
       {
@@ -264,10 +256,6 @@ const config = {
             position: "right",
             label: "🦖 Wiki",
             items: [
-              {
-                label: "程序设计语言",
-                to: "/programming-language",
-              },
               {
                 label: "数据结构与算法",
                 to: "/structures-algorithms",
