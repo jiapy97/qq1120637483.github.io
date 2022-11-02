@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[9721],{11740:e=>{e.exports=JSON.parse('{"label":"Neo4j","permalink":"/blog/tags/neo-4-j","allTagsPath":"/blog/tags","count":2}')}}]);
