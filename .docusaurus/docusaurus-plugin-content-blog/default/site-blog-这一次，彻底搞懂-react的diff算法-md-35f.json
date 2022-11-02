@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/这一次，彻底搞懂React的diff算法",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/这一次，彻底搞懂React的diff算法.md",
+  "source": "@site/blog\\这一次，彻底搞懂React的diff算法.md",
+  "title": "这一次，彻底搞懂React的diff算法",
+  "description": "在前端面试中，只要涉及到React框架，diff算法便是我们绕不开的话题，这次让我们来系统性的梳理diff算法，不再被这个知识点所困扰。",
+  "date": "2021-10-01T00:00:00.000Z",
+  "formattedDate": "2021年10月1日",
+  "tags": [
+    {
+      "label": "React",
+      "permalink": "/blog/tags/react"
+    }
+  ],
+  "readingTime": 4.085,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "这一次，彻底搞懂React的diff算法",
+    "date": "2021-10-1",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "React",
+    "tags": [
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "LeetCode——买卖股票的最佳时机（动态规划+更新极值）",
+    "permalink": "/blog/LeetCode——买卖股票的最佳时机（动态规划+更新极值）"
+  },
+  "nextItem": {
+    "title": "这一次，彻底搞定伪类和伪元素的区别",
+    "permalink": "/blog/这一次，彻底搞定伪类和伪元素的区别"
+  }
+}

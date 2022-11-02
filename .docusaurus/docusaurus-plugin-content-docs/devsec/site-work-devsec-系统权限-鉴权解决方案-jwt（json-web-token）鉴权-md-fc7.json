@@ -1,0 +1,47 @@
+{
+  "unversionedId": "系统权限/鉴权解决方案/JWT（JSON Web Token）鉴权",
+  "id": "系统权限/鉴权解决方案/JWT（JSON Web Token）鉴权",
+  "title": "JWT 鉴权",
+  "description": "JWT 鉴权",
+  "source": "@site/work/devsec/系统权限/鉴权解决方案/JWT（JSON Web Token）鉴权.md",
+  "sourceDirName": "系统权限/鉴权解决方案",
+  "slug": "/系统权限/鉴权解决方案/JWT（JSON Web Token）鉴权",
+  "permalink": "/devsec/系统权限/鉴权解决方案/JWT（JSON Web Token）鉴权",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/work/devsec/系统权限/鉴权解决方案/JWT（JSON Web Token）鉴权.md",
+  "tags": [
+    {
+      "label": "权限",
+      "permalink": "/devsec/tags/权限"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "JWT 鉴权",
+    "description": "JWT 鉴权",
+    "keywords": [
+      "JWT",
+      "Java",
+      "鉴权"
+    ],
+    "tags": [
+      "权限"
+    ],
+    "sidebar_position": 4,
+    "author": "7Wate",
+    "date": "2022-08-31T00:00:00.000Z"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Token 鉴权",
+    "permalink": "/devsec/系统权限/鉴权解决方案/Token 鉴权"
+  },
+  "next": {
+    "title": "SSO 单点登录",
+    "permalink": "/devsec/系统权限/鉴权解决方案/单点登录（Single Sign On）"
+  }
+}

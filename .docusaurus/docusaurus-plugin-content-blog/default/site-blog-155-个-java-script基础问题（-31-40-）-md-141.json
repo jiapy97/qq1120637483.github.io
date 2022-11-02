@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/155个JavaScript基础问题（31-40）",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/155个JavaScript基础问题（31-40）.md",
+  "source": "@site/blog\\155个JavaScript基础问题（31-40）.md",
+  "title": "155个JavaScript基础问题（31-40）",
+  "description": "31. 当点击按钮时,event.target是什么？",
+  "date": "2021-06-06T00:00:00.000Z",
+  "formattedDate": "2021年6月6日",
+  "tags": [
+    {
+      "label": "155个JavaScript基础问题",
+      "permalink": "/blog/tags/155-个-java-script基础问题"
+    }
+  ],
+  "readingTime": 3.12,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "155个JavaScript基础问题（31-40）",
+    "date": "2021-06-06T00:00:00.000Z",
+    "categories": "155个JavaScript基础问题",
+    "tags": [
+      "155个JavaScript基础问题"
+    ]
+  },
+  "prevItem": {
+    "title": "掘力计划月度榜单获奖感言",
+    "permalink": "/blog/掘力计划月度榜单获奖感言"
+  },
+  "nextItem": {
+    "title": "HOT100——电话号码的字母组合（JS实现）",
+    "permalink": "/blog/HOT100——电话号码的字母组合（JS实现）"
+  }
+}

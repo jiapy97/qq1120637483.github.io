@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/真·长安游记",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/真·长安游记.md",
+  "source": "@site/blog/真·长安游记.md",
+  "title": "真·长安游记",
+  "description": "真·长安游记",
+  "date": "2021-03-11T00:00:00.000Z",
+  "formattedDate": "2021年3月11日",
+  "tags": [
+    {
+      "label": "旅游",
+      "permalink": "/blog/tags/旅游"
+    }
+  ],
+  "readingTime": 4.91,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "真·长安游记",
+    "description": "真·长安游记",
+    "keywords": [
+      "西安",
+      "旅游"
+    ],
+    "tags": [
+      "旅游"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2021-03-11T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "星光不问赶路人",
+    "permalink": "/blog/星光不问赶路人"
+  },
+  "nextItem": {
+    "title": "申请 Jetbrains 开源项目授权",
+    "permalink": "/blog/申请 Jetbrains 开源项目授权"
+  }
+}

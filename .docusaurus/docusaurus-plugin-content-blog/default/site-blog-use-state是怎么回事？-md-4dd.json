@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/useState是怎么回事？",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/useState是怎么回事？.md",
+  "source": "@site/blog/useState是怎么回事？.md",
+  "title": "useState是怎么回事？",
+  "description": "Hooks意为钩子，React Hooks就是一堆钩子函数，React通过这些钩子函数对函数型组件进行增强，不同的钩子函数提供了不同的功能。钩子函数有一个特点，都是以use开头。",
+  "date": "2021-08-31T00:00:00.000Z",
+  "formattedDate": "2021年8月31日",
+  "tags": [
+    {
+      "label": "Hooks",
+      "permalink": "/blog/tags/hooks"
+    }
+  ],
+  "readingTime": 2.66,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "useState是怎么回事？",
+    "date": "2021-8-31",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Hooks",
+    "tags": [
+      "Hooks"
+    ]
+  },
+  "prevItem": {
+    "title": "需要掌握的Hooks之useReducer与useContext",
+    "permalink": "/blog/需要掌握的Hooks之useReducer与useContext"
+  },
+  "nextItem": {
+    "title": "LeetCode——去除重复字母（借助栈）",
+    "permalink": "/blog/LeetCode——去除重复字母（借助栈）"
+  }
+}

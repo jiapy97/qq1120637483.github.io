@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/使用reduce实现数组扁平化",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/使用reduce实现数组扁平化.md",
+  "source": "@site/blog\\使用reduce实现数组扁平化.md",
+  "title": "使用reduce实现数组扁平化",
+  "description": "实现的目标",
+  "date": "2022-03-23T00:00:00.000Z",
+  "formattedDate": "2022年3月23日",
+  "tags": [
+    {
+      "label": "面试题",
+      "permalink": "/blog/tags/面试题"
+    }
+  ],
+  "readingTime": 1.57,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "使用reduce实现数组扁平化",
+    "date": "2022-03-23T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "面试题",
+    "tags": [
+      "面试题"
+    ]
+  },
+  "prevItem": {
+    "title": "使用reduce实现map",
+    "permalink": "/blog/使用reduce实现map"
+  },
+  "nextItem": {
+    "title": "关于数组去重，你知道多少种方案？",
+    "permalink": "/blog/关于数组去重，你知道多少种方案？"
+  }
+}

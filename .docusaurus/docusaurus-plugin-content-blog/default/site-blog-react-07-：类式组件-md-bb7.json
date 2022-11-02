@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/React-07：类式组件",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/React-07：类式组件.md",
+  "source": "@site/blog\\React-07：类式组件.md",
+  "title": "React-07：类式组件",
+  "description": "创建类组件",
+  "date": "2021-04-05T00:00:00.000Z",
+  "formattedDate": "2021年4月5日",
+  "tags": [
+    {
+      "label": "React",
+      "permalink": "/blog/tags/react"
+    }
+  ],
+  "readingTime": 0.4,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "React-07：类式组件",
+    "date": "2021-04-05T00:00:00.000Z",
+    "categories": "React",
+    "tags": [
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "React-06：函数式组件",
+    "permalink": "/blog/React-06：函数式组件"
+  },
+  "nextItem": {
+    "title": "JS文件通过Node运行和HTML文件的script标签运行不一致的原因",
+    "permalink": "/blog/JS文件通过Node运行和HTML文件的script标签运行不一致的原因"
+  }
+}

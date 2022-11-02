@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/一行代码反转字符串",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/一行代码反转字符串.md",
+  "source": "@site/blog/一行代码反转字符串.md",
+  "title": "一行代码反转字符串",
+  "description": "代码如下",
+  "date": "2021-04-15T00:00:00.000Z",
+  "formattedDate": "2021年4月15日",
+  "tags": [
+    {
+      "label": "JavaScript常用API",
+      "permalink": "/blog/tags/java-script常用-api"
+    }
+  ],
+  "readingTime": 0.055,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "一行代码反转字符串",
+    "date": "2021-04-15T00:00:00.000Z",
+    "categories": "JavaScript常用API",
+    "tags": [
+      "JavaScript常用API"
+    ]
+  },
+  "prevItem": {
+    "title": "JS中的小数四舍五入之（toFixed方法）",
+    "permalink": "/blog/JS中的小数四舍五入之（toFixed方法）"
+  },
+  "nextItem": {
+    "title": "剑指Offer——从上到下打印二叉树II（JS实现）",
+    "permalink": "/blog/剑指Offer——从上到下打印二叉树II（JS实现）"
+  }
+}

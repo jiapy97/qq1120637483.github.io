@@ -1,0 +1,15 @@
+{
+  "title": "权限设计方案",
+  "slug": "/category/权限设计方案",
+  "permalink": "/devsec/category/权限设计方案",
+  "navigation": {
+    "previous": {
+      "title": "系统权限简明指南",
+      "permalink": "/devsec/系统权限/系统权限简明指南"
+    },
+    "next": {
+      "title": "主流权限系统的设计",
+      "permalink": "/devsec/系统权限/权限设计方案/主流权限系统的设计"
+    }
+  }
+}

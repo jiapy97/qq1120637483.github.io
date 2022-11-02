@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/Don`t Starve-饥荒",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Don`t Starve-饥荒.md",
+  "source": "@site/blog/Don`t Starve-饥荒.md",
+  "title": "Don't Starve-饥荒",
+  "description": "Don't Starve-饥荒",
+  "date": "2020-09-03T00:00:00.000Z",
+  "formattedDate": "2020年9月3日",
+  "tags": [
+    {
+      "label": "游戏",
+      "permalink": "/blog/tags/游戏"
+    }
+  ],
+  "readingTime": 6.59,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "Don't Starve-饥荒",
+    "description": "Don't Starve-饥荒",
+    "keywords": [
+      "游戏",
+      "饥荒"
+    ],
+    "tags": [
+      "游戏"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2020-09-03T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "「转载」提问的艺术",
+    "permalink": "/blog/「转载」提问的艺术"
+  },
+  "nextItem": {
+    "title": "数据恢复杂谈",
+    "permalink": "/blog/数据恢复杂谈"
+  }
+}

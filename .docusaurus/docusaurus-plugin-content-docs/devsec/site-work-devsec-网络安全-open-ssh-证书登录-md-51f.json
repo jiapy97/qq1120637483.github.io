@@ -1,0 +1,33 @@
+{
+  "unversionedId": "网络安全/OpenSSH/证书登录",
+  "id": "网络安全/OpenSSH/证书登录",
+  "title": "证书登录",
+  "description": "SSH 是服务器登录工具，一般情况下都采用密码登录或密钥登录。",
+  "source": "@site/work/devsec/网络安全/OpenSSH/证书登录.md",
+  "sourceDirName": "网络安全/OpenSSH",
+  "slug": "/网络安全/OpenSSH/证书登录",
+  "permalink": "/devsec/网络安全/OpenSSH/证书登录",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/work/devsec/网络安全/OpenSSH/证书登录.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "证书登录",
+    "title": "证书登录",
+    "sidebar_position": 6,
+    "data": "2022年4月13日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "端口转发",
+    "permalink": "/devsec/网络安全/OpenSSH/端口转发"
+  },
+  "next": {
+    "title": "scp 命令",
+    "permalink": "/devsec/网络安全/OpenSSH/scp 命令"
+  }
+}

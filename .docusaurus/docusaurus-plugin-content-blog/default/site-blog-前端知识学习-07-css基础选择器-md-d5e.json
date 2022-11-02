@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/前端知识学习07——CSS基础选择器",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/前端知识学习07——CSS基础选择器.md",
+  "source": "@site/blog\\前端知识学习07——CSS基础选择器.md",
+  "title": "前端知识学习07——CSS基础选择器",
+  "description": "CSS选择器进行样式书写的时候，都是在head标签里的style标签里进行的。",
+  "date": "2020-05-15T00:00:00.000Z",
+  "formattedDate": "2020年5月15日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/blog/tags/前端"
+    }
+  ],
+  "readingTime": 1.535,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "前端知识学习07——CSS基础选择器",
+    "date": "2020-05-15T00:00:00.000Z",
+    "categories": "前端",
+    "tags": [
+      "前端"
+    ]
+  },
+  "prevItem": {
+    "title": "激活PyCharm的方法",
+    "permalink": "/blog/激活PyCharm的方法"
+  },
+  "nextItem": {
+    "title": "前端知识学习06——注册小案例",
+    "permalink": "/blog/前端知识学习06——注册小案例"
+  }
+}

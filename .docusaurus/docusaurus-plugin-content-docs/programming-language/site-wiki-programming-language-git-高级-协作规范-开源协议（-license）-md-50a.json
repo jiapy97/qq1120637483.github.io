@@ -1,0 +1,33 @@
+{
+  "unversionedId": "Git/高级/协作规范/开源协议（License）",
+  "id": "Git/高级/协作规范/开源协议（License）",
+  "title": "开源协议（License）",
+  "description": "规范",
+  "source": "@site/wiki\\programming-language\\Git\\高级\\协作规范\\开源协议（License）.md",
+  "sourceDirName": "Git/高级/协作规范",
+  "slug": "/Git/高级/协作规范/开源协议（License）",
+  "permalink": "/programming-language/Git/高级/协作规范/开源协议（License）",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/Git/高级/协作规范/开源协议（License）.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "开源协议（License）",
+    "title": "开源协议（License）",
+    "data": "2022年6月15日",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "贡献者协议（Contributing）",
+    "permalink": "/programming-language/Git/高级/协作规范/贡献者协议（Contributing）"
+  },
+  "next": {
+    "title": "Github",
+    "permalink": "/programming-language/category/github"
+  }
+}

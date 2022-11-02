@@ -1,0 +1,33 @@
+{
+  "unversionedId": "网络安全/OpenSSH/服务器",
+  "id": "网络安全/OpenSSH/服务器",
+  "title": "服务器",
+  "description": "简介",
+  "source": "@site/work/devsec/网络安全/OpenSSH/服务器.md",
+  "sourceDirName": "网络安全/OpenSSH",
+  "slug": "/网络安全/OpenSSH/服务器",
+  "permalink": "/devsec/网络安全/OpenSSH/服务器",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/work/devsec/网络安全/OpenSSH/服务器.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "服务器",
+    "title": "服务器",
+    "sidebar_position": 4,
+    "data": "2022年4月13日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "密钥登录",
+    "permalink": "/devsec/网络安全/OpenSSH/密钥登录"
+  },
+  "next": {
+    "title": "端口转发",
+    "permalink": "/devsec/网络安全/OpenSSH/端口转发"
+  }
+}

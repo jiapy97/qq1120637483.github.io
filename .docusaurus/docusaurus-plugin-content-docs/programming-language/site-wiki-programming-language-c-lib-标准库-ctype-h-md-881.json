@@ -1,0 +1,27 @@
+{
+  "unversionedId": "C/lib 标准库/ctype.h",
+  "id": "C/lib 标准库/ctype.h",
+  "title": "ctype.h",
+  "description": "ctype.h头文件定义了一系列字符处理函数的原型。",
+  "source": "@site/wiki/programming-language/C/lib 标准库/ctype.h.md",
+  "sourceDirName": "C/lib 标准库",
+  "slug": "/C/lib 标准库/ctype.h",
+  "permalink": "/programming-language/C/lib 标准库/ctype.h",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/C/lib 标准库/ctype.h.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "assert.h",
+    "permalink": "/programming-language/C/lib 标准库/assert.h"
+  },
+  "next": {
+    "title": "errno.h",
+    "permalink": "/programming-language/C/lib 标准库/errno.h"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/Ajax-13：取消请求",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Ajax-13：取消请求.md",
+  "source": "@site/blog\\Ajax-13：取消请求.md",
+  "title": "Ajax-13：取消请求",
+  "description": "通过Ajax的abort方法取消请求",
+  "date": "2021-03-24T00:00:00.000Z",
+  "formattedDate": "2021年3月24日",
+  "tags": [
+    {
+      "label": "Ajax",
+      "permalink": "/blog/tags/ajax"
+    }
+  ],
+  "readingTime": 0.095,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Ajax-13：取消请求",
+    "date": "2021-03-24T00:00:00.000Z",
+    "categories": "Ajax",
+    "tags": [
+      "Ajax"
+    ]
+  },
+  "prevItem": {
+    "title": "Ajax-12：请求超时与异常处理",
+    "permalink": "/blog/Ajax-12：请求超时与异常处理"
+  },
+  "nextItem": {
+    "title": "Ajax-14：请求重复发送问题",
+    "permalink": "/blog/Ajax-14：请求重复发送问题"
+  }
+}

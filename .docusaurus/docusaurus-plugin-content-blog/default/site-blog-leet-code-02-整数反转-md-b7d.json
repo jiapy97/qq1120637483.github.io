@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/LeetCode——02.整数反转",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/LeetCode——02.整数反转.md",
+  "source": "@site/blog/LeetCode——02.整数反转.md",
+  "title": "LeetCode——02.整数反转",
+  "description": "第7题（整数反转）",
+  "date": "2020-05-25T00:00:00.000Z",
+  "formattedDate": "2020年5月25日",
+  "tags": [
+    {
+      "label": "LeetCode",
+      "permalink": "/blog/tags/leet-code"
+    }
+  ],
+  "readingTime": 0.825,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "LeetCode——02.整数反转",
+    "date": "2020-05-25T00:00:00.000Z",
+    "categories": "LeetCode",
+    "tags": [
+      "LeetCode"
+    ]
+  },
+  "prevItem": {
+    "title": "LeetCode——01.两数之和",
+    "permalink": "/blog/LeetCode——01.两数之和"
+  },
+  "nextItem": {
+    "title": "python——split和join函数",
+    "permalink": "/blog/python——split和join函数"
+  }
+}

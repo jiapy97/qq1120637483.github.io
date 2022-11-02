@@ -1,0 +1,33 @@
+{
+  "unversionedId": "C/Enum 类型",
+  "id": "C/Enum 类型",
+  "title": "Enum 类型",
+  "description": "如果一种数据类型的取值只有少数几种可能，并且每种取值都有自己的含义，为了提高代码的可读性，可以将它们定义为 Enum 类型，中文名为枚举。",
+  "source": "@site/wiki/programming-language/C/Enum 类型.md",
+  "sourceDirName": "C",
+  "slug": "/C/Enum 类型",
+  "permalink": "/programming-language/C/Enum 类型",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/C/Enum 类型.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "id": "Enum 类型",
+    "title": "Enum 类型",
+    "sidebar_position": 15,
+    "data": "2022年3月30日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Union 结构",
+    "permalink": "/programming-language/C/Union 结构"
+  },
+  "next": {
+    "title": "预处理器",
+    "permalink": "/programming-language/C/预处理器"
+  }
+}

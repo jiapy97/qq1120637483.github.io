@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/英雄联盟 S8 全球总决赛",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/英雄联盟 S8 全球总决赛.md",
+  "source": "@site/blog/英雄联盟 S8 全球总决赛.md",
+  "title": "英雄联盟 S8 全球总决赛",
+  "description": "英雄联盟 S8 全球总决赛",
+  "date": "2018-11-03T00:00:00.000Z",
+  "formattedDate": "2018年11月3日",
+  "tags": [
+    {
+      "label": "游戏",
+      "permalink": "/blog/tags/游戏"
+    }
+  ],
+  "readingTime": 0.175,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "英雄联盟 S8 全球总决赛",
+    "description": "英雄联盟 S8 全球总决赛",
+    "keywords": [
+      "英雄联盟",
+      "游戏"
+    ],
+    "tags": [
+      "游戏"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2018-11-03T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "螺蛳粉",
+    "permalink": "/blog/螺蛳粉"
+  },
+  "nextItem": {
+    "title": "如何免费创建一个属于自己的网站",
+    "permalink": "/blog/如何免费创建一个属于自己的网站"
+  }
+}

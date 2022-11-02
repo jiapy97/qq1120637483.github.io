@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/带你从零学会---基于JWT的接口权限验证",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/带你从零学会---基于JWT的接口权限验证.md",
+  "source": "@site/blog/带你从零学会---基于JWT的接口权限验证.md",
+  "title": "带你从零学会---基于JWT的接口权限验证",
+  "description": "服务端配置JWT的方法",
+  "date": "2021-12-29T00:00:00.000Z",
+  "formattedDate": "2021年12月29日",
+  "tags": [
+    {
+      "label": "Egg.js",
+      "permalink": "/blog/tags/egg-js"
+    }
+  ],
+  "readingTime": 4.325,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "带你从零学会---基于JWT的接口权限验证",
+    "date": "2021-12-29T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Egg.js",
+    "tags": [
+      "Egg.js"
+    ]
+  },
+  "prevItem": {
+    "title": "Webpack中externals与dll",
+    "permalink": "/blog/Webpack中externals与dll"
+  },
+  "nextItem": {
+    "title": "Egg.js中合成图片二维码的方法",
+    "permalink": "/blog/Egg.js中合成图片二维码的方法"
+  }
+}

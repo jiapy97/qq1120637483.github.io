@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/Webpack中externals与dll",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Webpack中externals与dll.md",
+  "source": "@site/blog/Webpack中externals与dll.md",
+  "title": "Webpack中externals与dll",
+  "description": "externals",
+  "date": "2021-12-30T00:00:00.000Z",
+  "formattedDate": "2021年12月30日",
+  "tags": [
+    {
+      "label": "webpack",
+      "permalink": "/blog/tags/webpack"
+    }
+  ],
+  "readingTime": 2.36,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "Webpack中externals与dll",
+    "date": "2021-12-30T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "webpack",
+    "tags": [
+      "webpack"
+    ]
+  },
+  "prevItem": {
+    "title": "这一次，彻底搞懂ES6新特性",
+    "permalink": "/blog/这一次，彻底搞懂ES6新特性"
+  },
+  "nextItem": {
+    "title": "带你从零学会---基于JWT的接口权限验证",
+    "permalink": "/blog/带你从零学会---基于JWT的接口权限验证"
+  }
+}

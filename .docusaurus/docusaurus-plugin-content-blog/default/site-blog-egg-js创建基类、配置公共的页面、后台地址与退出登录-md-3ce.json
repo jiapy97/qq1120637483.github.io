@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/Egg.js创建基类、配置公共的页面、后台地址与退出登录",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Egg.js创建基类、配置公共的页面、后台地址与退出登录.md",
+  "source": "@site/blog\\Egg.js创建基类、配置公共的页面、后台地址与退出登录.md",
+  "title": "Egg.js创建基类、配置公共的页面、后台地址与退出登录",
+  "description": "通过HTML的meta标签实现指定时间后的页面跳转",
+  "date": "2021-11-18T00:00:00.000Z",
+  "formattedDate": "2021年11月18日",
+  "tags": [
+    {
+      "label": "Egg.js",
+      "permalink": "/blog/tags/egg-js"
+    }
+  ],
+  "readingTime": 3.58,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "Egg.js创建基类、配置公共的页面、后台地址与退出登录",
+    "date": "2021-11-18T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Egg.js",
+    "tags": [
+      "Egg.js"
+    ]
+  },
+  "prevItem": {
+    "title": "面试官：请实现单行文本居中，多行文本左对齐？",
+    "permalink": "/blog/面试官：请实现单行文本居中，多行文本左对齐？"
+  },
+  "nextItem": {
+    "title": "Egg.js中复用静态页面逻辑、局部刷新架构、生成验证码",
+    "permalink": "/blog/Egg.js中复用静态页面逻辑、局部刷新架构、生成验证码"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/前端知识学习29——CSS之定位",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/前端知识学习29——CSS之定位.md",
+  "source": "@site/blog/前端知识学习29——CSS之定位.md",
+  "title": "前端知识学习29——CSS之定位",
+  "description": "1：为什么需要定位？",
+  "date": "2020-09-26T00:00:00.000Z",
+  "formattedDate": "2020年9月26日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/blog/tags/前端"
+    }
+  ],
+  "readingTime": 4.54,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "前端知识学习29——CSS之定位",
+    "date": "2020-09-26T00:00:00.000Z",
+    "categories": "前端",
+    "tags": [
+      "前端"
+    ]
+  },
+  "prevItem": {
+    "title": "摘要的四个组成要素",
+    "permalink": "/blog/摘要的四个组成要素"
+  },
+  "nextItem": {
+    "title": "前端知识学习30——淘宝焦点图布局",
+    "permalink": "/blog/前端知识学习30——淘宝焦点图布局"
+  }
+}

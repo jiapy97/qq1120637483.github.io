@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/这一次，彻底搞懂React生命周期",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/这一次，彻底搞懂React生命周期.md",
+  "source": "@site/blog/这一次，彻底搞懂React生命周期.md",
+  "title": "这一次，彻底搞懂React生命周期",
+  "description": "本文采用总分总的结构，首先给出React生命周期流程图，让大家知道我们的研究目标是什么，第二部分则分别对React生命周期中的重点难点的生命钩子函数进行介绍。第三部分给出React生命周期的总结。",
+  "date": "2021-07-20T00:00:00.000Z",
+  "formattedDate": "2021年7月20日",
+  "tags": [
+    {
+      "label": "React",
+      "permalink": "/blog/tags/react"
+    }
+  ],
+  "readingTime": 3.785,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "这一次，彻底搞懂React生命周期",
+    "date": "2021-7-20",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "React",
+    "tags": [
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "TypeScript介绍--(TypeScript 01)",
+    "permalink": "/blog/TypeScript介绍--(TypeScript 01)"
+  },
+  "nextItem": {
+    "title": "React中的setState更新state是同步还是异步的？",
+    "permalink": "/blog/React中的setState更新state是同步还是异步的？"
+  }
+}

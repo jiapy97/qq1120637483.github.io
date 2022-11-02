@@ -1,0 +1,15 @@
+{
+  "title": "云服务",
+  "slug": "/category/云服务",
+  "permalink": "/docs/category/云服务",
+  "navigation": {
+    "previous": {
+      "title": "Home",
+      "permalink": "/docs/"
+    },
+    "next": {
+      "title": "基本概念",
+      "permalink": "/docs/云服务/基本概念"
+    }
+  }
+}

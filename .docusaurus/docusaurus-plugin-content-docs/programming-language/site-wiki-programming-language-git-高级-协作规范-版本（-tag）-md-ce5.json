@@ -1,0 +1,33 @@
+{
+  "unversionedId": "Git/高级/协作规范/版本（Tag）",
+  "id": "Git/高级/协作规范/版本（Tag）",
+  "title": "版本（Tag）",
+  "description": "规范",
+  "source": "@site/wiki\\programming-language\\Git\\高级\\协作规范\\版本（Tag）.md",
+  "sourceDirName": "Git/高级/协作规范",
+  "slug": "/Git/高级/协作规范/版本（Tag）",
+  "permalink": "/programming-language/Git/高级/协作规范/版本（Tag）",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/Git/高级/协作规范/版本（Tag）.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "版本（Tag）",
+    "title": "版本（Tag）",
+    "data": "2022年6月15日",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "日志（Commit）",
+    "permalink": "/programming-language/Git/高级/协作规范/日志（Commit）"
+  },
+  "next": {
+    "title": "关于（Readme）",
+    "permalink": "/programming-language/Git/高级/协作规范/关于（Readme）"
+  }
+}

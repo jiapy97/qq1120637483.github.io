@@ -1,0 +1,33 @@
+{
+  "unversionedId": "云服务/基本概念",
+  "id": "云服务/基本概念",
+  "title": "基本概念",
+  "description": "云计算优势",
+  "source": "@site/docs/云服务/基本概念.md",
+  "sourceDirName": "云服务",
+  "slug": "/云服务/基本概念",
+  "permalink": "/docs/云服务/基本概念",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/docs/云服务/基本概念.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "基本概念",
+    "title": "基本概念",
+    "sidebar_position": 1,
+    "data": "2022年4月14日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "云服务",
+    "permalink": "/docs/category/云服务"
+  },
+  "next": {
+    "title": "核心体系",
+    "permalink": "/docs/云服务/Azure/核心体系"
+  }
+}

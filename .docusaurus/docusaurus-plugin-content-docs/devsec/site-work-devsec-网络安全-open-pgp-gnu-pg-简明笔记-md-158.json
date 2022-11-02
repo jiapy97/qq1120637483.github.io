@@ -1,0 +1,31 @@
+{
+  "unversionedId": "网络安全/OpenPGP/GnuPG 简明笔记",
+  "id": "网络安全/OpenPGP/GnuPG 简明笔记",
+  "title": "GnuPG 简明笔记",
+  "description": "简介",
+  "source": "@site/work/devsec/网络安全/OpenPGP/GnuPG 简明笔记.md",
+  "sourceDirName": "网络安全/OpenPGP",
+  "slug": "/网络安全/OpenPGP/GnuPG 简明笔记",
+  "permalink": "/devsec/网络安全/OpenPGP/GnuPG 简明笔记",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/work/devsec/网络安全/OpenPGP/GnuPG 简明笔记.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "id": "GnuPG 简明笔记",
+    "title": "GnuPG 简明笔记",
+    "data": "2022年1月25日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "一键登录",
+    "permalink": "/devsec/系统权限/鉴权解决方案/一键登录（适用于原生APP）"
+  },
+  "next": {
+    "title": "简介",
+    "permalink": "/devsec/网络安全/OpenSSH/简介"
+  }
+}

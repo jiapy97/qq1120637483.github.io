@@ -1,0 +1,29 @@
+{
+  "unversionedId": "home",
+  "id": "home",
+  "title": "开源社区",
+  "description": "LINUX-LOGO",
+  "source": "@site/group/organization/home.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/org/",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/group/organization/home.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "/",
+    "sidebar_position": 1,
+    "id": "home",
+    "title": "开源社区"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "开源入门",
+    "permalink": "/org/category/开源入门"
+  }
+}

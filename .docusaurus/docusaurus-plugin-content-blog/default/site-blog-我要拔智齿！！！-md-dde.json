@@ -1,0 +1,48 @@
+{
+  "permalink": "/blog/我要拔智齿！！！",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/我要拔智齿！！！.md",
+  "source": "@site/blog/我要拔智齿！！！.md",
+  "title": "我要拔智齿！！！",
+  "description": "我要拔智齿！！！",
+  "date": "2022-03-24T00:00:00.000Z",
+  "formattedDate": "2022年3月24日",
+  "tags": [
+    {
+      "label": "日记",
+      "permalink": "/blog/tags/日记"
+    }
+  ],
+  "readingTime": 2.42,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "我要拔智齿！！！",
+    "description": "我要拔智齿！！！",
+    "keywords": [
+      "智齿"
+    ],
+    "tags": [
+      "日记"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2022-03-24T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "你还记得曾经的梦想么？",
+    "permalink": "/blog/你还记得曾经的梦想么？"
+  },
+  "nextItem": {
+    "title": "「引用」博客的本质是电线杆子",
+    "permalink": "/blog/「引用」博客的本质是电线杆子"
+  }
+}

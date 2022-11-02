@@ -1,0 +1,46 @@
+{
+  "unversionedId": "系统权限/鉴权解决方案/一键登录（适用于原生APP）",
+  "id": "系统权限/鉴权解决方案/一键登录（适用于原生APP）",
+  "title": "一键登录",
+  "description": "一键登录",
+  "source": "@site/work/devsec/系统权限/鉴权解决方案/一键登录（适用于原生APP）.md",
+  "sourceDirName": "系统权限/鉴权解决方案",
+  "slug": "/系统权限/鉴权解决方案/一键登录（适用于原生APP）",
+  "permalink": "/devsec/系统权限/鉴权解决方案/一键登录（适用于原生APP）",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/work/devsec/系统权限/鉴权解决方案/一键登录（适用于原生APP）.md",
+  "tags": [
+    {
+      "label": "权限",
+      "permalink": "/devsec/tags/权限"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "一键登录",
+    "description": "一键登录",
+    "keywords": [
+      "一键登录",
+      "APP"
+    ],
+    "tags": [
+      "权限"
+    ],
+    "sidebar_position": 10,
+    "author": "7Wate",
+    "date": "2022-08-31T00:00:00.000Z"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "扫码登录",
+    "permalink": "/devsec/系统权限/鉴权解决方案/扫码登录"
+  },
+  "next": {
+    "title": "GnuPG 简明笔记",
+    "permalink": "/devsec/网络安全/OpenPGP/GnuPG 简明笔记"
+  }
+}

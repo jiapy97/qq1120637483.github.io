@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/LeetCode——从尾到头打印链表",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/LeetCode——从尾到头打印链表.md",
+  "source": "@site/blog\\LeetCode——从尾到头打印链表.md",
+  "title": "LeetCode——从尾到头打印链表",
+  "description": "题目描述",
+  "date": "2021-04-01T00:00:00.000Z",
+  "formattedDate": "2021年4月1日",
+  "tags": [
+    {
+      "label": "LeetCode",
+      "permalink": "/blog/tags/leet-code"
+    }
+  ],
+  "readingTime": 0.465,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "LeetCode——从尾到头打印链表",
+    "date": "2021-04-01T00:00:00.000Z",
+    "categories": "LeetCode",
+    "tags": [
+      "LeetCode"
+    ]
+  },
+  "prevItem": {
+    "title": "React-05：虚拟DOM中只能写JS的表达式",
+    "permalink": "/blog/React-05：虚拟DOM中只能写JS的表达式"
+  },
+  "nextItem": {
+    "title": "npm安装指定版本的包",
+    "permalink": "/blog/npm安装指定版本的包"
+  }
+}

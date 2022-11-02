@@ -1,0 +1,46 @@
+{
+  "unversionedId": "MySQL/SQL 语句",
+  "id": "MySQL/SQL 语句",
+  "title": "SQL 语句",
+  "description": "SQL 语句",
+  "source": "@site/wiki\\programming-language\\MySQL\\SQL 语句.md",
+  "sourceDirName": "MySQL",
+  "slug": "/MySQL/SQL 语句",
+  "permalink": "/programming-language/MySQL/SQL 语句",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/MySQL/SQL 语句.md",
+  "tags": [
+    {
+      "label": "SQL",
+      "permalink": "/programming-language/tags/sql"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "SQL 语句",
+    "description": "SQL 语句",
+    "keywords": [
+      "SQL",
+      "语句"
+    ],
+    "tags": [
+      "SQL"
+    ],
+    "sidebar_position": 2,
+    "author": "7Wate",
+    "date": "2022-08-31T00:00:00.000Z"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "数据库概述",
+    "permalink": "/programming-language/MySQL/数据库概述"
+  },
+  "next": {
+    "title": "SQL 函数",
+    "permalink": "/programming-language/MySQL/SQL 函数"
+  }
+}

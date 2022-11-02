@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/Webpack中处理Eslint、处理JS兼容性、压缩JS与HTML",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Webpack中处理Eslint、处理JS兼容性、压缩JS与HTML.md",
+  "source": "@site/blog\\Webpack中处理Eslint、处理JS兼容性、压缩JS与HTML.md",
+  "title": "Webpack中处理Eslint、处理JS兼容性、压缩JS与HTML",
+  "description": "一、引入Eslint",
+  "date": "2021-12-01T00:00:00.000Z",
+  "formattedDate": "2021年12月1日",
+  "tags": [
+    {
+      "label": "Webpack",
+      "permalink": "/blog/tags/webpack"
+    }
+  ],
+  "readingTime": 2.615,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "Webpack中处理Eslint、处理JS兼容性、压缩JS与HTML",
+    "date": "2021-12-01T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Webpack",
+    "tags": [
+      "Webpack"
+    ]
+  },
+  "prevItem": {
+    "title": "Webpack中生产环境的基本配置与HMR的使用",
+    "permalink": "/blog/Webpack中生产环境的基本配置与HMR的使用"
+  },
+  "nextItem": {
+    "title": "Webpack引入dev-server实现自动编译运行并搭建基本的开发环境与CSS处理",
+    "permalink": "/blog/Webpack引入dev-server实现自动编译运行并搭建基本的开发环境与CSS处理"
+  }
+}

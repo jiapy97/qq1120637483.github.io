@@ -1,0 +1,284 @@
+{
+  "pluginId": "life",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Home",
+        "href": "/life/",
+        "docId": "home"
+      },
+      {
+        "type": "category",
+        "label": "健身",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "饮食公式",
+            "href": "/life/健身/饮食公式",
+            "docId": "健身/饮食公式"
+          },
+          {
+            "type": "link",
+            "label": "热身",
+            "href": "/life/健身/热身",
+            "docId": "健身/热身"
+          },
+          {
+            "type": "link",
+            "label": "核心训练",
+            "href": "/life/健身/核心训练",
+            "docId": "健身/核心训练"
+          },
+          {
+            "type": "link",
+            "label": "上肢训练",
+            "href": "/life/健身/上肢训练",
+            "docId": "健身/上肢训练"
+          },
+          {
+            "type": "link",
+            "label": "下肢训练",
+            "href": "/life/健身/下肢训练",
+            "docId": "健身/下肢训练"
+          },
+          {
+            "type": "link",
+            "label": "拉伸放松",
+            "href": "/life/健身/拉伸放松",
+            "docId": "健身/拉伸放松"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "阅读",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "如何阅读一本书",
+            "href": "/life/阅读/如何阅读一本书",
+            "docId": "阅读/如何阅读一本书"
+          },
+          {
+            "type": "link",
+            "label": "认知觉醒",
+            "href": "/life/阅读/认知觉醒",
+            "docId": "阅读/认知觉醒"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "食谱",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "凉菜",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "万能凉拌料",
+                "href": "/life/食谱/凉菜/万能凉拌料",
+                "docId": "食谱/凉菜/万能凉拌料"
+              },
+              {
+                "type": "link",
+                "label": "凉菜食材处理",
+                "href": "/life/食谱/凉菜/凉菜食材处理",
+                "docId": "食谱/凉菜/凉菜食材处理"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "午餐",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "番茄鸡蛋盖饭",
+                "href": "/life/食谱/午餐/番茄鸡蛋盖饭",
+                "docId": "食谱/午餐/番茄鸡蛋盖饭"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "早餐",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "三明治",
+                "href": "/life/食谱/早餐/三明治",
+                "docId": "食谱/早餐/三明治"
+              },
+              {
+                "type": "link",
+                "label": "花样蒸蛋",
+                "href": "/life/食谱/早餐/花样蒸蛋",
+                "docId": "食谱/早餐/花样蒸蛋"
+              },
+              {
+                "type": "link",
+                "label": "蒸蛋",
+                "href": "/life/食谱/早餐/蒸蛋",
+                "docId": "食谱/早餐/蒸蛋"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "烧烤",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "准备工作",
+                "href": "/life/食谱/烧烤/准备工作",
+                "docId": "食谱/烧烤/准备工作"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "零食",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "炸薯条",
+                "href": "/life/食谱/零食/炸薯条",
+                "docId": "食谱/零食/炸薯条"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "健身/核心训练": {
+      "id": "健身/核心训练",
+      "title": "核心训练",
+      "description": "初级",
+      "sidebar": "tutorialSidebar"
+    },
+    "健身/拉伸放松": {
+      "id": "健身/拉伸放松",
+      "title": "拉伸放松",
+      "description": "拉伸",
+      "sidebar": "tutorialSidebar"
+    },
+    "健身/热身": {
+      "id": "健身/热身",
+      "title": "热身",
+      "description": "开合跳",
+      "sidebar": "tutorialSidebar"
+    },
+    "健身/上肢训练": {
+      "id": "健身/上肢训练",
+      "title": "上肢训练",
+      "description": "俯卧撑",
+      "sidebar": "tutorialSidebar"
+    },
+    "健身/下肢训练": {
+      "id": "健身/下肢训练",
+      "title": "下肢训练",
+      "description": "深蹲",
+      "sidebar": "tutorialSidebar"
+    },
+    "健身/饮食公式": {
+      "id": "健身/饮食公式",
+      "title": "饮食公式",
+      "description": "餐食",
+      "sidebar": "tutorialSidebar"
+    },
+    "食谱/凉菜/凉菜食材处理": {
+      "id": "食谱/凉菜/凉菜食材处理",
+      "title": "凉菜食材处理",
+      "description": "花生",
+      "sidebar": "tutorialSidebar"
+    },
+    "食谱/凉菜/万能凉拌料": {
+      "id": "食谱/凉菜/万能凉拌料",
+      "title": "万能凉拌料",
+      "description": "万能凉拌料",
+      "sidebar": "tutorialSidebar"
+    },
+    "食谱/零食/炸薯条": {
+      "id": "食谱/零食/炸薯条",
+      "title": "炸薯条",
+      "description": "食材",
+      "sidebar": "tutorialSidebar"
+    },
+    "食谱/烧烤/准备工作": {
+      "id": "食谱/烧烤/准备工作",
+      "title": "准备工作",
+      "description": "物品",
+      "sidebar": "tutorialSidebar"
+    },
+    "食谱/午餐/番茄鸡蛋盖饭": {
+      "id": "食谱/午餐/番茄鸡蛋盖饭",
+      "title": "番茄鸡蛋盖饭",
+      "description": "食材",
+      "sidebar": "tutorialSidebar"
+    },
+    "食谱/早餐/花样蒸蛋": {
+      "id": "食谱/早餐/花样蒸蛋",
+      "title": "花样蒸蛋",
+      "description": "纯蒸蛋的方法不适用于花样蒸蛋，务必细看！",
+      "sidebar": "tutorialSidebar"
+    },
+    "食谱/早餐/三明治": {
+      "id": "食谱/早餐/三明治",
+      "title": "三明治",
+      "description": "食材准备",
+      "sidebar": "tutorialSidebar"
+    },
+    "食谱/早餐/蒸蛋": {
+      "id": "食谱/早餐/蒸蛋",
+      "title": "蒸蛋",
+      "description": "食材",
+      "sidebar": "tutorialSidebar"
+    },
+    "阅读/认知觉醒": {
+      "id": "阅读/认知觉醒",
+      "title": "认知觉醒",
+      "description": "认知觉醒：开启自我改变的原动力读书笔记",
+      "sidebar": "tutorialSidebar"
+    },
+    "阅读/如何阅读一本书": {
+      "id": "阅读/如何阅读一本书",
+      "title": "如何阅读一本书",
+      "description": "如何阅读一本书的读书笔记",
+      "sidebar": "tutorialSidebar"
+    },
+    "home": {
+      "id": "home",
+      "title": "Home",
+      "description": "记录归类平时生活中的小笔记 ~ 🤩🤩🤩",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/「转载」人生",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/「转载」人生.md",
+  "source": "@site/blog/「转载」人生.md",
+  "title": "「转载」人生",
+  "description": "「转载」人生",
+  "date": "2020-06-30T00:00:00.000Z",
+  "formattedDate": "2020年6月30日",
+  "tags": [
+    {
+      "label": "转载",
+      "permalink": "/blog/tags/转载"
+    }
+  ],
+  "readingTime": 0.8,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "「转载」人生",
+    "description": "「转载」人生",
+    "keywords": [
+      "人生",
+      "诗歌"
+    ],
+    "tags": [
+      "转载"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2020-06-30T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "开源软件之道",
+    "permalink": "/blog/开源软件之道"
+  },
+  "nextItem": {
+    "title": "初号机，起飞！",
+    "permalink": "/blog/初号机，起飞！"
+  }
+}

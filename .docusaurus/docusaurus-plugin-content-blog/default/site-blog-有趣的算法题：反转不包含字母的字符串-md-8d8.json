@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/有趣的算法题：反转不包含字母的字符串",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/有趣的算法题：反转不包含字母的字符串.md",
+  "source": "@site/blog\\有趣的算法题：反转不包含字母的字符串.md",
+  "title": "有趣的算法题：反转不包含字母的字符串",
+  "description": "题目描述",
+  "date": "2021-12-10T00:00:00.000Z",
+  "formattedDate": "2021年12月10日",
+  "tags": [
+    {
+      "label": "面试题",
+      "permalink": "/blog/tags/面试题"
+    }
+  ],
+  "readingTime": 1.44,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "有趣的算法题：反转不包含字母的字符串",
+    "date": "2021-12-10T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "面试题",
+    "tags": [
+      "面试题"
+    ]
+  },
+  "prevItem": {
+    "title": "Egg.js中封装Ajax，异步改变数据状态与分页功能的实现",
+    "permalink": "/blog/Egg.js中封装Ajax，异步改变数据状态与分页功能的实现"
+  },
+  "nextItem": {
+    "title": "LeetCode——二叉树的最大深度（递归法+层序遍历）",
+    "permalink": "/blog/LeetCode——二叉树的最大深度（递归法+层序遍历）"
+  }
+}

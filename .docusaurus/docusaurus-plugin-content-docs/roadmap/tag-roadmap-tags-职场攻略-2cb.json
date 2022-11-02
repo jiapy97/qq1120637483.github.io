@@ -1,0 +1,26 @@
+{
+  "label": "职场攻略",
+  "permalink": "/roadmap/tags/职场攻略",
+  "allTagsPath": "/roadmap/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "职场攻略/绩效考核",
+      "title": "绩效考核",
+      "description": "常见绩效考核",
+      "permalink": "/roadmap/职场攻略/绩效考核"
+    },
+    {
+      "id": "职场攻略/社会保障",
+      "title": "社会保障",
+      "description": "工作的社会保障，五险一金、六险二金",
+      "permalink": "/roadmap/职场攻略/社会保障"
+    },
+    {
+      "id": "职场攻略/薪酬制度",
+      "title": "薪酬制度",
+      "description": "工资、薪酬制度",
+      "permalink": "/roadmap/职场攻略/薪酬制度"
+    }
+  ]
+}

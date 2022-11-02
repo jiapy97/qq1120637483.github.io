@@ -1,0 +1,48 @@
+{
+  "permalink": "/blog/初号机，起飞！",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/初号机，起飞！.md",
+  "source": "@site/blog/初号机，起飞！.md",
+  "title": "初号机，起飞！",
+  "description": "初号机，起飞！",
+  "date": "2020-06-12T00:00:00.000Z",
+  "formattedDate": "2020年6月12日",
+  "tags": [
+    {
+      "label": "硬件",
+      "permalink": "/blog/tags/硬件"
+    }
+  ],
+  "readingTime": 7.26,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "初号机，起飞！",
+    "description": "初号机，起飞！",
+    "keywords": [
+      "电脑"
+    ],
+    "tags": [
+      "硬件"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2020-06-12T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "「转载」人生",
+    "permalink": "/blog/「转载」人生"
+  },
+  "nextItem": {
+    "title": "「转载」余光中：怎样改进英式中文？",
+    "permalink": "/blog/「转载」余光中：怎样改进英式中文？"
+  }
+}

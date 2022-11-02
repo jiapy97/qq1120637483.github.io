@@ -1,0 +1,46 @@
+{
+  "unversionedId": "MySQL/数据库事务",
+  "id": "MySQL/数据库事务",
+  "title": "数据库事务",
+  "description": "数据库事务",
+  "source": "@site/wiki/programming-language/MySQL/数据库事务.md",
+  "sourceDirName": "MySQL",
+  "slug": "/MySQL/数据库事务",
+  "permalink": "/programming-language/MySQL/数据库事务",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/MySQL/数据库事务.md",
+  "tags": [
+    {
+      "label": "SQL",
+      "permalink": "/programming-language/tags/sql"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "数据库事务",
+    "description": "数据库事务",
+    "keywords": [
+      "数据库",
+      "事务"
+    ],
+    "tags": [
+      "SQL"
+    ],
+    "sidebar_position": 6,
+    "author": "7Wate",
+    "date": "2022-08-31T00:00:00.000Z"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "数据库查询",
+    "permalink": "/programming-language/MySQL/数据库查询"
+  },
+  "next": {
+    "title": "数据库规范",
+    "permalink": "/programming-language/MySQL/数据库规范"
+  }
+}

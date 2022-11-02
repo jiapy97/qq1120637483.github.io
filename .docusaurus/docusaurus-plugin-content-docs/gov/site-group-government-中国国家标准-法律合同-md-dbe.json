@@ -1,0 +1,27 @@
+{
+  "unversionedId": "中国国家标准/法律合同",
+  "id": "中国国家标准/法律合同",
+  "title": "法律合同",
+  "description": "官方",
+  "source": "@site/group\\government\\中国国家标准\\法律合同.md",
+  "sourceDirName": "中国国家标准",
+  "slug": "/中国国家标准/法律合同",
+  "permalink": "/gov/中国国家标准/法律合同",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/group/government/中国国家标准/法律合同.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "id": "法律合同",
+    "title": "法律合同",
+    "data": "2022年7月11日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "标准组织",
+    "permalink": "/gov/中国国家标准/标准组织"
+  }
+}

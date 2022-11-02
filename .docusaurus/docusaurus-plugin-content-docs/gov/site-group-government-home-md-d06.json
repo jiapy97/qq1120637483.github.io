@@ -1,0 +1,29 @@
+{
+  "unversionedId": "home",
+  "id": "home",
+  "title": "概述",
+  "description": "国家政府",
+  "source": "@site/group/government/home.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/gov/",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/group/government/home.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "/",
+    "sidebar_position": 1,
+    "id": "home",
+    "title": "概述"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "中国",
+    "permalink": "/gov/category/中国"
+  }
+}

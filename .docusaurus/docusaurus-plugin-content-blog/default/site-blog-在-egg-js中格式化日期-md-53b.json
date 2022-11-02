@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/在Egg.js中格式化日期",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/在Egg.js中格式化日期.md",
+  "source": "@site/blog\\在Egg.js中格式化日期.md",
+  "title": "在Egg.js中格式化日期",
+  "description": "将时间戳格式化为时分秒",
+  "date": "2022-01-03T00:00:00.000Z",
+  "formattedDate": "2022年1月3日",
+  "tags": [
+    {
+      "label": "Egg.js",
+      "permalink": "/blog/tags/egg-js"
+    }
+  ],
+  "readingTime": 0.345,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "在Egg.js中格式化日期",
+    "date": "2022-01-03T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Egg.js",
+    "tags": [
+      "Egg.js"
+    ]
+  },
+  "prevItem": {
+    "title": "Vue与antd结合使用",
+    "permalink": "/blog/Vue与antd结合使用"
+  },
+  "nextItem": {
+    "title": "图解前端调试工具Chrome Dev Tools的使用",
+    "permalink": "/blog/图解前端调试工具Chrome Dev Tools的使用"
+  }
+}

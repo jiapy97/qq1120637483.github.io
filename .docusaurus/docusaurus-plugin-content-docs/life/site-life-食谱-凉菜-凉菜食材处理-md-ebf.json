@@ -1,0 +1,31 @@
+{
+  "unversionedId": "食谱/凉菜/凉菜食材处理",
+  "id": "食谱/凉菜/凉菜食材处理",
+  "title": "凉菜食材处理",
+  "description": "花生",
+  "source": "@site/life/食谱/凉菜/凉菜食材处理.md",
+  "sourceDirName": "食谱/凉菜",
+  "slug": "/食谱/凉菜/凉菜食材处理",
+  "permalink": "/life/食谱/凉菜/凉菜食材处理",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/life/食谱/凉菜/凉菜食材处理.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "id": "凉菜食材处理",
+    "title": "凉菜食材处理",
+    "data": "2022年04月21日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "万能凉拌料",
+    "permalink": "/life/食谱/凉菜/万能凉拌料"
+  },
+  "next": {
+    "title": "番茄鸡蛋盖饭",
+    "permalink": "/life/食谱/午餐/番茄鸡蛋盖饭"
+  }
+}

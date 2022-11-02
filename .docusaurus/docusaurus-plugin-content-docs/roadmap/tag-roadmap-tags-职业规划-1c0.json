@@ -1,0 +1,26 @@
+{
+  "label": "职业规划",
+  "permalink": "/roadmap/tags/职业规划",
+  "allTagsPath": "/roadmap/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "职业规划/开发者职业路线图",
+      "title": "开发者职业路线图",
+      "description": "开发者职业路线图",
+      "permalink": "/roadmap/职业规划/开发者职业路线图"
+    },
+    {
+      "id": "职业规划/职业宏观规划图",
+      "title": "职业宏观规划图",
+      "description": "职业宏观规划图",
+      "permalink": "/roadmap/职业规划/职业宏观规划图"
+    },
+    {
+      "id": "职业规划/职业宏观路线图",
+      "title": "职业宏观路线图",
+      "description": "职业宏观路线图",
+      "permalink": "/roadmap/职业规划/职业宏观路线图"
+    }
+  ]
+}

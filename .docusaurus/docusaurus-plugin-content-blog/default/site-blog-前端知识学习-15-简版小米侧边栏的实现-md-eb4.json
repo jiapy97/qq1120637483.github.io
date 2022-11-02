@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/前端知识学习15——简版小米侧边栏的实现",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/前端知识学习15——简版小米侧边栏的实现.md",
+  "source": "@site/blog\\前端知识学习15——简版小米侧边栏的实现.md",
+  "title": "前端知识学习15——简版小米侧边栏的实现",
+  "description": "代码",
+  "date": "2020-05-26T00:00:00.000Z",
+  "formattedDate": "2020年5月26日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/blog/tags/前端"
+    }
+  ],
+  "readingTime": 0.575,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "前端知识学习15——简版小米侧边栏的实现",
+    "date": "2020-05-26T00:00:00.000Z",
+    "categories": "前端",
+    "tags": [
+      "前端"
+    ]
+  },
+  "prevItem": {
+    "title": "前端知识学习14——CSS元素显示模式",
+    "permalink": "/blog/前端知识学习14——CSS元素显示模式"
+  },
+  "nextItem": {
+    "title": "前端知识学习16——单行文字垂直居中",
+    "permalink": "/blog/前端知识学习16——单行文字垂直居中"
+  }
+}

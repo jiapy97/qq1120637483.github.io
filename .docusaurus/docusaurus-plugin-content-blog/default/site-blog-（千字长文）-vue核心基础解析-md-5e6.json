@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/（千字长文）Vue核心基础解析",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/（千字长文）Vue核心基础解析.md",
+  "source": "@site/blog/（千字长文）Vue核心基础解析.md",
+  "title": "（千字长文）Vue核心基础解析",
+  "description": "什么是Vue?",
+  "date": "2021-10-22T00:00:00.000Z",
+  "formattedDate": "2021年10月22日",
+  "tags": [
+    {
+      "label": "Vue",
+      "permalink": "/blog/tags/vue"
+    }
+  ],
+  "readingTime": 24.595,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "（千字长文）Vue核心基础解析",
+    "date": "2021-10-22T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Vue",
+    "tags": [
+      "Vue"
+    ]
+  },
+  "prevItem": {
+    "title": "迭代法实现对二叉树的前中后序遍历",
+    "permalink": "/blog/迭代法实现对二叉树的前中后序遍历"
+  },
+  "nextItem": {
+    "title": "递归模板解决二叉树的前中后序遍历问题",
+    "permalink": "/blog/递归模板解决二叉树的前中后序遍历问题"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/【青训营】- Node.js基础入门笔记1",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/【青训营】- Node.js基础入门笔记1.md",
+  "source": "@site/blog\\【青训营】- Node.js基础入门笔记1.md",
+  "title": "【青训营】- Node.js基础入门笔记1",
+  "description": "1. Node.js简介",
+  "date": "2021-08-23T00:00:00.000Z",
+  "formattedDate": "2021年8月23日",
+  "tags": [
+    {
+      "label": "字节青训营",
+      "permalink": "/blog/tags/字节青训营"
+    }
+  ],
+  "readingTime": 2.275,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "【青训营】- Node.js基础入门笔记1",
+    "date": "2021-8-23",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "字节青训营",
+    "tags": [
+      "字节青训营"
+    ]
+  },
+  "prevItem": {
+    "title": "【青训营】- Node.js基础入门笔记2",
+    "permalink": "/blog/【青训营】- Node.js基础入门笔记2"
+  },
+  "nextItem": {
+    "title": "【青训营】- Web标准与前端开发",
+    "permalink": "/blog/【青训营】- 如何写好JS"
+  }
+}

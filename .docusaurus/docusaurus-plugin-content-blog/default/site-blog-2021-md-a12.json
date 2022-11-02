@@ -1,0 +1,48 @@
+{
+  "permalink": "/blog/2021",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/2021.md",
+  "source": "@site/blog/2021.md",
+  "title": "2021",
+  "description": "2021 总结",
+  "date": "2021-02-12T00:00:00.000Z",
+  "formattedDate": "2021年2月12日",
+  "tags": [
+    {
+      "label": "纪念",
+      "permalink": "/blog/tags/纪念"
+    }
+  ],
+  "readingTime": 11.365,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "2021",
+    "description": "2021 总结",
+    "keywords": [
+      "年终总结"
+    ],
+    "tags": [
+      "纪念"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2021-02-12T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "我站立的地方是中国",
+    "permalink": "/blog/我站立的地方是中国"
+  },
+  "nextItem": {
+    "title": "「转载」年轻",
+    "permalink": "/blog/「转载」年轻"
+  }
+}

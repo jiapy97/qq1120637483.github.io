@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/ES6——54：私有属性",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/ES6——54：私有属性.md",
+  "source": "@site/blog/ES6——54：私有属性.md",
+  "title": "ES6——54：私有属性",
+  "description": "注意事项",
+  "date": "2021-03-19T00:00:00.000Z",
+  "formattedDate": "2021年3月19日",
+  "tags": [
+    {
+      "label": "ES6",
+      "permalink": "/blog/tags/es-6"
+    }
+  ],
+  "readingTime": 0.275,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "ES6——54：私有属性",
+    "date": "2021-03-19T00:00:00.000Z",
+    "categories": "ES6",
+    "tags": [
+      "ES6"
+    ]
+  },
+  "prevItem": {
+    "title": "ES6——53：字符串方法拓展",
+    "permalink": "/blog/ES6——53：字符串方法拓展"
+  },
+  "nextItem": {
+    "title": "ES6——55：可选链操作符",
+    "permalink": "/blog/ES6——55：可选链操作符"
+  }
+}

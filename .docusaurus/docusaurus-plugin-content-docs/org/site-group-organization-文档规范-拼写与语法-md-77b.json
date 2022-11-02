@@ -1,0 +1,33 @@
+{
+  "unversionedId": "文档规范/拼写与语法",
+  "id": "文档规范/拼写与语法",
+  "title": "拼写与语法",
+  "description": "拼写",
+  "source": "@site/group\\organization\\文档规范\\拼写与语法.md",
+  "sourceDirName": "文档规范",
+  "slug": "/文档规范/拼写与语法",
+  "permalink": "/org/文档规范/拼写与语法",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/group/organization/文档规范/拼写与语法.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "拼写与语法",
+    "title": "拼写与语法",
+    "sidebar_position": 7,
+    "data": "2022年3月8日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "名称命名",
+    "permalink": "/org/文档规范/名称命名"
+  },
+  "next": {
+    "title": "文档质量检查工具",
+    "permalink": "/org/文档规范/文档质量检查工具"
+  }
+}

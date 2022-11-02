@@ -1,0 +1,33 @@
+{
+  "unversionedId": "Git/高级/协作规范/关于（Readme）",
+  "id": "Git/高级/协作规范/关于（Readme）",
+  "title": "关于（Readme）",
+  "description": "规范",
+  "source": "@site/wiki/programming-language/Git/高级/协作规范/关于（Readme）.md",
+  "sourceDirName": "Git/高级/协作规范",
+  "slug": "/Git/高级/协作规范/关于（Readme）",
+  "permalink": "/programming-language/Git/高级/协作规范/关于（Readme）",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/Git/高级/协作规范/关于（Readme）.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "关于（Readme）",
+    "title": "关于（Readme）",
+    "data": "2022年6月15日",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "版本（Tag）",
+    "permalink": "/programming-language/Git/高级/协作规范/版本（Tag）"
+  },
+  "next": {
+    "title": "交流反馈（Issue）",
+    "permalink": "/programming-language/Git/高级/协作规范/交流反馈（Issue）"
+  }
+}

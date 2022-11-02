@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/【青训营】- 小程序开发笔记",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/【青训营】- 小程序开发笔记.md",
+  "source": "@site/blog/【青训营】- 小程序开发笔记.md",
+  "title": "【青训营】- 小程序开发笔记",
+  "description": "了解小程序技术，认识小程序的基本开发方式，为小程序技术学习打下良好的基础。",
+  "date": "2021-09-12T00:00:00.000Z",
+  "formattedDate": "2021年9月12日",
+  "tags": [],
+  "readingTime": 2.57,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "【青训营】- 小程序开发笔记",
+    "date": "2021-9-12",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "字节青训营 - 字节青训营"
+  },
+  "prevItem": {
+    "title": "【青训营】- 走进Web多媒体笔记",
+    "permalink": "/blog/【青训营】- 走进Web多媒体笔记"
+  },
+  "nextItem": {
+    "title": "面试官让我手写Promise.all",
+    "permalink": "/blog/面试官让我手写Promise.all"
+  }
+}

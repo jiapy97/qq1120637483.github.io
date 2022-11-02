@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/使用拓展运算符拷贝对象，只能拷贝一层，属于浅拷贝",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/使用拓展运算符拷贝对象，只能拷贝一层，属于浅拷贝.md",
+  "source": "@site/blog/使用拓展运算符拷贝对象，只能拷贝一层，属于浅拷贝.md",
+  "title": "使用拓展运算符拷贝对象，只能拷贝一层，属于浅拷贝",
+  "description": "拓展运算符拷贝对象属于浅拷贝",
+  "date": "2021-04-07T00:00:00.000Z",
+  "formattedDate": "2021年4月7日",
+  "tags": [
+    {
+      "label": "ES6",
+      "permalink": "/blog/tags/es-6"
+    }
+  ],
+  "readingTime": 0.08,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "使用拓展运算符拷贝对象，只能拷贝一层，属于浅拷贝",
+    "date": "2021-04-07T00:00:00.000Z",
+    "categories": "ES6",
+    "tags": [
+      "ES6"
+    ]
+  },
+  "prevItem": {
+    "title": "React-12：组件实例的三大核心属性之props",
+    "permalink": "/blog/React-12：组件实例的三大核心属性之props"
+  },
+  "nextItem": {
+    "title": "练习正则表达式的好方法推荐",
+    "permalink": "/blog/练习正则表达式的好方法推荐"
+  }
+}

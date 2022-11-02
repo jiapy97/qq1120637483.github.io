@@ -1,0 +1,15 @@
+{
+  "title": "建站经验",
+  "slug": "/category/建站经验",
+  "permalink": "/docs/category/建站经验",
+  "navigation": {
+    "previous": {
+      "title": "命令行的艺术",
+      "permalink": "/docs/开发者工具/命令行的艺术"
+    },
+    "next": {
+      "title": "Docusaurus 搭建",
+      "permalink": "/docs/建站经验/Docusaurus 搭建"
+    }
+  }
+}

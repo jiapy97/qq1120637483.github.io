@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/JavaScript中string是个基本类型，但是它的string.length是怎么实现的？",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/JavaScript中string是个基本类型，但是它的string.length是怎么实现的？.md",
+  "source": "@site/blog\\JavaScript中string是个基本类型，但是它的string.length是怎么实现的？.md",
+  "title": "JavaScript中string是个基本类型，但是它的string.length是怎么实现的？",
+  "description": "JS的基本类型和引用类型",
+  "date": "2022-02-08T00:00:00.000Z",
+  "formattedDate": "2022年2月8日",
+  "tags": [
+    {
+      "label": "JavaScript基础",
+      "permalink": "/blog/tags/java-script基础"
+    }
+  ],
+  "readingTime": 2.385,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "JavaScript中string是个基本类型，但是它的string.length是怎么实现的？",
+    "date": "2022-02-08T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "JavaScript基础",
+    "tags": [
+      "JavaScript基础"
+    ]
+  },
+  "prevItem": {
+    "title": "LeetCode——下一个排列（降序重排法）",
+    "permalink": "/blog/LeetCode——下一个排列（降序重排法）"
+  },
+  "nextItem": {
+    "title": "使用Python通过API对Github进行爬虫的思路",
+    "permalink": "/blog/使用Python通过API对Github进行爬虫的思路"
+  }
+}

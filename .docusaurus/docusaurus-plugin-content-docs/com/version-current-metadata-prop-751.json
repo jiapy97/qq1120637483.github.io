@@ -1,0 +1,120 @@
+{
+  "pluginId": "com",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "现代企业",
+        "href": "/com/",
+        "docId": "home"
+      },
+      {
+        "type": "category",
+        "label": "应用系统",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "BPM（业务流程管理）",
+            "href": "/com/应用系统/BPM（业务流程管理）",
+            "docId": "应用系统/BPM（业务流程管理）"
+          },
+          {
+            "type": "link",
+            "label": "CMS（内容管理系统）",
+            "href": "/com/应用系统/CMS（内容管理系统）",
+            "docId": "应用系统/CMS（内容管理系统）"
+          },
+          {
+            "type": "link",
+            "label": "CRM（客户关系管理）",
+            "href": "/com/应用系统/CRM（客户关系管理）",
+            "docId": "应用系统/CRM（客户关系管理）"
+          },
+          {
+            "type": "link",
+            "label": "ERP（企业资源计划）",
+            "href": "/com/应用系统/ERP（企业资源计划）",
+            "docId": "应用系统/ERP（企业资源计划）"
+          },
+          {
+            "type": "link",
+            "label": "HCM（人力资本管理）",
+            "href": "/com/应用系统/HCM（人力资本管理）",
+            "docId": "应用系统/HCM（人力资本管理）"
+          },
+          {
+            "type": "link",
+            "label": "OA（办公自动化）",
+            "href": "/com/应用系统/OA（办公自动化）",
+            "docId": "应用系统/OA（办公自动化）"
+          },
+          {
+            "type": "link",
+            "label": "SCM（供应链管理系统）",
+            "href": "/com/应用系统/SCM（供应链管理系统）",
+            "docId": "应用系统/SCM（供应链管理系统）"
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "应用系统/BPM（业务流程管理）": {
+      "id": "应用系统/BPM（业务流程管理）",
+      "title": "BPM（业务流程管理）",
+      "description": "概述",
+      "sidebar": "tutorialSidebar"
+    },
+    "应用系统/CMS（内容管理系统）": {
+      "id": "应用系统/CMS（内容管理系统）",
+      "title": "CMS（内容管理系统）",
+      "description": "概述",
+      "sidebar": "tutorialSidebar"
+    },
+    "应用系统/CRM（客户关系管理）": {
+      "id": "应用系统/CRM（客户关系管理）",
+      "title": "CRM（客户关系管理）",
+      "description": "概述",
+      "sidebar": "tutorialSidebar"
+    },
+    "应用系统/ERP（企业资源计划）": {
+      "id": "应用系统/ERP（企业资源计划）",
+      "title": "ERP（企业资源计划）",
+      "description": "概述",
+      "sidebar": "tutorialSidebar"
+    },
+    "应用系统/HCM（人力资本管理）": {
+      "id": "应用系统/HCM（人力资本管理）",
+      "title": "HCM（人力资本管理）",
+      "description": "概述",
+      "sidebar": "tutorialSidebar"
+    },
+    "应用系统/OA（办公自动化）": {
+      "id": "应用系统/OA（办公自动化）",
+      "title": "OA（办公自动化）",
+      "description": "概述",
+      "sidebar": "tutorialSidebar"
+    },
+    "应用系统/SCM（供应链管理系统）": {
+      "id": "应用系统/SCM（供应链管理系统）",
+      "title": "SCM（供应链管理系统）",
+      "description": "概述",
+      "sidebar": "tutorialSidebar"
+    },
+    "home": {
+      "id": "home",
+      "title": "现代企业",
+      "description": "现代化企业规范",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

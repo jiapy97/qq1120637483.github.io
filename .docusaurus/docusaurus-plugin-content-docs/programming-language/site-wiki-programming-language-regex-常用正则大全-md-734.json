@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Regex/常用正则大全",
+  "id": "Regex/常用正则大全",
+  "title": "常用正则大全",
+  "description": "- regex101（测试工具）",
+  "source": "@site/wiki\\programming-language\\Regex\\常用正则大全.md",
+  "sourceDirName": "Regex",
+  "slug": "/Regex/常用正则大全",
+  "permalink": "/programming-language/Regex/常用正则大全",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/Regex/常用正则大全.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "frontMatter": {
+    "id": "常用正则大全",
+    "title": "常用正则大全",
+    "data": "2022年1月22日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "正则表达式入门",
+    "permalink": "/programming-language/Regex/正则表达式入门"
+  }
+}

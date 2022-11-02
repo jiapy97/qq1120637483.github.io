@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/Webpack中的source-map、oneOf、缓存的核心用法",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Webpack中的source-map、oneOf、缓存的核心用法.md",
+  "source": "@site/blog\\Webpack中的source-map、oneOf、缓存的核心用法.md",
+  "title": "Webpack中的source-map、oneOf、缓存的核心用法",
+  "description": "source-map是什么?",
+  "date": "2021-12-04T00:00:00.000Z",
+  "formattedDate": "2021年12月4日",
+  "tags": [
+    {
+      "label": "Webpack",
+      "permalink": "/blog/tags/webpack"
+    }
+  ],
+  "readingTime": 3.89,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "Webpack中的source-map、oneOf、缓存的核心用法",
+    "date": "2021-12-04T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Webpack",
+    "tags": [
+      "Webpack"
+    ]
+  },
+  "prevItem": {
+    "title": "Webpack中的tree shaking与code split的核心用法",
+    "permalink": "/blog/Webpack中的tree shaking与code split的核心用法"
+  },
+  "nextItem": {
+    "title": "LeetCode——在排序数组中查找元素的第一个和最后一个位置（二分查找核心模板）",
+    "permalink": "/blog/LeetCode——在排序数组中查找元素的第一个和最后一个位置（二分查找核心模板）"
+  }
+}

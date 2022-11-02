@@ -1,0 +1,27 @@
+{
+  "unversionedId": "C/lib 标准库/iso646.h",
+  "id": "C/lib 标准库/iso646.h",
+  "title": "iso646.h",
+  "description": "iso646.h头文件指定了一些常见运算符的替代拼写。比如，它用关键字and代替逻辑运算符&&。",
+  "source": "@site/wiki\\programming-language\\C\\lib 标准库\\iso646.h.md",
+  "sourceDirName": "C/lib 标准库",
+  "slug": "/C/lib 标准库/iso646.h",
+  "permalink": "/programming-language/C/lib 标准库/iso646.h",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/C/lib 标准库/iso646.h.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inttypes.h",
+    "permalink": "/programming-language/C/lib 标准库/inttypes.h"
+  },
+  "next": {
+    "title": "limits.h",
+    "permalink": "/programming-language/C/lib 标准库/limits.h"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "unversionedId": "MySQL/数据表约束",
+  "id": "MySQL/数据表约束",
+  "title": "数据表约束",
+  "description": "数据表行数据约束",
+  "source": "@site/wiki\\programming-language\\MySQL\\数据表约束.md",
+  "sourceDirName": "MySQL",
+  "slug": "/MySQL/数据表约束",
+  "permalink": "/programming-language/MySQL/数据表约束",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/MySQL/数据表约束.md",
+  "tags": [
+    {
+      "label": "SQL",
+      "permalink": "/programming-language/tags/sql"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "数据表约束",
+    "description": "数据表行数据约束",
+    "keywords": [
+      "数据库",
+      "约束"
+    ],
+    "tags": [
+      "SQL"
+    ],
+    "sidebar_position": 4,
+    "author": "7Wate",
+    "date": "2022-08-31T00:00:00.000Z"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SQL 函数",
+    "permalink": "/programming-language/MySQL/SQL 函数"
+  },
+  "next": {
+    "title": "数据库查询",
+    "permalink": "/programming-language/MySQL/数据库查询"
+  }
+}

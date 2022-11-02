@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/字节青训营笔试之数字金额格式化",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/字节青训营笔试之数字金额格式化.md",
+  "source": "@site/blog\\字节青训营笔试之数字金额格式化.md",
+  "title": "字节青训营笔试之数字金额格式化",
+  "description": "题目描述",
+  "date": "2022-01-13T00:00:00.000Z",
+  "formattedDate": "2022年1月13日",
+  "tags": [
+    {
+      "label": "面试题",
+      "permalink": "/blog/tags/面试题"
+    }
+  ],
+  "readingTime": 1.45,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "字节青训营笔试之数字金额格式化",
+    "date": "2022-01-13T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "面试题",
+    "tags": [
+      "面试题"
+    ]
+  },
+  "prevItem": {
+    "title": "LeetCode——螺旋矩阵（上下左右四指针辅助法）",
+    "permalink": "/blog/LeetCode——螺旋矩阵（上下左右四指针辅助法）"
+  },
+  "nextItem": {
+    "title": "LeetCode——删除字符串中的所有相邻重复项（用栈实现打牌思路）",
+    "permalink": "/blog/LeetCode——删除字符串中的所有相邻重复项（用栈实现打牌思路）"
+  }
+}

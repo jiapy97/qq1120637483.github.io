@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/Node 04--使用Node处理表单请求与两种暴露方式",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Node 04--使用Node处理表单请求与两种暴露方式.md",
+  "source": "@site/blog/Node 04--使用Node处理表单请求与两种暴露方式.md",
+  "title": "Node 04--使用Node处理表单请求与两种暴露方式",
+  "description": "使用Node处理表单get请求",
+  "date": "2021-08-09T00:00:00.000Z",
+  "formattedDate": "2021年8月9日",
+  "tags": [
+    {
+      "label": "Node",
+      "permalink": "/blog/tags/node"
+    }
+  ],
+  "readingTime": 2.825,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "Node 04--使用Node处理表单请求与两种暴露方式",
+    "date": "2021-8-9",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Node",
+    "tags": [
+      "Node"
+    ]
+  },
+  "prevItem": {
+    "title": "LeetCode——数组中的第K个最大元素（堆排序-大顶堆）",
+    "permalink": "/blog/LeetCode——数组中的第K个最大元素（堆排序-大顶堆）"
+  },
+  "nextItem": {
+    "title": "Node 03--在Node中使用模板引擎进行渲染",
+    "permalink": "/blog/Node 03--在Node中使用模板引擎进行渲染"
+  }
+}

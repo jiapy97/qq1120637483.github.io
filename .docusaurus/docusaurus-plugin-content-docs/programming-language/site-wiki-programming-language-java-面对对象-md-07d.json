@@ -1,0 +1,33 @@
+{
+  "unversionedId": "Java/面对对象",
+  "id": "Java/面对对象",
+  "title": "面对对象",
+  "description": "在 Java 中，万事万物都是对象。 Java 也是面对对象的高级编程语言，面对对象语言具有如下特征",
+  "source": "@site/wiki/programming-language/Java/面对对象.md",
+  "sourceDirName": "Java",
+  "slug": "/Java/面对对象",
+  "permalink": "/programming-language/Java/面对对象",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/Java/面对对象.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "面对对象",
+    "title": "面对对象",
+    "sidebar_position": 4,
+    "data": "2022年4月27日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "控制语句",
+    "permalink": "/programming-language/Java/控制语句"
+  },
+  "next": {
+    "title": "包管理工具",
+    "permalink": "/programming-language/JavaScript/包管理工具"
+  }
+}

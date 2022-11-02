@@ -1,0 +1,28 @@
+{
+  "unversionedId": "home",
+  "id": "home",
+  "title": "Home",
+  "description": "记录整理归纳平时学习笔记 ✍✍✍",
+  "source": "@site/docs/home.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/docs/home.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "home",
+    "slug": "/",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "云服务",
+    "permalink": "/docs/category/云服务"
+  }
+}

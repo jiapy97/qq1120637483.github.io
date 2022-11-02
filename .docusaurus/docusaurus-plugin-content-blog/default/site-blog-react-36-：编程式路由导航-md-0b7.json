@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/React-36：编程式路由导航",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/React-36：编程式路由导航.md",
+  "source": "@site/blog\\React-36：编程式路由导航.md",
+  "title": "React-36：编程式路由导航",
+  "description": "函数格式",
+  "date": "2021-04-22T00:00:00.000Z",
+  "formattedDate": "2021年4月22日",
+  "tags": [
+    {
+      "label": "React",
+      "permalink": "/blog/tags/react"
+    }
+  ],
+  "readingTime": 0.31,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "React-36：编程式路由导航",
+    "date": "2021-04-22T00:00:00.000Z",
+    "categories": "React",
+    "tags": [
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "通过npm暴露React项目配置",
+    "permalink": "/blog/通过npm暴露React项目配置"
+  },
+  "nextItem": {
+    "title": "React-37：withRouter的使用",
+    "permalink": "/blog/React-37：withRouter的使用"
+  }
+}

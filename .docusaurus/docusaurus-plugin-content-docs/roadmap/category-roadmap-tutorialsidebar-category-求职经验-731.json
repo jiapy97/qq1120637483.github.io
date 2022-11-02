@@ -1,0 +1,15 @@
+{
+  "title": "求职经验",
+  "slug": "/category/求职经验",
+  "permalink": "/roadmap/category/求职经验",
+  "navigation": {
+    "previous": {
+      "title": "IT 类简历",
+      "permalink": "/roadmap/简历攻略/IT 类简历"
+    },
+    "next": {
+      "title": "互联网行业-郑州",
+      "permalink": "/roadmap/求职经验/互联网行业-郑州"
+    }
+  }
+}

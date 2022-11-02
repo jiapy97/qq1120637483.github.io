@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/实现Sleep函数的四种方法",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/实现Sleep函数的四种方法.md",
+  "source": "@site/blog/实现Sleep函数的四种方法.md",
+  "title": "实现Sleep函数的四种方法",
+  "description": "实现sleep函数，是一道考察候选人JS基本功的考题，让我们来一起探索这道题目吧~",
+  "date": "2022-03-05T00:00:00.000Z",
+  "formattedDate": "2022年3月5日",
+  "tags": [
+    {
+      "label": "面试题",
+      "permalink": "/blog/tags/面试题"
+    }
+  ],
+  "readingTime": 1.755,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "实现Sleep函数的四种方法",
+    "date": "2022-03-05T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "面试题",
+    "tags": [
+      "面试题"
+    ]
+  },
+  "prevItem": {
+    "title": "请这样回答双向数据绑定原理",
+    "permalink": "/blog/请这样回答双向数据绑定原理"
+  },
+  "nextItem": {
+    "title": "LeetCode——岛屿数量（DFS）",
+    "permalink": "/blog/LeetCode——岛屿数量（DFS）"
+  }
+}

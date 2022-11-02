@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/React-05：虚拟DOM中只能写JS的表达式",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/React-05：虚拟DOM中只能写JS的表达式.md",
+  "source": "@site/blog/React-05：虚拟DOM中只能写JS的表达式.md",
+  "title": "React-05：虚拟DOM中只能写JS的表达式",
+  "description": "首先区分什么是表达式和语句",
+  "date": "2021-04-02T00:00:00.000Z",
+  "formattedDate": "2021年4月2日",
+  "tags": [
+    {
+      "label": "React",
+      "permalink": "/blog/tags/react"
+    }
+  ],
+  "readingTime": 0.235,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "React-05：虚拟DOM中只能写JS的表达式",
+    "date": "2021-04-02T00:00:00.000Z",
+    "categories": "React",
+    "tags": [
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "React-04：JSX语法规则",
+    "permalink": "/blog/React-04：JSX语法规则"
+  },
+  "nextItem": {
+    "title": "LeetCode——从尾到头打印链表",
+    "permalink": "/blog/LeetCode——从尾到头打印链表"
+  }
+}

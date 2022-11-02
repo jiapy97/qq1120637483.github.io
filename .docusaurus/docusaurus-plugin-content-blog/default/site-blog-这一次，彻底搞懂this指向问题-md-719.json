@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/这一次，彻底搞懂this指向问题",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/这一次，彻底搞懂this指向问题.md",
+  "source": "@site/blog\\这一次，彻底搞懂this指向问题.md",
+  "title": "这一次，彻底搞懂this指向问题",
+  "description": "this到底是什么？",
+  "date": "2022-02-25T00:00:00.000Z",
+  "formattedDate": "2022年2月25日",
+  "tags": [
+    {
+      "label": "面试题",
+      "permalink": "/blog/tags/面试题"
+    }
+  ],
+  "readingTime": 5.27,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "这一次，彻底搞懂this指向问题",
+    "date": "2022-02-25T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "面试题",
+    "tags": [
+      "面试题"
+    ]
+  },
+  "prevItem": {
+    "title": "这一次，彻底搞懂原型与原型链",
+    "permalink": "/blog/这一次，彻底搞懂原型与原型链"
+  },
+  "nextItem": {
+    "title": "这一次，彻底搞懂前端性能优化",
+    "permalink": "/blog/这一次，彻底搞懂前端性能优化"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "permalink": "/blog/Hello Halo",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Hello Halo.md",
+  "source": "@site/blog/Hello Halo.md",
+  "title": "Hello Halo",
+  "description": "欢迎使用 Halo",
+  "date": "2022-01-09T00:00:00.000Z",
+  "formattedDate": "2022年1月9日",
+  "tags": [
+    {
+      "label": "技术",
+      "permalink": "/blog/tags/技术"
+    }
+  ],
+  "readingTime": 0.635,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "Hello Halo",
+    "description": "欢迎使用 Halo",
+    "keywords": [
+      "Halo"
+    ],
+    "tags": [
+      "技术"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2022-01-09T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "最近在折腾什么……",
+    "permalink": "/blog/最近在折腾什么……"
+  },
+  "nextItem": {
+    "title": "记拾月",
+    "permalink": "/blog/记拾月"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/写十万字的博客是一种什么感觉",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/写十万字的博客是一种什么感觉.md",
+  "source": "@site/blog/写十万字的博客是一种什么感觉.md",
+  "title": "写十万字的博客是一种什么感觉",
+  "description": "写十万字的博客是一种什么感觉",
+  "date": "2022-05-17T00:00:00.000Z",
+  "formattedDate": "2022年5月17日",
+  "tags": [
+    {
+      "label": "博客",
+      "permalink": "/blog/tags/博客"
+    }
+  ],
+  "readingTime": 0.75,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "写十万字的博客是一种什么感觉",
+    "description": "写十万字的博客是一种什么感觉",
+    "keywords": [
+      "博客",
+      "十万字"
+    ],
+    "tags": [
+      "博客"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2022-05-17T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "「转载」中文大约的确已经死了",
+    "permalink": "/blog/「转载」中文大约的确已经死了"
+  },
+  "nextItem": {
+    "title": "种下了一些瓜果蔬菜",
+    "permalink": "/blog/种下了一些瓜果蔬菜"
+  }
+}

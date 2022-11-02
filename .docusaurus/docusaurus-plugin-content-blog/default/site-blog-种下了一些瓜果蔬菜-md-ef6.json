@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/种下了一些瓜果蔬菜",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/种下了一些瓜果蔬菜.md",
+  "source": "@site/blog/种下了一些瓜果蔬菜.md",
+  "title": "种下了一些瓜果蔬菜",
+  "description": "种下了一些瓜果蔬菜",
+  "date": "2022-04-24T00:00:00.000Z",
+  "formattedDate": "2022年4月24日",
+  "tags": [
+    {
+      "label": "花园",
+      "permalink": "/blog/tags/花园"
+    }
+  ],
+  "readingTime": 3.11,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "种下了一些瓜果蔬菜",
+    "description": "种下了一些瓜果蔬菜",
+    "keywords": [
+      "瓜果蔬菜",
+      "菜园"
+    ],
+    "tags": [
+      "花园"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2022-04-24T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "写十万字的博客是一种什么感觉",
+    "permalink": "/blog/写十万字的博客是一种什么感觉"
+  },
+  "nextItem": {
+    "title": "月季到了",
+    "permalink": "/blog/月季到了"
+  }
+}

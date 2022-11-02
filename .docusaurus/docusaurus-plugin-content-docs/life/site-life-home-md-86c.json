@@ -1,0 +1,27 @@
+{
+  "unversionedId": "home",
+  "id": "home",
+  "title": "Home",
+  "description": "记录归类平时生活中的小笔记 ~ 🤩🤩🤩",
+  "source": "@site/life/home.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/life/",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/life/home.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "/",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "饮食公式",
+    "permalink": "/life/健身/饮食公式"
+  }
+}

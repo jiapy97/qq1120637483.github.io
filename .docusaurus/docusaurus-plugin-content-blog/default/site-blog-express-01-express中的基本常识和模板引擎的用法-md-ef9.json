@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/Express_01--Express中的基本常识和模板引擎的用法",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Express_01--Express中的基本常识和模板引擎的用法.md",
+  "source": "@site/blog\\Express_01--Express中的基本常识和模板引擎的用法.md",
+  "title": "Express_01--Express中的基本常识和模板引擎的用法",
+  "description": "1. 安装express",
+  "date": "2021-08-12T00:00:00.000Z",
+  "formattedDate": "2021年8月12日",
+  "tags": [
+    {
+      "label": "Express",
+      "permalink": "/blog/tags/express"
+    }
+  ],
+  "readingTime": 2.51,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "Express_01--Express中的基本常识和模板引擎的用法",
+    "date": "2021-8-12",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Express",
+    "tags": [
+      "Express"
+    ]
+  },
+  "prevItem": {
+    "title": "LeetCode——反转链表（双指针）",
+    "permalink": "/blog/LeetCode——反转链表（双指针）"
+  },
+  "nextItem": {
+    "title": "Node报错 npm ERR! code EINVALIDTAGNAME",
+    "permalink": "/blog/Node报错npm ERR code EINVALIDTAGNAME"
+  }
+}

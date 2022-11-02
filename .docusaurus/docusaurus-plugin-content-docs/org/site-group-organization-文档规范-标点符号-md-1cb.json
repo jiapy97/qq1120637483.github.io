@@ -1,0 +1,33 @@
+{
+  "unversionedId": "文档规范/标点符号",
+  "id": "文档规范/标点符号",
+  "title": "标点符号",
+  "description": "常用中文标点符号",
+  "source": "@site/group/organization/文档规范/标点符号.md",
+  "sourceDirName": "文档规范",
+  "slug": "/文档规范/标点符号",
+  "permalink": "/org/文档规范/标点符号",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/group/organization/文档规范/标点符号.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "标点符号",
+    "title": "标点符号",
+    "sidebar_position": 5,
+    "data": "2022年3月8日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "文档内容",
+    "permalink": "/org/文档规范/文档内容"
+  },
+  "next": {
+    "title": "名称命名",
+    "permalink": "/org/文档规范/名称命名"
+  }
+}

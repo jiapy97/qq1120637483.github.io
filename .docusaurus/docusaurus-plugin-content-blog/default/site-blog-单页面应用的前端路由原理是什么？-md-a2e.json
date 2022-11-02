@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/单页面应用的前端路由原理是什么？",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/单页面应用的前端路由原理是什么？.md",
+  "source": "@site/blog/单页面应用的前端路由原理是什么？.md",
+  "title": "单页面应用的前端路由原理是什么？",
+  "description": "前置知识",
+  "date": "2022-03-13T00:00:00.000Z",
+  "formattedDate": "2022年3月13日",
+  "tags": [
+    {
+      "label": "面试题",
+      "permalink": "/blog/tags/面试题"
+    }
+  ],
+  "readingTime": 5.09,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "单页面应用的前端路由原理是什么？",
+    "date": "2022-03-13T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "面试题",
+    "tags": [
+      "面试题"
+    ]
+  },
+  "prevItem": {
+    "title": "「引用」博客的本质是电线杆子",
+    "permalink": "/blog/「引用」博客的本质是电线杆子"
+  },
+  "nextItem": {
+    "title": "Vue和React的区别到底是什么？",
+    "permalink": "/blog/Vue和React的区别到底是什么？"
+  }
+}

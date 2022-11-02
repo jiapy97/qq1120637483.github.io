@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/Egg.js中使用富文本编辑器的方法",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Egg.js中使用富文本编辑器的方法.md",
+  "source": "@site/blog/Egg.js中使用富文本编辑器的方法.md",
+  "title": "Egg.js中使用富文本编辑器的方法",
+  "description": "通过wysiwyg-editor实现",
+  "date": "2021-11-29T00:00:00.000Z",
+  "formattedDate": "2021年11月29日",
+  "tags": [
+    {
+      "label": "Egg.js",
+      "permalink": "/blog/tags/egg-js"
+    }
+  ],
+  "readingTime": 2.345,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "Egg.js中使用富文本编辑器的方法",
+    "date": "2021-11-29T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Egg.js",
+    "tags": [
+      "Egg.js"
+    ]
+  },
+  "prevItem": {
+    "title": "Webpack引入dev-server实现自动编译运行并搭建基本的开发环境与CSS处理",
+    "permalink": "/blog/Webpack引入dev-server实现自动编译运行并搭建基本的开发环境与CSS处理"
+  },
+  "nextItem": {
+    "title": "LeetCode——最长回文串（Set + 打牌思路）",
+    "permalink": "/blog/LeetCode——最长回文串（Set + 打牌思路）"
+  }
+}

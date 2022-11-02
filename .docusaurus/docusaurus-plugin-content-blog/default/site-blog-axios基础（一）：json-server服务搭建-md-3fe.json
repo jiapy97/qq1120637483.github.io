@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/axios基础（一）：json-server服务搭建",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/axios基础（一）：json-server服务搭建.md",
+  "source": "@site/blog/axios基础（一）：json-server服务搭建.md",
+  "title": "axios基础（一）：json-server服务搭建",
+  "description": "搭建步骤",
+  "date": "2021-03-28T00:00:00.000Z",
+  "formattedDate": "2021年3月28日",
+  "tags": [
+    {
+      "label": "Axios",
+      "permalink": "/blog/tags/axios"
+    }
+  ],
+  "readingTime": 0.315,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "axios基础（一）：json-server服务搭建",
+    "date": "2021-03-28T00:00:00.000Z",
+    "categories": "Axios",
+    "tags": [
+      "Axios"
+    ]
+  },
+  "prevItem": {
+    "title": "代码提交到Github仓库但是绿色小点没增加的原因",
+    "permalink": "/blog/代码提交到Github仓库但是绿色小点没增加的原因"
+  },
+  "nextItem": {
+    "title": "axios基础（三）：axios的常用基础配置",
+    "permalink": "/blog/axios基础（三）：axios的常用基础配置"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/Node 03--在Node中使用模板引擎进行渲染",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Node 03--在Node中使用模板引擎进行渲染.md",
+  "source": "@site/blog/Node 03--在Node中使用模板引擎进行渲染.md",
+  "title": "Node 03--在Node中使用模板引擎进行渲染",
+  "description": "使用readdir获取指定路径下的所有文件名",
+  "date": "2021-08-07T00:00:00.000Z",
+  "formattedDate": "2021年8月7日",
+  "tags": [
+    {
+      "label": "Node",
+      "permalink": "/blog/tags/node"
+    }
+  ],
+  "readingTime": 3.18,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "Node 03--在Node中使用模板引擎进行渲染",
+    "date": "2021-8-7",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Node",
+    "tags": [
+      "Node"
+    ]
+  },
+  "prevItem": {
+    "title": "Node 04--使用Node处理表单请求与两种暴露方式",
+    "permalink": "/blog/Node 04--使用Node处理表单请求与两种暴露方式"
+  },
+  "nextItem": {
+    "title": "Node 02--Node中的模块系统与响应中文编码",
+    "permalink": "/blog/Node 02--Node中的模块系统与响应中文编码"
+  }
+}

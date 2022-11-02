@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/开源软件之道",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/开源软件之道.md",
+  "source": "@site/blog/开源软件之道.md",
+  "title": "开源软件之道",
+  "description": "开源软件之道",
+  "date": "2020-07-02T00:00:00.000Z",
+  "formattedDate": "2020年7月2日",
+  "tags": [
+    {
+      "label": "开源",
+      "permalink": "/blog/tags/开源"
+    }
+  ],
+  "readingTime": 6.115,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "开源软件之道",
+    "description": "开源软件之道",
+    "keywords": [
+      "开源",
+      "哲学"
+    ],
+    "tags": [
+      "开源"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2020-07-02T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "浅谈个人服务器架构",
+    "permalink": "/blog/浅谈个人服务器架构"
+  },
+  "nextItem": {
+    "title": "「转载」人生",
+    "permalink": "/blog/「转载」人生"
+  }
+}

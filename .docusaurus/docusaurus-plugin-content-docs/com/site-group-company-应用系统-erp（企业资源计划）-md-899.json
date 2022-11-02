@@ -1,0 +1,31 @@
+{
+  "unversionedId": "应用系统/ERP（企业资源计划）",
+  "id": "应用系统/ERP（企业资源计划）",
+  "title": "ERP（企业资源计划）",
+  "description": "概述",
+  "source": "@site/group/company/应用系统/ERP（企业资源计划）.md",
+  "sourceDirName": "应用系统",
+  "slug": "/应用系统/ERP（企业资源计划）",
+  "permalink": "/com/应用系统/ERP（企业资源计划）",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/group/company/应用系统/ERP（企业资源计划）.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "id": "ERP（企业资源计划）",
+    "title": "ERP（企业资源计划）",
+    "data": "2022年8月1日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CRM（客户关系管理）",
+    "permalink": "/com/应用系统/CRM（客户关系管理）"
+  },
+  "next": {
+    "title": "HCM（人力资本管理）",
+    "permalink": "/com/应用系统/HCM（人力资本管理）"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "unversionedId": "MySQL/SQL 函数",
+  "id": "MySQL/SQL 函数",
+  "title": "SQL 函数",
+  "description": "SQL 函数",
+  "source": "@site/wiki\\programming-language\\MySQL\\SQL 函数.md",
+  "sourceDirName": "MySQL",
+  "slug": "/MySQL/SQL 函数",
+  "permalink": "/programming-language/MySQL/SQL 函数",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/MySQL/SQL 函数.md",
+  "tags": [
+    {
+      "label": "SQL",
+      "permalink": "/programming-language/tags/sql"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "SQL 函数",
+    "description": "SQL 函数",
+    "keywords": [
+      "数据库",
+      "函数"
+    ],
+    "tags": [
+      "SQL"
+    ],
+    "sidebar_position": 3,
+    "author": "7Wate",
+    "date": "2022-08-31T00:00:00.000Z"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SQL 语句",
+    "permalink": "/programming-language/MySQL/SQL 语句"
+  },
+  "next": {
+    "title": "数据表约束",
+    "permalink": "/programming-language/MySQL/数据表约束"
+  }
+}

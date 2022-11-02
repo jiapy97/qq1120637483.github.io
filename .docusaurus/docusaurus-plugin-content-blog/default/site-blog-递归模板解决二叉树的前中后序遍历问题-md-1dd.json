@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/递归模板解决二叉树的前中后序遍历问题",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/递归模板解决二叉树的前中后序遍历问题.md",
+  "source": "@site/blog\\递归模板解决二叉树的前中后序遍历问题.md",
+  "title": "递归模板解决二叉树的前中后序遍历问题",
+  "description": "题目描述",
+  "date": "2021-10-21T00:00:00.000Z",
+  "formattedDate": "2021年10月21日",
+  "tags": [
+    {
+      "label": "面试题",
+      "permalink": "/blog/tags/面试题"
+    }
+  ],
+  "readingTime": 1.72,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "递归模板解决二叉树的前中后序遍历问题",
+    "date": "2021-10-21T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "面试题",
+    "tags": [
+      "面试题"
+    ]
+  },
+  "prevItem": {
+    "title": "（千字长文）Vue核心基础解析",
+    "permalink": "/blog/（千字长文）Vue核心基础解析"
+  },
+  "nextItem": {
+    "title": "TypeScript之初识interface",
+    "permalink": "/blog/TypeScript之初识interface"
+  }
+}

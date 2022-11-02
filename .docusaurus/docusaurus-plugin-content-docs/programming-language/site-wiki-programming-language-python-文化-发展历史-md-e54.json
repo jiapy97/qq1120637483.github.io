@@ -1,0 +1,46 @@
+{
+  "unversionedId": "Python/文化/发展历史",
+  "id": "Python/文化/发展历史",
+  "title": "发展历史",
+  "description": "Python的历史由来",
+  "source": "@site/wiki/programming-language/Python/文化/发展历史.md",
+  "sourceDirName": "Python/文化",
+  "slug": "/Python/文化/发展历史",
+  "permalink": "/programming-language/Python/文化/发展历史",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/Python/文化/发展历史.md",
+  "tags": [
+    {
+      "label": "Python",
+      "permalink": "/programming-language/tags/python"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "发展历史",
+    "description": "Python的历史由来",
+    "keywords": [
+      "Python",
+      "历史"
+    ],
+    "tags": [
+      "Python"
+    ],
+    "sidebar_position": 1,
+    "author": "7Wate",
+    "date": "2022-10-18T00:00:00.000Z"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "文化",
+    "permalink": "/programming-language/category/文化"
+  },
+  "next": {
+    "title": "设计哲学",
+    "permalink": "/programming-language/Python/文化/设计哲学"
+  }
+}

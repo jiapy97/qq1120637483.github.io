@@ -1,0 +1,27 @@
+{
+  "unversionedId": "C/lib 标准库/errno.h",
+  "id": "C/lib 标准库/errno.h",
+  "title": "errno.h",
+  "description": "errno 变量",
+  "source": "@site/wiki/programming-language/C/lib 标准库/errno.h.md",
+  "sourceDirName": "C/lib 标准库",
+  "slug": "/C/lib 标准库/errno.h",
+  "permalink": "/programming-language/C/lib 标准库/errno.h",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/C/lib 标准库/errno.h.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ctype.h",
+    "permalink": "/programming-language/C/lib 标准库/ctype.h"
+  },
+  "next": {
+    "title": "float.h",
+    "permalink": "/programming-language/C/lib 标准库/float.h"
+  }
+}

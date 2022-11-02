@@ -1,0 +1,23 @@
+{
+  "unversionedId": "home",
+  "id": "home",
+  "title": "Home",
+  "description": "数据库系统 ~ 🤩🤩🤩",
+  "source": "@site/wiki/database-system/home.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/database-system/",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/database-system/home.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "/",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar"
+}

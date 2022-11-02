@@ -1,0 +1,31 @@
+{
+  "unversionedId": "开发者工具/命令行的艺术",
+  "id": "开发者工具/命令行的艺术",
+  "title": "命令行的艺术",
+  "description": "熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。",
+  "source": "@site/docs/开发者工具/命令行的艺术.md",
+  "sourceDirName": "开发者工具",
+  "slug": "/开发者工具/命令行的艺术",
+  "permalink": "/docs/开发者工具/命令行的艺术",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/docs/开发者工具/命令行的艺术.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "id": "命令行的艺术",
+    "title": "命令行的艺术",
+    "data": "2022年8月5日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Windows 下 OpenSSH 使用",
+    "permalink": "/docs/开发者工具/Windows 下 OpenSSH 使用"
+  },
+  "next": {
+    "title": "建站经验",
+    "permalink": "/docs/category/建站经验"
+  }
+}

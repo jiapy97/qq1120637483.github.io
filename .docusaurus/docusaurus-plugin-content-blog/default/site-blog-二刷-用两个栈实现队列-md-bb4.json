@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/二刷--用两个栈实现队列",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/二刷--用两个栈实现队列.md",
+  "source": "@site/blog/二刷--用两个栈实现队列.md",
+  "title": "二刷--用两个栈实现队列",
+  "description": "题目描述",
+  "date": "2021-09-25T00:00:00.000Z",
+  "formattedDate": "2021年9月25日",
+  "tags": [
+    {
+      "label": "面试题",
+      "permalink": "/blog/tags/面试题"
+    }
+  ],
+  "readingTime": 2.515,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "二刷--用两个栈实现队列",
+    "date": "2021-9-25",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "面试题",
+    "tags": [
+      "面试题"
+    ]
+  },
+  "prevItem": {
+    "title": "LeetCode——路径总和（DFS）",
+    "permalink": "/blog/LeetCode——路径总和（DFS）"
+  },
+  "nextItem": {
+    "title": "如何控制Promise的串行执行？",
+    "permalink": "/blog/如何控制Promise的串行执行？"
+  }
+}

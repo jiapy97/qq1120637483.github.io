@@ -1,0 +1,31 @@
+{
+  "unversionedId": "食谱/午餐/番茄鸡蛋盖饭",
+  "id": "食谱/午餐/番茄鸡蛋盖饭",
+  "title": "番茄鸡蛋盖饭",
+  "description": "食材",
+  "source": "@site/life/食谱/午餐/番茄鸡蛋盖饭.md",
+  "sourceDirName": "食谱/午餐",
+  "slug": "/食谱/午餐/番茄鸡蛋盖饭",
+  "permalink": "/life/食谱/午餐/番茄鸡蛋盖饭",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/life/食谱/午餐/番茄鸡蛋盖饭.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "id": "番茄鸡蛋盖饭",
+    "title": "番茄鸡蛋盖饭",
+    "data": "2022年06月21日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "凉菜食材处理",
+    "permalink": "/life/食谱/凉菜/凉菜食材处理"
+  },
+  "next": {
+    "title": "三明治",
+    "permalink": "/life/食谱/早餐/三明治"
+  }
+}

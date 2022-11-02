@@ -1,0 +1,27 @@
+{
+  "unversionedId": "home",
+  "id": "home",
+  "title": "Home",
+  "description": "数据结构与算法 ~ 🤩🤩🤩",
+  "source": "@site/wiki/structures-algorithms/home.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/structures-algorithms/",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/structures-algorithms/home.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "/",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "数据结构",
+    "permalink": "/structures-algorithms/数据结构"
+  }
+}

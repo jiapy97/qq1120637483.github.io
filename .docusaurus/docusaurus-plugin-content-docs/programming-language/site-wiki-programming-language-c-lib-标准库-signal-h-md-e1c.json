@@ -1,0 +1,27 @@
+{
+  "unversionedId": "C/lib 标准库/signal.h",
+  "id": "C/lib 标准库/signal.h",
+  "title": "signal.h",
+  "description": "简介",
+  "source": "@site/wiki\\programming-language\\C\\lib 标准库\\signal.h.md",
+  "sourceDirName": "C/lib 标准库",
+  "slug": "/C/lib 标准库/signal.h",
+  "permalink": "/programming-language/C/lib 标准库/signal.h",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/C/lib 标准库/signal.h.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "math.h",
+    "permalink": "/programming-language/C/lib 标准库/math.h"
+  },
+  "next": {
+    "title": "stdarg.h",
+    "permalink": "/programming-language/C/lib 标准库/stdarg.h"
+  }
+}

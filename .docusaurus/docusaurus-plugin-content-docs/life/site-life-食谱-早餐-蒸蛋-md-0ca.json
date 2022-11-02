@@ -1,0 +1,31 @@
+{
+  "unversionedId": "食谱/早餐/蒸蛋",
+  "id": "食谱/早餐/蒸蛋",
+  "title": "蒸蛋",
+  "description": "食材",
+  "source": "@site/life\\食谱\\早餐\\蒸蛋.md",
+  "sourceDirName": "食谱/早餐",
+  "slug": "/食谱/早餐/蒸蛋",
+  "permalink": "/life/食谱/早餐/蒸蛋",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/life/食谱/早餐/蒸蛋.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "frontMatter": {
+    "id": "蒸蛋",
+    "title": "蒸蛋",
+    "data": "2022年05月27日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "花样蒸蛋",
+    "permalink": "/life/食谱/早餐/花样蒸蛋"
+  },
+  "next": {
+    "title": "准备工作",
+    "permalink": "/life/食谱/烧烤/准备工作"
+  }
+}

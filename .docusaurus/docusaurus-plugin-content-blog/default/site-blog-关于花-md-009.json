@@ -1,0 +1,48 @@
+{
+  "permalink": "/blog/关于花",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/关于花.md",
+  "source": "@site/blog/关于花.md",
+  "title": "关于花",
+  "description": "关于花",
+  "date": "2022-03-05T00:00:00.000Z",
+  "formattedDate": "2022年3月5日",
+  "tags": [
+    {
+      "label": "花园",
+      "permalink": "/blog/tags/花园"
+    }
+  ],
+  "readingTime": 1.89,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "关于花",
+    "description": "关于花",
+    "keywords": [
+      "花"
+    ],
+    "tags": [
+      "花园"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2022-03-05T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "再游嵩山",
+    "permalink": "/blog/再游嵩山"
+  },
+  "nextItem": {
+    "title": "三步为你博客文章分析情感关键字",
+    "permalink": "/blog/三步为你博客文章分析情感关键字"
+  }
+}

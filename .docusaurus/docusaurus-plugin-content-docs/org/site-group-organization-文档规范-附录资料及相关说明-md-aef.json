@@ -1,0 +1,33 @@
+{
+  "unversionedId": "文档规范/附录资料及相关说明",
+  "id": "文档规范/附录资料及相关说明",
+  "title": "附录资料及相关说明",
+  "description": "针对编写的一系列技术文档，应提供相应的术语表和缩略语表作为附录资料，方便读者查阅。",
+  "source": "@site/group\\organization\\文档规范\\附录资料及相关说明.md",
+  "sourceDirName": "文档规范",
+  "slug": "/文档规范/附录资料及相关说明",
+  "permalink": "/org/文档规范/附录资料及相关说明",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/group/organization/文档规范/附录资料及相关说明.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "附录资料及相关说明",
+    "title": "附录资料及相关说明",
+    "sidebar_position": 9,
+    "data": "2022年3月8日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "文档质量检查工具",
+    "permalink": "/org/文档规范/文档质量检查工具"
+  },
+  "next": {
+    "title": "谷歌开源项目风格指南",
+    "permalink": "/org/Google/谷歌开源项目风格指南"
+  }
+}

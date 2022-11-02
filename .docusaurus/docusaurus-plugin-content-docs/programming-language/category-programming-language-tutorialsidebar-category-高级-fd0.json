@@ -1,0 +1,15 @@
+{
+  "title": "高级",
+  "slug": "/category/高级",
+  "permalink": "/programming-language/category/高级",
+  "navigation": {
+    "previous": {
+      "title": "参考手册",
+      "permalink": "/programming-language/Git/进阶/参考手册"
+    },
+    "next": {
+      "title": "协作规范",
+      "permalink": "/programming-language/category/协作规范"
+    }
+  }
+}

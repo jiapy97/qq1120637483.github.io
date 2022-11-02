@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/FreeCodeCamp经典题目（收银机）",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/FreeCodeCamp经典题目（收银机）.md",
+  "source": "@site/blog/FreeCodeCamp经典题目（收银机）.md",
+  "title": "FreeCodeCamp经典题目（收银机）",
+  "description": "题目描述",
+  "date": "2021-08-02T00:00:00.000Z",
+  "formattedDate": "2021年8月2日",
+  "tags": [
+    {
+      "label": "FreeCodeCamp",
+      "permalink": "/blog/tags/free-code-camp"
+    }
+  ],
+  "readingTime": 5.1,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "FreeCodeCamp经典题目（收银机）",
+    "date": "2021-8-2",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "FreeCodeCamp",
+    "tags": [
+      "FreeCodeCamp"
+    ]
+  },
+  "prevItem": {
+    "title": "五分钟带你学会--图片懒加载",
+    "permalink": "/blog/五分钟带你学会--图片懒加载"
+  },
+  "nextItem": {
+    "title": "一篇文章学会Flex布局的基本使用",
+    "permalink": "/blog/一篇文章学会Flex布局的基本使用"
+  }
+}

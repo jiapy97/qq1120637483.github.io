@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/这一次，彻底搞懂Vue中的keep-alive",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/这一次，彻底搞懂Vue中的keep-alive.md",
+  "source": "@site/blog/这一次，彻底搞懂Vue中的keep-alive.md",
+  "title": "这一次，彻底搞懂Vue中的keep-alive",
+  "description": "keep-alive的使用场景及其特点",
+  "date": "2022-05-05T00:00:00.000Z",
+  "formattedDate": "2022年5月5日",
+  "tags": [
+    {
+      "label": "Vue",
+      "permalink": "/blog/tags/vue"
+    }
+  ],
+  "readingTime": 2.015,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "这一次，彻底搞懂Vue中的keep-alive",
+    "date": "2022-05-05T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Vue",
+    "tags": [
+      "Vue"
+    ]
+  },
+  "prevItem": {
+    "title": "for...in和for....of的区别是什么？",
+    "permalink": "/blog/for...in和for....of的区别是什么？"
+  },
+  "nextItem": {
+    "title": "LeetCode——简化路径（辅助栈）",
+    "permalink": "/blog/LeetCode——简化路径（辅助栈）"
+  }
+}

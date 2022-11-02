@@ -1,0 +1,33 @@
+{
+  "unversionedId": "健身/下肢训练",
+  "id": "健身/下肢训练",
+  "title": "下肢训练",
+  "description": "深蹲",
+  "source": "@site/life/健身/下肢训练.md",
+  "sourceDirName": "健身",
+  "slug": "/健身/下肢训练",
+  "permalink": "/life/健身/下肢训练",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/life/健身/下肢训练.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "下肢训练",
+    "title": "下肢训练",
+    "sidebar_position": 4,
+    "data": "2022年06月16日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "上肢训练",
+    "permalink": "/life/健身/上肢训练"
+  },
+  "next": {
+    "title": "拉伸放松",
+    "permalink": "/life/健身/拉伸放松"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/原点",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/原点.md",
+  "source": "@site/blog/原点.md",
+  "title": "原点",
+  "description": "原点",
+  "date": "2022-02-02T00:00:00.000Z",
+  "formattedDate": "2022年2月2日",
+  "tags": [
+    {
+      "label": "日记",
+      "permalink": "/blog/tags/日记"
+    }
+  ],
+  "readingTime": 7.28,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "原点",
+    "description": "原点",
+    "keywords": [
+      "原点",
+      "日记"
+    ],
+    "tags": [
+      "日记"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2022-02-02T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "2022",
+    "permalink": "/blog/2022"
+  },
+  "nextItem": {
+    "title": "最近在折腾什么……",
+    "permalink": "/blog/最近在折腾什么……"
+  }
+}

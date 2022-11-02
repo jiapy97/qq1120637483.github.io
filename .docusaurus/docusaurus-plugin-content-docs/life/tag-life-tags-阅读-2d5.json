@@ -1,0 +1,20 @@
+{
+  "label": "阅读",
+  "permalink": "/life/tags/阅读",
+  "allTagsPath": "/life/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "阅读/认知觉醒",
+      "title": "认知觉醒",
+      "description": "认知觉醒：开启自我改变的原动力读书笔记",
+      "permalink": "/life/阅读/认知觉醒"
+    },
+    {
+      "id": "阅读/如何阅读一本书",
+      "title": "如何阅读一本书",
+      "description": "如何阅读一本书的读书笔记",
+      "permalink": "/life/阅读/如何阅读一本书"
+    }
+  ]
+}

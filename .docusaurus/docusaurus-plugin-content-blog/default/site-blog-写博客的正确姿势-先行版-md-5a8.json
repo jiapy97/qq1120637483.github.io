@@ -1,0 +1,48 @@
+{
+  "permalink": "/blog/写博客的正确姿势 - 先行版",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/写博客的正确姿势 - 先行版.md",
+  "source": "@site/blog/写博客的正确姿势 - 先行版.md",
+  "title": "写博客的正确姿势 - 先行版",
+  "description": "写博客的正确姿势 - 先行版",
+  "date": "2022-08-25T00:00:00.000Z",
+  "formattedDate": "2022年8月25日",
+  "tags": [
+    {
+      "label": "博客",
+      "permalink": "/blog/tags/博客"
+    }
+  ],
+  "readingTime": 2.52,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "写博客的正确姿势 - 先行版",
+    "description": "写博客的正确姿势 - 先行版",
+    "keywords": [
+      "博客"
+    ],
+    "tags": [
+      "博客"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2022-08-25T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "不要在饿的时候吃螺蛳粉！",
+    "permalink": "/blog/不要在饿的时候吃螺蛳粉！"
+  },
+  "nextItem": {
+    "title": "写博客的正确姿势 - 测试版",
+    "permalink": "/blog/写博客的正确姿势 - 测试版"
+  }
+}

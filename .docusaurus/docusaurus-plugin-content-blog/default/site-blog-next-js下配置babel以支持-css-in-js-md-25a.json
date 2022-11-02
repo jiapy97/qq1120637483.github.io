@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/Next.js下配置babel以支持Css-In-Js",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Next.js下配置babel以支持Css-In-Js.md",
+  "source": "@site/blog\\Next.js下配置babel以支持Css-In-Js.md",
+  "title": "Next.js下配置babel以支持Css-In-Js",
+  "description": "由于Next.js和Emotion.js的升级，以往的babel配置不再适用于最新版本，如果还使用以前的babel配置则会报下面的错误",
+  "date": "2021-09-18T00:00:00.000Z",
+  "formattedDate": "2021年9月18日",
+  "tags": [
+    {
+      "label": "Next",
+      "permalink": "/blog/tags/next"
+    }
+  ],
+  "readingTime": 0.87,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "Next.js下配置babel以支持Css-In-Js",
+    "date": "2021-9-18",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Next",
+    "tags": [
+      "Next"
+    ]
+  },
+  "prevItem": {
+    "title": "因缺少绝对路径引发的部署血案",
+    "permalink": "/blog/因缺少绝对路径引发的部署血案"
+  },
+  "nextItem": {
+    "title": "二刷--斐波那契数列",
+    "permalink": "/blog/二刷--斐波那契数列"
+  }
+}

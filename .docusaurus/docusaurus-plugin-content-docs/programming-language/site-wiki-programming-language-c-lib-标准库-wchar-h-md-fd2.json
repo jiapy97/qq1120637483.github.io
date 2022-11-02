@@ -1,0 +1,27 @@
+{
+  "unversionedId": "C/lib 标准库/wchar.h",
+  "id": "C/lib 标准库/wchar.h",
+  "title": "wchar.h",
+  "description": "宽字符使用两个或四个字节表示一个字符，导致 C 语言常规的字符处理函数都会失效。wchar.h 定义了许多宽字符专用的处理函数。",
+  "source": "@site/wiki\\programming-language\\C\\lib 标准库\\wchar.h.md",
+  "sourceDirName": "C/lib 标准库",
+  "slug": "/C/lib 标准库/wchar.h",
+  "permalink": "/programming-language/C/lib 标准库/wchar.h",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/C/lib 标准库/wchar.h.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "time.h",
+    "permalink": "/programming-language/C/lib 标准库/time.h"
+  },
+  "next": {
+    "title": "wctype.h",
+    "permalink": "/programming-language/C/lib 标准库/wctype.h"
+  }
+}

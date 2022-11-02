@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/React-32：向路由组件传递params参数",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/React-32：向路由组件传递params参数.md",
+  "source": "@site/blog\\React-32：向路由组件传递params参数.md",
+  "title": "React-32：向路由组件传递params参数",
+  "description": "通过模板字符串的形式传递参数",
+  "date": "2021-04-21T00:00:00.000Z",
+  "formattedDate": "2021年4月21日",
+  "tags": [
+    {
+      "label": "React",
+      "permalink": "/blog/tags/react"
+    }
+  ],
+  "readingTime": 0.195,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "React-32：向路由组件传递params参数",
+    "date": "2021-04-21T00:00:00.000Z",
+    "categories": "React",
+    "tags": [
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "React-31：嵌套路由的使用",
+    "permalink": "/blog/React-31：嵌套路由的使用"
+  },
+  "nextItem": {
+    "title": "React-33：向路由组件传递search参数",
+    "permalink": "/blog/React-33：向路由组件传递search参数"
+  }
+}

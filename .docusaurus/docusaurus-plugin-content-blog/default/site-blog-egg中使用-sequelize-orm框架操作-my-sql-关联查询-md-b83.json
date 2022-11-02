@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/Egg中使用Sequelize ORM框架操作MySQL--关联查询",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Egg中使用Sequelize ORM框架操作MySQL--关联查询.md",
+  "source": "@site/blog\\Egg中使用Sequelize ORM框架操作MySQL--关联查询.md",
+  "title": "Egg中使用Sequelize ORM框架操作MySQL--关联查询",
+  "description": "一、Sequelize自定义表名",
+  "date": "2021-11-16T00:00:00.000Z",
+  "formattedDate": "2021年11月16日",
+  "tags": [
+    {
+      "label": "Egg.js",
+      "permalink": "/blog/tags/egg-js"
+    }
+  ],
+  "readingTime": 2.53,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "Egg中使用Sequelize ORM框架操作MySQL--关联查询",
+    "date": "2021-11-16T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Egg.js",
+    "tags": [
+      "Egg.js"
+    ]
+  },
+  "prevItem": {
+    "title": "Egg.js中复用静态页面逻辑、局部刷新架构、生成验证码",
+    "permalink": "/blog/Egg.js中复用静态页面逻辑、局部刷新架构、生成验证码"
+  },
+  "nextItem": {
+    "title": "这一次，彻底搞懂垂直水平居中",
+    "permalink": "/blog/这一次，彻底搞懂垂直水平居中"
+  }
+}

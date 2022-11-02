@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/你还记得曾经的梦想么？",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/你还记得曾经的梦想么？.md",
+  "source": "@site/blog/你还记得曾经的梦想么？.md",
+  "title": "你还记得曾经的梦想么？",
+  "description": "你还记得曾经的梦想么？",
+  "date": "2022-03-24T00:00:00.000Z",
+  "formattedDate": "2022年3月24日",
+  "tags": [
+    {
+      "label": "感悟",
+      "permalink": "/blog/tags/感悟"
+    }
+  ],
+  "readingTime": 0.315,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "你还记得曾经的梦想么？",
+    "description": "你还记得曾经的梦想么？",
+    "keywords": [
+      "B站",
+      "梦想"
+    ],
+    "tags": [
+      "感悟"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2022-03-24T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "自律的痛苦······",
+    "permalink": "/blog/自律的痛苦······"
+  },
+  "nextItem": {
+    "title": "我要拔智齿！！！",
+    "permalink": "/blog/我要拔智齿！！！"
+  }
+}

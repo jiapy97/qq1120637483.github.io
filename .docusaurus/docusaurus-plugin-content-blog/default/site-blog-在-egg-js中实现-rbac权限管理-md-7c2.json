@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/在Egg.js中实现RBAC权限管理",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/在Egg.js中实现RBAC权限管理.md",
+  "source": "@site/blog/在Egg.js中实现RBAC权限管理.md",
+  "title": "在Egg.js中实现RBAC权限管理",
+  "description": "什么是RBAC？",
+  "date": "2021-11-21T00:00:00.000Z",
+  "formattedDate": "2021年11月21日",
+  "tags": [
+    {
+      "label": "Egg.js",
+      "permalink": "/blog/tags/egg-js"
+    }
+  ],
+  "readingTime": 7.34,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "在Egg.js中实现RBAC权限管理",
+    "date": "2021-11-21T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Egg.js",
+    "tags": [
+      "Egg.js"
+    ]
+  },
+  "prevItem": {
+    "title": "Webpack处理CSS、Less、HTML、图片与其他资源的方法",
+    "permalink": "/blog/Webpack处理CSS、Less、HTML、图片与其他资源的方法"
+  },
+  "nextItem": {
+    "title": "LeetCode——比较版本号（分割-去零-填零-比较）",
+    "permalink": "/blog/LeetCode——比较版本号（分割-去零-填零-比较）"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/Egg.js中控制器基类的简明用法",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Egg.js中控制器基类的简明用法.md",
+  "source": "@site/blog\\Egg.js中控制器基类的简明用法.md",
+  "title": "Egg.js中控制器基类的简明用法",
+  "description": "一、指定时间后跳转到指定页面",
+  "date": "2021-11-02T00:00:00.000Z",
+  "formattedDate": "2021年11月2日",
+  "tags": [
+    {
+      "label": "Egg.js",
+      "permalink": "/blog/tags/egg-js"
+    }
+  ],
+  "readingTime": 0.805,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "Egg.js中控制器基类的简明用法",
+    "date": "2021-11-02T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Egg.js",
+    "tags": [
+      "Egg.js"
+    ]
+  },
+  "prevItem": {
+    "title": "Egg.js中定时任务的核心用法",
+    "permalink": "/blog/Egg.js中定时任务的核心用法"
+  },
+  "nextItem": {
+    "title": "Egg.js中路由的核心用法",
+    "permalink": "/blog/Egg.js中路由的核心用法"
+  }
+}

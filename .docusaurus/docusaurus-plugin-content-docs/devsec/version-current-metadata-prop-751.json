@@ -1,0 +1,402 @@
+{
+  "pluginId": "devsec",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Home",
+        "href": "/devsec/",
+        "docId": "home"
+      },
+      {
+        "type": "category",
+        "label": "密码学",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "密码学简明指南",
+            "href": "/devsec/密码学/密码学简明指南",
+            "docId": "密码学/密码学简明指南"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "系统权限",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "系统权限简明指南",
+            "href": "/devsec/系统权限/系统权限简明指南",
+            "docId": "系统权限/系统权限简明指南"
+          },
+          {
+            "type": "category",
+            "label": "权限设计方案",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "主流权限系统的设计",
+                "href": "/devsec/系统权限/权限设计方案/主流权限系统的设计",
+                "docId": "系统权限/权限设计方案/主流权限系统的设计"
+              }
+            ],
+            "href": "/devsec/category/权限设计方案"
+          },
+          {
+            "type": "category",
+            "label": "鉴权解决方案",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "HTTP 基本鉴权",
+                "href": "/devsec/系统权限/鉴权解决方案/HTTP 基本鉴权",
+                "docId": "系统权限/鉴权解决方案/HTTP 基本鉴权"
+              },
+              {
+                "type": "link",
+                "label": "Session-Cookie 鉴权",
+                "href": "/devsec/系统权限/鉴权解决方案/Session-Cookie 鉴权",
+                "docId": "系统权限/鉴权解决方案/Session-Cookie 鉴权"
+              },
+              {
+                "type": "link",
+                "label": "Token 鉴权",
+                "href": "/devsec/系统权限/鉴权解决方案/Token 鉴权",
+                "docId": "系统权限/鉴权解决方案/Token 鉴权"
+              },
+              {
+                "type": "link",
+                "label": "JWT 鉴权",
+                "href": "/devsec/系统权限/鉴权解决方案/JWT（JSON Web Token）鉴权",
+                "docId": "系统权限/鉴权解决方案/JWT（JSON Web Token）鉴权"
+              },
+              {
+                "type": "link",
+                "label": "SSO 单点登录",
+                "href": "/devsec/系统权限/鉴权解决方案/单点登录（Single Sign On）",
+                "docId": "系统权限/鉴权解决方案/单点登录（Single Sign On）"
+              },
+              {
+                "type": "link",
+                "label": "OAuth 鉴权",
+                "href": "/devsec/系统权限/鉴权解决方案/OAuth 鉴权",
+                "docId": "系统权限/鉴权解决方案/OAuth 鉴权"
+              },
+              {
+                "type": "link",
+                "label": "联合登录和信任登录",
+                "href": "/devsec/系统权限/鉴权解决方案/联合登录和信任登录",
+                "docId": "系统权限/鉴权解决方案/联合登录和信任登录"
+              },
+              {
+                "type": "link",
+                "label": "唯一登录",
+                "href": "/devsec/系统权限/鉴权解决方案/唯一登录",
+                "docId": "系统权限/鉴权解决方案/唯一登录"
+              },
+              {
+                "type": "link",
+                "label": "扫码登录",
+                "href": "/devsec/系统权限/鉴权解决方案/扫码登录",
+                "docId": "系统权限/鉴权解决方案/扫码登录"
+              },
+              {
+                "type": "link",
+                "label": "一键登录",
+                "href": "/devsec/系统权限/鉴权解决方案/一键登录（适用于原生APP）",
+                "docId": "系统权限/鉴权解决方案/一键登录（适用于原生APP）"
+              }
+            ],
+            "href": "/devsec/category/鉴权解决方案"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "网络安全",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "OpenPGP",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "GnuPG 简明笔记",
+                "href": "/devsec/网络安全/OpenPGP/GnuPG 简明笔记",
+                "docId": "网络安全/OpenPGP/GnuPG 简明笔记"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "OpenSSH",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "简介",
+                "href": "/devsec/网络安全/OpenSSH/简介",
+                "docId": "网络安全/OpenSSH/简介"
+              },
+              {
+                "type": "link",
+                "label": "客户端",
+                "href": "/devsec/网络安全/OpenSSH/客户端",
+                "docId": "网络安全/OpenSSH/客户端"
+              },
+              {
+                "type": "link",
+                "label": "密钥登录",
+                "href": "/devsec/网络安全/OpenSSH/密钥登录",
+                "docId": "网络安全/OpenSSH/密钥登录"
+              },
+              {
+                "type": "link",
+                "label": "服务器",
+                "href": "/devsec/网络安全/OpenSSH/服务器",
+                "docId": "网络安全/OpenSSH/服务器"
+              },
+              {
+                "type": "link",
+                "label": "端口转发",
+                "href": "/devsec/网络安全/OpenSSH/端口转发",
+                "docId": "网络安全/OpenSSH/端口转发"
+              },
+              {
+                "type": "link",
+                "label": "证书登录",
+                "href": "/devsec/网络安全/OpenSSH/证书登录",
+                "docId": "网络安全/OpenSSH/证书登录"
+              },
+              {
+                "type": "link",
+                "label": "scp 命令",
+                "href": "/devsec/网络安全/OpenSSH/scp 命令",
+                "docId": "网络安全/OpenSSH/scp 命令"
+              },
+              {
+                "type": "link",
+                "label": "rsync 命令",
+                "href": "/devsec/网络安全/OpenSSH/rsync 命令",
+                "docId": "网络安全/OpenSSH/rsync 命令"
+              },
+              {
+                "type": "link",
+                "label": "sftp 命令",
+                "href": "/devsec/网络安全/OpenSSH/sftp 命令",
+                "docId": "网络安全/OpenSSH/sftp 命令"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "OpenSSL",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "OpenSSL 简明笔记",
+                "href": "/devsec/网络安全/OpenSSL/OpenSSL 简明笔记",
+                "docId": "网络安全/OpenSSL/OpenSSL 简明笔记"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "防火墙",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "网络端口大全",
+                "href": "/devsec/网络安全/防火墙/网络端口大全",
+                "docId": "网络安全/防火墙/网络端口大全"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "密码学/密码学简明指南": {
+      "id": "密码学/密码学简明指南",
+      "title": "密码学简明指南",
+      "description": "这篇文章不涉及密码学的数学原理，只提及相关概念和应用",
+      "sidebar": "tutorialSidebar"
+    },
+    "网络安全/防火墙/网络端口大全": {
+      "id": "网络安全/防火墙/网络端口大全",
+      "title": "网络端口大全",
+      "description": "（1）硬件设备中的端口",
+      "sidebar": "tutorialSidebar"
+    },
+    "网络安全/OpenPGP/GnuPG 简明笔记": {
+      "id": "网络安全/OpenPGP/GnuPG 简明笔记",
+      "title": "GnuPG 简明笔记",
+      "description": "简介",
+      "sidebar": "tutorialSidebar"
+    },
+    "网络安全/OpenSSH/端口转发": {
+      "id": "网络安全/OpenSSH/端口转发",
+      "title": "端口转发",
+      "description": "简介",
+      "sidebar": "tutorialSidebar"
+    },
+    "网络安全/OpenSSH/服务器": {
+      "id": "网络安全/OpenSSH/服务器",
+      "title": "服务器",
+      "description": "简介",
+      "sidebar": "tutorialSidebar"
+    },
+    "网络安全/OpenSSH/简介": {
+      "id": "网络安全/OpenSSH/简介",
+      "title": "简介",
+      "description": "SSH 是什么",
+      "sidebar": "tutorialSidebar"
+    },
+    "网络安全/OpenSSH/客户端": {
+      "id": "网络安全/OpenSSH/客户端",
+      "title": "客户端",
+      "description": "简介",
+      "sidebar": "tutorialSidebar"
+    },
+    "网络安全/OpenSSH/密钥登录": {
+      "id": "网络安全/OpenSSH/密钥登录",
+      "title": "密钥登录",
+      "description": "SSH 默认采用密码登录，这种方法有很多缺点，简单的密码不安全，复杂的密码不容易记忆，每次手动输入也很麻烦。密钥登录是比密码登录更好的解决方案。",
+      "sidebar": "tutorialSidebar"
+    },
+    "网络安全/OpenSSH/证书登录": {
+      "id": "网络安全/OpenSSH/证书登录",
+      "title": "证书登录",
+      "description": "SSH 是服务器登录工具，一般情况下都采用密码登录或密钥登录。",
+      "sidebar": "tutorialSidebar"
+    },
+    "网络安全/OpenSSH/rsync 命令": {
+      "id": "网络安全/OpenSSH/rsync 命令",
+      "title": "rsync 命令",
+      "description": "简介",
+      "sidebar": "tutorialSidebar"
+    },
+    "网络安全/OpenSSH/scp 命令": {
+      "id": "网络安全/OpenSSH/scp 命令",
+      "title": "scp 命令",
+      "description": "scp是 SSH 提供的一个客户端程序，用来在两台主机之间加密传送文件（即复制文件）。",
+      "sidebar": "tutorialSidebar"
+    },
+    "网络安全/OpenSSH/sftp 命令": {
+      "id": "网络安全/OpenSSH/sftp 命令",
+      "title": "sftp 命令",
+      "description": "sftp是 SSH 提供的一个客户端应用程序，主要用来安全地访问 FTP。因为 FTP 是不加密协议，很不安全，sftp就相当于将 FTP 放入了 SSH。",
+      "sidebar": "tutorialSidebar"
+    },
+    "网络安全/OpenSSL/OpenSSL 简明笔记": {
+      "id": "网络安全/OpenSSL/OpenSSL 简明笔记",
+      "title": "OpenSSL 简明笔记",
+      "description": "OpenSSL 的一般使用",
+      "sidebar": "tutorialSidebar"
+    },
+    "系统权限/鉴权解决方案/单点登录（Single Sign On）": {
+      "id": "系统权限/鉴权解决方案/单点登录（Single Sign On）",
+      "title": "SSO 单点登录",
+      "description": "SSO 单点登录",
+      "sidebar": "tutorialSidebar"
+    },
+    "系统权限/鉴权解决方案/联合登录和信任登录": {
+      "id": "系统权限/鉴权解决方案/联合登录和信任登录",
+      "title": "联合登录和信任登录",
+      "description": "联合登录和信任登录",
+      "sidebar": "tutorialSidebar"
+    },
+    "系统权限/鉴权解决方案/扫码登录": {
+      "id": "系统权限/鉴权解决方案/扫码登录",
+      "title": "扫码登录",
+      "description": "扫码登录",
+      "sidebar": "tutorialSidebar"
+    },
+    "系统权限/鉴权解决方案/唯一登录": {
+      "id": "系统权限/鉴权解决方案/唯一登录",
+      "title": "唯一登录",
+      "description": "唯一登录",
+      "sidebar": "tutorialSidebar"
+    },
+    "系统权限/鉴权解决方案/一键登录（适用于原生APP）": {
+      "id": "系统权限/鉴权解决方案/一键登录（适用于原生APP）",
+      "title": "一键登录",
+      "description": "一键登录",
+      "sidebar": "tutorialSidebar"
+    },
+    "系统权限/鉴权解决方案/HTTP 基本鉴权": {
+      "id": "系统权限/鉴权解决方案/HTTP 基本鉴权",
+      "title": "HTTP 基本鉴权",
+      "description": "HTTP 基本鉴权",
+      "sidebar": "tutorialSidebar"
+    },
+    "系统权限/鉴权解决方案/JWT（JSON Web Token）鉴权": {
+      "id": "系统权限/鉴权解决方案/JWT（JSON Web Token）鉴权",
+      "title": "JWT 鉴权",
+      "description": "JWT 鉴权",
+      "sidebar": "tutorialSidebar"
+    },
+    "系统权限/鉴权解决方案/OAuth 鉴权": {
+      "id": "系统权限/鉴权解决方案/OAuth 鉴权",
+      "title": "OAuth 鉴权",
+      "description": "OAuth 鉴权",
+      "sidebar": "tutorialSidebar"
+    },
+    "系统权限/鉴权解决方案/Session-Cookie 鉴权": {
+      "id": "系统权限/鉴权解决方案/Session-Cookie 鉴权",
+      "title": "Session-Cookie 鉴权",
+      "description": "Session-Cookie 鉴权",
+      "sidebar": "tutorialSidebar"
+    },
+    "系统权限/鉴权解决方案/Token 鉴权": {
+      "id": "系统权限/鉴权解决方案/Token 鉴权",
+      "title": "Token 鉴权",
+      "description": "Token 鉴权",
+      "sidebar": "tutorialSidebar"
+    },
+    "系统权限/权限设计方案/主流权限系统的设计": {
+      "id": "系统权限/权限设计方案/主流权限系统的设计",
+      "title": "主流权限系统的设计",
+      "description": "权限管控可以通俗的理解为权力限制，即不同的人由于拥有不同权力，他所看到的、能使用的可能不一样。对应到一个应用系统，其实就是一个用户可能拥有不同的数据权限（看到的）和操作权限（使用的）。",
+      "sidebar": "tutorialSidebar"
+    },
+    "系统权限/系统权限简明指南": {
+      "id": "系统权限/系统权限简明指南",
+      "title": "系统权限简明指南",
+      "description": "系统权限简明指南",
+      "sidebar": "tutorialSidebar"
+    },
+    "home": {
+      "id": "home",
+      "title": "Home",
+      "description": "信息运维工程师 ~ 🤩🤩🤩",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

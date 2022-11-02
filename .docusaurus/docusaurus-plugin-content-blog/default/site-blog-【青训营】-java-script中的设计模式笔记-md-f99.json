@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/【青训营】- JavaScript中的设计模式笔记",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/【青训营】- JavaScript中的设计模式笔记.md",
+  "source": "@site/blog/【青训营】- JavaScript中的设计模式笔记.md",
+  "title": "【青训营】- JavaScript中的设计模式笔记",
+  "description": "什么是设计模式？",
+  "date": "2021-09-04T00:00:00.000Z",
+  "formattedDate": "2021年9月4日",
+  "tags": [
+    {
+      "label": "青训营",
+      "permalink": "/blog/tags/青训营"
+    }
+  ],
+  "readingTime": 3.01,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "【青训营】- JavaScript中的设计模式笔记",
+    "date": "2021-9-4",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "青训营",
+    "tags": [
+      "青训营"
+    ]
+  },
+  "prevItem": {
+    "title": "大厂面试必须掌握的六种继承方式，你会吗？",
+    "permalink": "/blog/大厂面试必须掌握的六种继承方式，你会吗？"
+  },
+  "nextItem": {
+    "title": "这一次，彻底搞懂useEffect",
+    "permalink": "/blog/这一次，彻底搞懂useEffect"
+  }
+}

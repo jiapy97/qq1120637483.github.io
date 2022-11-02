@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/使用egg-mysql操作MySQL数据库",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/使用egg-mysql操作MySQL数据库.md",
+  "source": "@site/blog\\使用egg-mysql操作MySQL数据库.md",
+  "title": "使用egg-mysql操作MySQL数据库",
+  "description": "MySQL事务",
+  "date": "2021-11-09T00:00:00.000Z",
+  "formattedDate": "2021年11月9日",
+  "tags": [
+    {
+      "label": "Egg.js",
+      "permalink": "/blog/tags/egg-js"
+    }
+  ],
+  "readingTime": 4.15,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "使用egg-mysql操作MySQL数据库",
+    "date": "2021-11-09T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Egg.js",
+    "tags": [
+      "Egg.js"
+    ]
+  },
+  "prevItem": {
+    "title": "LeetCode——Excel表列名称（进制转换）",
+    "permalink": "/blog/LeetCode——Excel表列名称（进制转换）"
+  },
+  "nextItem": {
+    "title": "晨兴夜寐：这一次，彻底搞懂Cookie,LocalStorage,SessionStorage",
+    "permalink": "/blog/晨兴夜寐：这一次，彻底搞懂Cookie,LocalStorage,SessionStorage"
+  }
+}

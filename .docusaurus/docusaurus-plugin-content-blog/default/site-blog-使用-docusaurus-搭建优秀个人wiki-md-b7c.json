@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/使用 Docusaurus 搭建优秀个人wiki",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/使用 Docusaurus 搭建优秀个人wiki.md",
+  "source": "@site/blog/使用 Docusaurus 搭建优秀个人wiki.md",
+  "title": "使用 Docusaurus 搭建优秀个人wiki",
+  "description": "使用 Docusaurus 搭建优秀个人wiki",
+  "date": "2022-07-27T00:00:00.000Z",
+  "formattedDate": "2022年7月27日",
+  "tags": [
+    {
+      "label": "博客",
+      "permalink": "/blog/tags/博客"
+    }
+  ],
+  "readingTime": 6.55,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "使用 Docusaurus 搭建优秀个人wiki",
+    "description": "使用 Docusaurus 搭建优秀个人wiki",
+    "keywords": [
+      "Docusaurus",
+      "wiki"
+    ],
+    "tags": [
+      "博客"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2022-07-27T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "写博客的正确姿势 - 测试版",
+    "permalink": "/blog/写博客的正确姿势 - 测试版"
+  },
+  "nextItem": {
+    "title": "新手村村长",
+    "permalink": "/blog/新手村村长"
+  }
+}

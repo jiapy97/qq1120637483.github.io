@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/Chrome浏览器的拓展程序的安装位置",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Chrome浏览器的拓展程序的安装位置.md",
+  "source": "@site/blog\\Chrome浏览器的拓展程序的安装位置.md",
+  "title": "Chrome浏览器的拓展程序的安装位置",
+  "description": "这篇博客讲的很清楚",
+  "date": "2020-04-29T00:00:00.000Z",
+  "formattedDate": "2020年4月29日",
+  "tags": [
+    {
+      "label": "谷歌浏览器",
+      "permalink": "/blog/tags/谷歌浏览器"
+    }
+  ],
+  "readingTime": 0.105,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Chrome浏览器的拓展程序的安装位置",
+    "date": "2020-04-29T00:00:00.000Z",
+    "categories": "谷歌浏览器",
+    "tags": [
+      "谷歌浏览器"
+    ]
+  },
+  "prevItem": {
+    "title": "13 款内容收集整理利器，打造你专属的个人知识库标注利器总结",
+    "permalink": "/blog/13 款内容收集整理利器，打造你专属的个人知识库标注利器总结"
+  },
+  "nextItem": {
+    "title": "Linux之Vim命令行模式",
+    "permalink": "/blog/Linux之Vim命令行模式"
+  }
+}

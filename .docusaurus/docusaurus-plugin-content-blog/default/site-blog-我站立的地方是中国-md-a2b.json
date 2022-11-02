@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/我站立的地方是中国",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/我站立的地方是中国.md",
+  "source": "@site/blog/我站立的地方是中国.md",
+  "title": "我站立的地方是中国",
+  "description": "我站立的地方是中国",
+  "date": "2021-02-19T00:00:00.000Z",
+  "formattedDate": "2021年2月19日",
+  "tags": [
+    {
+      "label": "纪念",
+      "permalink": "/blog/tags/纪念"
+    }
+  ],
+  "readingTime": 0.34,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "我站立的地方是中国",
+    "description": "我站立的地方是中国",
+    "keywords": [
+      "中国",
+      "致敬"
+    ],
+    "tags": [
+      "纪念"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2021-02-19T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "VIVO IQOO Neo3 开箱测评",
+    "permalink": "/blog/VIVO IQOO Neo3 开箱测评"
+  },
+  "nextItem": {
+    "title": "2021",
+    "permalink": "/blog/2021"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "基础",
+  "slug": "/category/基础",
+  "permalink": "/devops/category/基础",
+  "navigation": {
+    "previous": {
+      "title": "Linux 主流社区",
+      "permalink": "/devops/Linux/文化/Linux 主流社区"
+    },
+    "next": {
+      "title": "常用命令",
+      "permalink": "/devops/Linux/基础/常用命令"
+    }
+  }
+}

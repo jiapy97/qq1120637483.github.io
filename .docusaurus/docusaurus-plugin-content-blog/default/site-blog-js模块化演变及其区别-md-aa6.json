@@ -1,0 +1,37 @@
+{
+  "permalink": "/blog/JS模块化演变及其区别",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/JS模块化演变及其区别.md",
+  "source": "@site/blog\\JS模块化演变及其区别.md",
+  "title": "JS模块化演变及其区别",
+  "description": "为什么需要模块化？",
+  "date": "2022-05-12T00:00:00.000Z",
+  "formattedDate": "2022年5月12日",
+  "tags": [
+    {
+      "label": "面试题",
+      "permalink": "/blog/tags/面试题"
+    }
+  ],
+  "readingTime": 3.41,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "JS模块化演变及其区别",
+    "date": "2022-05-12T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "面试题",
+    "tags": [
+      "面试题"
+    ]
+  },
+  "nextItem": {
+    "title": "你知道原型链？那你能实现一个new吗？",
+    "permalink": "/blog/你知道原型链？那你能实现一个new吗？"
+  }
+}

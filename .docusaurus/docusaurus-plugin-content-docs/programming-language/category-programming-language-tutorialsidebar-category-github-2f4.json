@@ -1,0 +1,15 @@
+{
+  "title": "Github",
+  "slug": "/category/github",
+  "permalink": "/programming-language/category/github",
+  "navigation": {
+    "previous": {
+      "title": "开源协议（License）",
+      "permalink": "/programming-language/Git/高级/协作规范/开源协议（License）"
+    },
+    "next": {
+      "title": "GitHub 奇技淫巧",
+      "permalink": "/programming-language/Git/高级/Github/GitHub 奇技淫巧"
+    }
+  }
+}

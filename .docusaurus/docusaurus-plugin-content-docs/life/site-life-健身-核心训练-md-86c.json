@@ -1,0 +1,33 @@
+{
+  "unversionedId": "健身/核心训练",
+  "id": "健身/核心训练",
+  "title": "核心训练",
+  "description": "初级",
+  "source": "@site/life\\健身\\核心训练.md",
+  "sourceDirName": "健身",
+  "slug": "/健身/核心训练",
+  "permalink": "/life/健身/核心训练",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/life/健身/核心训练.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "核心训练",
+    "title": "核心训练",
+    "sidebar_position": 2,
+    "data": "2022年05月31日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "热身",
+    "permalink": "/life/健身/热身"
+  },
+  "next": {
+    "title": "上肢训练",
+    "permalink": "/life/健身/上肢训练"
+  }
+}

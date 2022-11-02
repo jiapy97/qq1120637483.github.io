@@ -1,0 +1,50 @@
+{
+  "permalink": "/blog/Redemption 主题 0.2.1 版本",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Redemption 主题 0.2.1 版本.md",
+  "source": "@site/blog/Redemption 主题 0.2.1 版本.md",
+  "title": "Redemption 主题 0.2.1 版本",
+  "description": "Redemption 主题 0.2.1 版本",
+  "date": "2022-09-14T00:00:00.000Z",
+  "formattedDate": "2022年9月14日",
+  "tags": [
+    {
+      "label": "开源",
+      "permalink": "/blog/tags/开源"
+    }
+  ],
+  "readingTime": 1.345,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "Redemption 主题 0.2.1 版本",
+    "description": "Redemption 主题 0.2.1 版本",
+    "keywords": [
+      "Halo",
+      "主题",
+      "Redemption"
+    ],
+    "tags": [
+      "开源"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2022-09-14T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "闭门锁网",
+    "permalink": "/blog/闭门锁网"
+  },
+  "nextItem": {
+    "title": "我是关系户",
+    "permalink": "/blog/我是关系户"
+  }
+}

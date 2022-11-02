@@ -1,0 +1,33 @@
+{
+  "unversionedId": "开源入门/如何向开源社区提问",
+  "id": "开源入门/如何向开源社区提问",
+  "title": "如何向开源社区提问",
+  "description": "使用软件产品，或多或少都会遇到问题。对于商业产品，我们可以咨询客服寻求帮助。对于公司自己研发的产品，我们可以直接请教专家同事。但对于开源软件，在遇到问题时，如何才能及时有效地寻求帮助呢？",
+  "source": "@site/group/organization/开源入门/如何向开源社区提问.md",
+  "sourceDirName": "开源入门",
+  "slug": "/开源入门/如何向开源社区提问",
+  "permalink": "/org/开源入门/如何向开源社区提问",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/group/organization/开源入门/如何向开源社区提问.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "如何向开源社区提问",
+    "title": "如何向开源社区提问",
+    "sidebar_position": 2,
+    "data": "2022年5月30日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "开源指北",
+    "permalink": "/org/开源入门/开源指北"
+  },
+  "next": {
+    "title": "如何有效报告 BUG",
+    "permalink": "/org/开源入门/如何有效报告 BUG"
+  }
+}

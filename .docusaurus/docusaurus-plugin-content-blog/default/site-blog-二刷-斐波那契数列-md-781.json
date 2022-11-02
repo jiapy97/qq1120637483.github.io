@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/二刷--斐波那契数列",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/二刷--斐波那契数列.md",
+  "source": "@site/blog/二刷--斐波那契数列.md",
+  "title": "二刷--斐波那契数列",
+  "description": "这是博主第二次刷这个题目，经典题目的经典算法，斐波那契数列可以采用递归来进行求解，但是如果要求的数字比较大的情况下，会出现重复计算的问题，复杂度比较高，所以我们本次采用的是非递归的方法，极大的降低了时间和空间复杂度。",
+  "date": "2021-09-17T00:00:00.000Z",
+  "formattedDate": "2021年9月17日",
+  "tags": [
+    {
+      "label": "面试题",
+      "permalink": "/blog/tags/面试题"
+    }
+  ],
+  "readingTime": 1.44,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "二刷--斐波那契数列",
+    "date": "2021-9-17",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "面试题",
+    "tags": [
+      "面试题"
+    ]
+  },
+  "prevItem": {
+    "title": "Next.js下配置babel以支持Css-In-Js",
+    "permalink": "/blog/Next.js下配置babel以支持Css-In-Js"
+  },
+  "nextItem": {
+    "title": "一篇文章掌握Next.js的核心要点",
+    "permalink": "/blog/一篇文章掌握Next.js的核心要点"
+  }
+}

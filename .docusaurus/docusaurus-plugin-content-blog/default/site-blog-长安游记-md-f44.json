@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/长安游记",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/长安游记.md",
+  "source": "@site/blog/长安游记.md",
+  "title": "长安游记",
+  "description": "长安游记",
+  "date": "2020-07-18T00:00:00.000Z",
+  "formattedDate": "2020年7月18日",
+  "tags": [
+    {
+      "label": "旅游",
+      "permalink": "/blog/tags/旅游"
+    }
+  ],
+  "readingTime": 12.095,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "长安游记",
+    "description": "长安游记",
+    "keywords": [
+      "长安",
+      "游记"
+    ],
+    "tags": [
+      "旅游"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2020-07-18T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "夏日花记",
+    "permalink": "/blog/夏日花记"
+  },
+  "nextItem": {
+    "title": "浅谈个人服务器架构",
+    "permalink": "/blog/浅谈个人服务器架构"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "应用系统/CRM（客户关系管理）",
+  "id": "应用系统/CRM（客户关系管理）",
+  "title": "CRM（客户关系管理）",
+  "description": "概述",
+  "source": "@site/group\\company\\应用系统\\CRM（客户关系管理）.md",
+  "sourceDirName": "应用系统",
+  "slug": "/应用系统/CRM（客户关系管理）",
+  "permalink": "/com/应用系统/CRM（客户关系管理）",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/group/company/应用系统/CRM（客户关系管理）.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "id": "CRM（客户关系管理）",
+    "title": "CRM（客户关系管理）",
+    "data": "2022年8月1日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CMS（内容管理系统）",
+    "permalink": "/com/应用系统/CMS（内容管理系统）"
+  },
+  "next": {
+    "title": "ERP（企业资源计划）",
+    "permalink": "/com/应用系统/ERP（企业资源计划）"
+  }
+}

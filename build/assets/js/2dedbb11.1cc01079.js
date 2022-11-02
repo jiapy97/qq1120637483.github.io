@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[63442],{77437:s=>{s.exports=JSON.parse('{"label":"ES6","permalink":"/blog/tags/es-6","allTagsPath":"/blog/tags","count":61}')}}]);

@@ -1,0 +1,38 @@
+{
+  "label": "Python",
+  "permalink": "/programming-language/tags/python",
+  "allTagsPath": "/programming-language/tags",
+  "count": 5,
+  "items": [
+    {
+      "id": "Python/文化/发展历史",
+      "title": "发展历史",
+      "description": "Python的历史由来",
+      "permalink": "/programming-language/Python/文化/发展历史"
+    },
+    {
+      "id": "Python/文化/设计哲学",
+      "title": "设计哲学",
+      "description": "Python 的设计哲学",
+      "permalink": "/programming-language/Python/文化/设计哲学"
+    },
+    {
+      "id": "Python/文化/社区文化",
+      "title": "社区文化",
+      "description": "Python 的社区文化",
+      "permalink": "/programming-language/Python/文化/社区文化"
+    },
+    {
+      "id": "Python/文化/生命周期",
+      "title": "生命周期",
+      "description": "Python 版本生命周期",
+      "permalink": "/programming-language/Python/文化/生命周期"
+    },
+    {
+      "id": "Python/文化/语言特性",
+      "title": "语言特性",
+      "description": "Python 的语言特性",
+      "permalink": "/programming-language/Python/文化/语言特性"
+    }
+  ]
+}

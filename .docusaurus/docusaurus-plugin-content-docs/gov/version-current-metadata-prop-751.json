@@ -1,0 +1,61 @@
+{
+  "pluginId": "gov",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "概述",
+        "href": "/gov/",
+        "docId": "home"
+      },
+      {
+        "type": "category",
+        "label": "中国",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "标准组织",
+            "href": "/gov/中国国家标准/标准组织",
+            "docId": "中国国家标准/标准组织"
+          },
+          {
+            "type": "link",
+            "label": "法律合同",
+            "href": "/gov/中国国家标准/法律合同",
+            "docId": "中国国家标准/法律合同"
+          }
+        ],
+        "href": "/gov/category/中国"
+      }
+    ]
+  },
+  "docs": {
+    "中国国家标准/标准组织": {
+      "id": "中国国家标准/标准组织",
+      "title": "标准组织",
+      "description": "机构",
+      "sidebar": "tutorialSidebar"
+    },
+    "中国国家标准/法律合同": {
+      "id": "中国国家标准/法律合同",
+      "title": "法律合同",
+      "description": "官方",
+      "sidebar": "tutorialSidebar"
+    },
+    "home": {
+      "id": "home",
+      "title": "概述",
+      "description": "国家政府",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/React之shouldComponentUpdate的用法",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/React之shouldComponentUpdate的用法.md",
+  "source": "@site/blog/React之shouldComponentUpdate的用法.md",
+  "title": "React之shouldComponentUpdate的用法",
+  "description": "为什么要使用shouldComponentUpdate?",
+  "date": "2021-07-19T00:00:00.000Z",
+  "formattedDate": "2021年7月19日",
+  "tags": [
+    {
+      "label": "React",
+      "permalink": "/blog/tags/react"
+    }
+  ],
+  "readingTime": 0.825,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "React之shouldComponentUpdate的用法",
+    "date": "2021-7-19",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "React",
+    "tags": [
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "React之PureComponent的用法",
+    "permalink": "/blog/React之PureComponent的用法"
+  },
+  "nextItem": {
+    "title": "这一次彻底搞懂JS中的防抖和节流",
+    "permalink": "/blog/这一次彻底搞懂JS中的防抖和节流"
+  }
+}

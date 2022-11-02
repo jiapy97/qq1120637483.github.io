@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/电话号码验证器（FreeCodeCamp）",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/电话号码验证器（FreeCodeCamp）.md",
+  "source": "@site/blog/电话号码验证器（FreeCodeCamp）.md",
+  "title": "电话号码验证器（FreeCodeCamp）",
+  "description": "题目描述",
+  "date": "2021-07-23T00:00:00.000Z",
+  "formattedDate": "2021年7月23日",
+  "tags": [
+    {
+      "label": "FreeCodeCamp",
+      "permalink": "/blog/tags/free-code-camp"
+    }
+  ],
+  "readingTime": 0.715,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "电话号码验证器（FreeCodeCamp）",
+    "date": "2021-7-23",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "FreeCodeCamp",
+    "tags": [
+      "FreeCodeCamp"
+    ]
+  },
+  "prevItem": {
+    "title": "LeetCode——两个数组的交集（JS实现）",
+    "permalink": "/blog/LeetCode——两个数组的交集（JS实现）"
+  },
+  "nextItem": {
+    "title": "TypeScript的类型推论与联合类型--(TypeScript 03)",
+    "permalink": "/blog/TypeScript的类型推论与联合类型--(TypeScript 03)"
+  }
+}

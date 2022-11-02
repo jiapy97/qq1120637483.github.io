@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/习惯养成第一步",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/习惯养成第一步.md",
+  "source": "@site/blog/习惯养成第一步.md",
+  "title": "习惯养成第一步",
+  "description": "个人成长过程中的习惯养成和学习的方法论",
+  "date": "2022-10-08T00:00:00.000Z",
+  "formattedDate": "2022年10月8日",
+  "tags": [
+    {
+      "label": "习惯",
+      "permalink": "/blog/tags/习惯"
+    }
+  ],
+  "readingTime": 6.08,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "习惯养成第一步",
+    "description": "个人成长过程中的习惯养成和学习的方法论",
+    "keywords": [
+      "成长",
+      "习惯"
+    ],
+    "tags": [
+      "习惯"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2022-10-08T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "「转载」访谈总结",
+    "permalink": "/blog/「转载」访谈总结"
+  },
+  "nextItem": {
+    "title": "闭门锁网",
+    "permalink": "/blog/闭门锁网"
+  }
+}

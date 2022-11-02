@@ -1,0 +1,46 @@
+{
+  "unversionedId": "Python/文化/语言特性",
+  "id": "Python/文化/语言特性",
+  "title": "语言特性",
+  "description": "Python 的语言特性",
+  "source": "@site/wiki\\programming-language\\Python\\文化\\语言特性.md",
+  "sourceDirName": "Python/文化",
+  "slug": "/Python/文化/语言特性",
+  "permalink": "/programming-language/Python/文化/语言特性",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/Python/文化/语言特性.md",
+  "tags": [
+    {
+      "label": "Python",
+      "permalink": "/programming-language/tags/python"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "语言特性",
+    "description": "Python 的语言特性",
+    "keywords": [
+      "Python",
+      "特征"
+    ],
+    "tags": [
+      "Python"
+    ],
+    "sidebar_position": 3,
+    "author": "7Wate",
+    "date": "2022-10-18T00:00:00.000Z"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "设计哲学",
+    "permalink": "/programming-language/Python/文化/设计哲学"
+  },
+  "next": {
+    "title": "生命周期",
+    "permalink": "/programming-language/Python/文化/生命周期"
+  }
+}

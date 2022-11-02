@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/搭建next前台开发环境并引入antd",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/搭建next前台开发环境并引入antd.md",
+  "source": "@site/blog\\搭建next前台开发环境并引入antd.md",
+  "title": "搭建next前台开发环境并引入antd",
+  "description": "参考文档：https://jspang.com/detailed?id=52",
+  "date": "2021-09-14T00:00:00.000Z",
+  "formattedDate": "2021年9月14日",
+  "tags": [
+    {
+      "label": "Next",
+      "permalink": "/blog/tags/next"
+    }
+  ],
+  "readingTime": 0.87,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "搭建next前台开发环境并引入antd",
+    "date": "2021-9-14",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Next",
+    "tags": [
+      "Next"
+    ]
+  },
+  "prevItem": {
+    "title": "LeetCode——长度最小的子数组（滑动窗口）",
+    "permalink": "/blog/LeetCode——长度最小的子数组（滑动窗口）"
+  },
+  "nextItem": {
+    "title": "【青训营】- 走进Web多媒体笔记",
+    "permalink": "/blog/【青训营】- 走进Web多媒体笔记"
+  }
+}

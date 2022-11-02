@@ -1,0 +1,47 @@
+{
+  "unversionedId": "JavaScript/包管理工具",
+  "id": "JavaScript/包管理工具",
+  "title": "包管理工具",
+  "description": "JavaScript 包管理工具",
+  "source": "@site/wiki\\programming-language\\JavaScript\\包管理工具.md",
+  "sourceDirName": "JavaScript",
+  "slug": "/JavaScript/包管理工具",
+  "permalink": "/programming-language/JavaScript/包管理工具",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/JavaScript/包管理工具.md",
+  "tags": [
+    {
+      "label": "JavaScript",
+      "permalink": "/programming-language/tags/java-script"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "frontMatter": {
+    "title": "包管理工具",
+    "description": "JavaScript 包管理工具",
+    "keywords": [
+      "JavaScript",
+      "包管理",
+      "npm",
+      "yarn",
+      "pnpm"
+    ],
+    "tags": [
+      "JavaScript"
+    ],
+    "author": "7Wate",
+    "date": "2022-09-06T00:00:00.000Z"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "面对对象",
+    "permalink": "/programming-language/Java/面对对象"
+  },
+  "next": {
+    "title": "数据库概述",
+    "permalink": "/programming-language/MySQL/数据库概述"
+  }
+}

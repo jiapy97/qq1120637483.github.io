@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/安装sass并将sass文件转换为css文件",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/安装sass并将sass文件转换为css文件.md",
+  "source": "@site/blog/安装sass并将sass文件转换为css文件.md",
+  "title": "安装sass并将sass文件转换为css文件",
+  "description": "安装sass",
+  "date": "2022-01-07T00:00:00.000Z",
+  "formattedDate": "2022年1月7日",
+  "tags": [
+    {
+      "label": "Sass",
+      "permalink": "/blog/tags/sass"
+    }
+  ],
+  "readingTime": 0.885,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "安装sass并将sass文件转换为css文件",
+    "date": "2022-01-07T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Sass",
+    "tags": [
+      "Sass"
+    ]
+  },
+  "prevItem": {
+    "title": "这一次，彻底搞懂困扰已久的Redux",
+    "permalink": "/blog/这一次，彻底搞懂困扰已久的Redux"
+  },
+  "nextItem": {
+    "title": "LeetCode——最小栈（辅助栈）",
+    "permalink": "/blog/LeetCode——最小栈（辅助栈）"
+  }
+}

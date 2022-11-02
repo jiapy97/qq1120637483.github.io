@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/大白话阐述什么是BFC（一道可能的面试题）",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/大白话阐述什么是BFC（一道可能的面试题）.md",
+  "source": "@site/blog\\大白话阐述什么是BFC（一道可能的面试题）.md",
+  "title": "大白话阐述什么是BFC（一道可能的面试题）",
+  "description": "什么是BFC？",
+  "date": "2022-03-31T00:00:00.000Z",
+  "formattedDate": "2022年3月31日",
+  "tags": [
+    {
+      "label": "面试题",
+      "permalink": "/blog/tags/面试题"
+    }
+  ],
+  "readingTime": 2.75,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "大白话阐述什么是BFC（一道可能的面试题）",
+    "date": "2022-3-31",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "面试题",
+    "tags": [
+      "面试题"
+    ]
+  },
+  "prevItem": {
+    "title": "这一次，彻底搞懂Vue的组件通信",
+    "permalink": "/blog/这一次，彻底搞懂Vue的组件通信"
+  },
+  "nextItem": {
+    "title": "浏览器的渲染原理你了解吗？",
+    "permalink": "/blog/浏览器的渲染原理你了解吗？"
+  }
+}

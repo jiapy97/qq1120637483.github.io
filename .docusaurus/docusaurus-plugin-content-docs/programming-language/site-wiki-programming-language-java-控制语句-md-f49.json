@@ -1,0 +1,33 @@
+{
+  "unversionedId": "Java/控制语句",
+  "id": "Java/控制语句",
+  "title": "控制语句",
+  "description": "Java 中的控制语句其实和 C 一样，会涉及刀包括 if-else、while、do-while、for、return、break、switch。",
+  "source": "@site/wiki\\programming-language\\Java\\控制语句.md",
+  "sourceDirName": "Java",
+  "slug": "/Java/控制语句",
+  "permalink": "/programming-language/Java/控制语句",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/Java/控制语句.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "控制语句",
+    "title": "控制语句",
+    "sidebar_position": 3,
+    "data": "2022年4月26日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "基本语法",
+    "permalink": "/programming-language/Java/基本语法"
+  },
+  "next": {
+    "title": "面对对象",
+    "permalink": "/programming-language/Java/面对对象"
+  }
+}

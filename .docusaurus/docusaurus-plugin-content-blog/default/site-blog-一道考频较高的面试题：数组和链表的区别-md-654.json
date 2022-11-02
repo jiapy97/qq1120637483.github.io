@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/一道考频较高的面试题：数组和链表的区别",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/一道考频较高的面试题：数组和链表的区别.md",
+  "source": "@site/blog\\一道考频较高的面试题：数组和链表的区别.md",
+  "title": "一道考频较高的面试题：数组和链表的区别",
+  "description": "数组和链表虽然看似很基础，但却也经常被面试官问到，所以我们还是需要熟练掌握的。",
+  "date": "2021-09-29T00:00:00.000Z",
+  "formattedDate": "2021年9月29日",
+  "tags": [
+    {
+      "label": "面试题",
+      "permalink": "/blog/tags/面试题"
+    }
+  ],
+  "readingTime": 1.04,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "一道考频较高的面试题：数组和链表的区别",
+    "date": "2021-9-29",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "面试题",
+    "tags": [
+      "面试题"
+    ]
+  },
+  "prevItem": {
+    "title": "这一次，彻底搞定伪类和伪元素的区别",
+    "permalink": "/blog/这一次，彻底搞定伪类和伪元素的区别"
+  },
+  "nextItem": {
+    "title": "你了解HTTP长连接吗？",
+    "permalink": "/blog/你了解HTTP长连接吗？"
+  }
+}

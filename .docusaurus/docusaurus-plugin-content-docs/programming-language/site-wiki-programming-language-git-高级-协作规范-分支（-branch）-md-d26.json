@@ -1,0 +1,33 @@
+{
+  "unversionedId": "Git/高级/协作规范/分支（Branch）",
+  "id": "Git/高级/协作规范/分支（Branch）",
+  "title": "分支（Branch）",
+  "description": "规范",
+  "source": "@site/wiki\\programming-language\\Git\\高级\\协作规范\\分支（Branch）.md",
+  "sourceDirName": "Git/高级/协作规范",
+  "slug": "/Git/高级/协作规范/分支（Branch）",
+  "permalink": "/programming-language/Git/高级/协作规范/分支（Branch）",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/Git/高级/协作规范/分支（Branch）.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "分支（Branch）",
+    "title": "分支（Branch）",
+    "sidebar_position": 1,
+    "data": "2022年6月15日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "协作规范",
+    "permalink": "/programming-language/category/协作规范"
+  },
+  "next": {
+    "title": "注释（Comments）",
+    "permalink": "/programming-language/Git/高级/协作规范/注释（Comments）"
+  }
+}

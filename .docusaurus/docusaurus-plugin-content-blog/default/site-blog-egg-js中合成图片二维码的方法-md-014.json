@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/Egg.js中合成图片二维码的方法",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Egg.js中合成图片二维码的方法.md",
+  "source": "@site/blog\\Egg.js中合成图片二维码的方法.md",
+  "title": "Egg.js中合成图片二维码的方法",
+  "description": "借助qr-image实现生成二维码",
+  "date": "2021-12-28T00:00:00.000Z",
+  "formattedDate": "2021年12月28日",
+  "tags": [
+    {
+      "label": "Egg.js",
+      "permalink": "/blog/tags/egg-js"
+    }
+  ],
+  "readingTime": 3.03,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "Egg.js中合成图片二维码的方法",
+    "date": "2021-12-28T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Egg.js",
+    "tags": [
+      "Egg.js"
+    ]
+  },
+  "prevItem": {
+    "title": "带你从零学会---基于JWT的接口权限验证",
+    "permalink": "/blog/带你从零学会---基于JWT的接口权限验证"
+  },
+  "nextItem": {
+    "title": "剑指Offer——对称的二叉树（JS实现）",
+    "permalink": "/blog/剑指Offer——对称的二叉树（JS实现）"
+  }
+}

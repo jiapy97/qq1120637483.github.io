@@ -1,0 +1,27 @@
+{
+  "unversionedId": "应用系统/SCM（供应链管理系统）",
+  "id": "应用系统/SCM（供应链管理系统）",
+  "title": "SCM（供应链管理系统）",
+  "description": "概述",
+  "source": "@site/group/company/应用系统/SCM（供应链管理系统）.md",
+  "sourceDirName": "应用系统",
+  "slug": "/应用系统/SCM（供应链管理系统）",
+  "permalink": "/com/应用系统/SCM（供应链管理系统）",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/group/company/应用系统/SCM（供应链管理系统）.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "id": "SCM（供应链管理系统）",
+    "title": "SCM（供应链管理系统）",
+    "data": "2022年8月2日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OA（办公自动化）",
+    "permalink": "/com/应用系统/OA（办公自动化）"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/Hexo博客使用gitee图片无法正常显示解决",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Hexo博客使用gitee图片无法正常显示解决.md",
+  "source": "@site/blog/Hexo博客使用gitee图片无法正常显示解决.md",
+  "title": "Hexo博客使用gitee图片无法正常显示解决",
+  "description": "经过系统性的排查问题，原因在于gitee不支持大于1M的图片公开访问，访问这样的图片需要登录，这也就是为什么Chrome浏览器正常（因为你登录了），其他浏览器都无法访问的原因。",
+  "date": "2020-05-02T00:00:00.000Z",
+  "formattedDate": "2020年5月2日",
+  "tags": [
+    {
+      "label": "debug",
+      "permalink": "/blog/tags/debug"
+    },
+    {
+      "label": "hexo",
+      "permalink": "/blog/tags/hexo"
+    }
+  ],
+  "readingTime": 0.355,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Hexo博客使用gitee图片无法正常显示解决",
+    "date": "2020-05-02T00:00:00.000Z",
+    "categories": "debug",
+    "tags": [
+      "debug",
+      "hexo"
+    ]
+  },
+  "prevItem": {
+    "title": "Git基础指令",
+    "permalink": "/blog/Git基础指令"
+  },
+  "nextItem": {
+    "title": "OneNote快速传图到博客",
+    "permalink": "/blog/OneNote快速传图到博客"
+  }
+}

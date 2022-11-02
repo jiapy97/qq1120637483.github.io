@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/LeetCode——删除链表的节点",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/LeetCode——删除链表的节点.md",
+  "source": "@site/blog\\LeetCode——删除链表的节点.md",
+  "title": "LeetCode——删除链表的节点",
+  "description": "题目描述",
+  "date": "2021-03-22T00:00:00.000Z",
+  "formattedDate": "2021年3月22日",
+  "tags": [
+    {
+      "label": "LeetCode",
+      "permalink": "/blog/tags/leet-code"
+    }
+  ],
+  "readingTime": 1.575,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "LeetCode——删除链表的节点",
+    "date": "2021-03-22T00:00:00.000Z",
+    "categories": "LeetCode",
+    "tags": [
+      "LeetCode"
+    ]
+  },
+  "prevItem": {
+    "title": "JavaScript中链表的基础结构与增加节点的方法",
+    "permalink": "/blog/JavaScript中链表的基础结构与增加节点的方法"
+  },
+  "nextItem": {
+    "title": "使用mouseover事件在Chrome浏览器失灵的原因",
+    "permalink": "/blog/使用mouseover事件在Chrome浏览器失灵的原因"
+  }
+}

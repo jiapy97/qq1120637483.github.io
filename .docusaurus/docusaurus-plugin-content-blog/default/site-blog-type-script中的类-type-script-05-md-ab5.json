@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/TypeScript中的类--(TypeScript 05)",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/TypeScript中的类--(TypeScript 05).md",
+  "source": "@site/blog\\TypeScript中的类--(TypeScript 05).md",
+  "title": "TypeScript中的类--(TypeScript 05)",
+  "description": "类的注解方式",
+  "date": "2021-08-14T00:00:00.000Z",
+  "formattedDate": "2021年8月14日",
+  "tags": [
+    {
+      "label": "TypeScript",
+      "permalink": "/blog/tags/type-script"
+    }
+  ],
+  "readingTime": 2.6,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "TypeScript中的类--(TypeScript 05)",
+    "date": "2021-8-14",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ]
+  },
+  "prevItem": {
+    "title": "这一次，不再为web页面生命周期烦恼",
+    "permalink": "/blog/这一次，不再为web页面生命周期烦恼"
+  },
+  "nextItem": {
+    "title": "LeetCode——反转链表（双指针）",
+    "permalink": "/blog/LeetCode——反转链表（双指针）"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/Ajax-10：服务端保存即自动重启工具包nodemon安装",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Ajax-10：服务端保存即自动重启工具包nodemon安装.md",
+  "source": "@site/blog/Ajax-10：服务端保存即自动重启工具包nodemon安装.md",
+  "title": "Ajax-10：服务端保存即自动重启工具包nodemon安装",
+  "description": "安装代码",
+  "date": "2021-03-23T00:00:00.000Z",
+  "formattedDate": "2021年3月23日",
+  "tags": [
+    {
+      "label": "Ajax",
+      "permalink": "/blog/tags/ajax"
+    }
+  ],
+  "readingTime": 0.42,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Ajax-10：服务端保存即自动重启工具包nodemon安装",
+    "date": "2021-03-23T00:00:00.000Z",
+    "categories": "Ajax",
+    "tags": [
+      "Ajax"
+    ]
+  },
+  "prevItem": {
+    "title": "Ajax-09：服务端响应JSON数据",
+    "permalink": "/blog/Ajax-09：服务端响应JSON数据"
+  },
+  "nextItem": {
+    "title": "Ajax-04：使用Ajax前的准备工作",
+    "permalink": "/blog/Ajax-04：使用Ajax前的准备工作"
+  }
+}

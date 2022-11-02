@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/需要掌握的Hooks之useReducer与useContext",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/需要掌握的Hooks之useReducer与useContext.md",
+  "source": "@site/blog/需要掌握的Hooks之useReducer与useContext.md",
+  "title": "需要掌握的Hooks之useReducer与useContext",
+  "description": "什么是useReducer?",
+  "date": "2021-09-01T00:00:00.000Z",
+  "formattedDate": "2021年9月1日",
+  "tags": [
+    {
+      "label": "Hooks",
+      "permalink": "/blog/tags/hooks"
+    }
+  ],
+  "readingTime": 2.39,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "需要掌握的Hooks之useReducer与useContext",
+    "date": "2021-9-1",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Hooks",
+    "tags": [
+      "Hooks"
+    ]
+  },
+  "prevItem": {
+    "title": "一道看似简单的阿里前端算法题",
+    "permalink": "/blog/一道看似简单的阿里前端算法题"
+  },
+  "nextItem": {
+    "title": "useState是怎么回事？",
+    "permalink": "/blog/useState是怎么回事？"
+  }
+}

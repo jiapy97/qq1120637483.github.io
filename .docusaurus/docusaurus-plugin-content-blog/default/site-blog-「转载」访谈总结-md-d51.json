@@ -1,0 +1,50 @@
+{
+  "permalink": "/blog/「转载」访谈总结",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/「转载」访谈总结.md",
+  "source": "@site/blog/「转载」访谈总结.md",
+  "title": "「转载」访谈总结",
+  "description": "好友在面试前准备的访谈总结",
+  "date": "2022-10-08T00:00:00.000Z",
+  "formattedDate": "2022年10月8日",
+  "tags": [
+    {
+      "label": "转载",
+      "permalink": "/blog/tags/转载"
+    }
+  ],
+  "readingTime": 10.09,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "「转载」访谈总结",
+    "description": "好友在面试前准备的访谈总结",
+    "keywords": [
+      "成长",
+      "面试",
+      "访谈总结"
+    ],
+    "tags": [
+      "转载"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2022-10-08T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "人在囧途——青海湖",
+    "permalink": "/blog/人在囧途——青海湖"
+  },
+  "nextItem": {
+    "title": "习惯养成第一步",
+    "permalink": "/blog/习惯养成第一步"
+  }
+}

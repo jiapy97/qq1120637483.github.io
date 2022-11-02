@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/JS是单线程的，那么JS是如何实现并发请求的？",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/JS是单线程的，那么JS是如何实现并发请求的？.md",
+  "source": "@site/blog\\JS是单线程的，那么JS是如何实现并发请求的？.md",
+  "title": "JS是单线程的，那么JS是如何实现并发请求的？",
+  "description": "JS为什么能够执行并发请求？",
+  "date": "2022-02-10T00:00:00.000Z",
+  "formattedDate": "2022年2月10日",
+  "tags": [
+    {
+      "label": "面试题",
+      "permalink": "/blog/tags/面试题"
+    }
+  ],
+  "readingTime": 3.025,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "JS是单线程的，那么JS是如何实现并发请求的？",
+    "date": "2022-02-10T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "面试题",
+    "tags": [
+      "面试题"
+    ]
+  },
+  "prevItem": {
+    "title": "LeetCode——最长公共子序列（动态规划）",
+    "permalink": "/blog/LeetCode——最长公共子序列（动态规划）"
+  },
+  "nextItem": {
+    "title": "LeetCode——下一个排列（降序重排法）",
+    "permalink": "/blog/LeetCode——下一个排列（降序重排法）"
+  }
+}

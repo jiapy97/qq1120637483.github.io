@@ -1,0 +1,15 @@
+{
+  "title": "入门",
+  "slug": "/category/入门-1",
+  "permalink": "/programming-language/category/入门-1",
+  "navigation": {
+    "previous": {
+      "title": "社区文化",
+      "permalink": "/programming-language/Python/文化/社区文化"
+    },
+    "next": {
+      "title": "简介",
+      "permalink": "/programming-language/Python/入门/简介"
+    }
+  }
+}

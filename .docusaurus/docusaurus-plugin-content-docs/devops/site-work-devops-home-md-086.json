@@ -1,0 +1,27 @@
+{
+  "unversionedId": "home",
+  "id": "home",
+  "title": "Home",
+  "description": "运维运维 ~ 🤩🤩🤩",
+  "source": "@site/work/devops/home.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/devops/",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/work/devops/home.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "/",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Dockerfile 文件详解",
+    "permalink": "/devops/Docker/Dockerfile 文件详解"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/2022",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/2022.md",
+  "source": "@site/blog/2022.md",
+  "title": "2022",
+  "description": "2022 年终总结",
+  "date": "2022-02-03T00:00:00.000Z",
+  "formattedDate": "2022年2月3日",
+  "tags": [
+    {
+      "label": "纪念",
+      "permalink": "/blog/tags/纪念"
+    }
+  ],
+  "readingTime": 3.17,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "2022",
+    "description": "2022 年终总结",
+    "keywords": [
+      "2022",
+      "年终总结"
+    ],
+    "tags": [
+      "纪念"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2022-02-03T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "浅谈一下自己折腾的网站",
+    "permalink": "/blog/浅谈一下自己折腾的网站"
+  },
+  "nextItem": {
+    "title": "原点",
+    "permalink": "/blog/原点"
+  }
+}

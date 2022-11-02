@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/MySql基础命令与查询方法",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/MySql基础命令与查询方法.md",
+  "source": "@site/blog\\MySql基础命令与查询方法.md",
+  "title": "MySql基础命令与查询方法",
+  "description": "一、连接MySQL",
+  "date": "2021-11-06T00:00:00.000Z",
+  "formattedDate": "2021年11月6日",
+  "tags": [
+    {
+      "label": "MySQL",
+      "permalink": "/blog/tags/my-sql"
+    }
+  ],
+  "readingTime": 3.395,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "MySql基础命令与查询方法",
+    "date": "2021-11-06T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "MySQL",
+    "tags": [
+      "MySQL"
+    ]
+  },
+  "prevItem": {
+    "title": "MySQL之跨表查询与索引",
+    "permalink": "/blog/MySQL之跨表查询与索引"
+  },
+  "nextItem": {
+    "title": "阿里前端面试题之获取嵌套数组的深度",
+    "permalink": "/blog/阿里前端面试题之获取嵌套数组的深度"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/BombSquad-炸弹人小分队",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/BombSquad-炸弹人小分队.md",
+  "source": "@site/blog/BombSquad-炸弹人小分队.md",
+  "title": "BombSquad-炸弹人小分队",
+  "description": "BombSquad-炸弹人小分队",
+  "date": "2018-12-06T00:00:00.000Z",
+  "formattedDate": "2018年12月6日",
+  "tags": [
+    {
+      "label": "游戏",
+      "permalink": "/blog/tags/游戏"
+    }
+  ],
+  "readingTime": 1.075,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "BombSquad-炸弹人小分队",
+    "description": "BombSquad-炸弹人小分队",
+    "keywords": [
+      "游戏",
+      "炸弹人小分队"
+    ],
+    "tags": [
+      "游戏"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2018-12-06T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "骑行在路上",
+    "permalink": "/blog/骑行在路上"
+  },
+  "nextItem": {
+    "title": "11月28日 晚 星期三 霾",
+    "permalink": "/blog/11月28日晚 星期三 霾"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/前端知识学习30——淘宝焦点图布局",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/前端知识学习30——淘宝焦点图布局.md",
+  "source": "@site/blog\\前端知识学习30——淘宝焦点图布局.md",
+  "title": "前端知识学习30——淘宝焦点图布局",
+  "description": "1：布局分析",
+  "date": "2020-09-26T00:00:00.000Z",
+  "formattedDate": "2020年9月26日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/blog/tags/前端"
+    }
+  ],
+  "readingTime": 1.1,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "前端知识学习30——淘宝焦点图布局",
+    "date": "2020-09-26T00:00:00.000Z",
+    "categories": "前端",
+    "tags": [
+      "前端"
+    ]
+  },
+  "prevItem": {
+    "title": "前端知识学习29——CSS之定位",
+    "permalink": "/blog/前端知识学习29——CSS之定位"
+  },
+  "nextItem": {
+    "title": "前端知识学习31——元素的显示与隐藏",
+    "permalink": "/blog/前端知识学习31——元素的显示与隐藏"
+  }
+}

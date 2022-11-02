@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/使用Git管理项目",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/使用Git管理项目.md",
+  "source": "@site/blog/使用Git管理项目.md",
+  "title": "使用Git管理项目",
+  "description": "一、 在Github上建立仓库",
+  "date": "2021-05-14T00:00:00.000Z",
+  "formattedDate": "2021年5月14日",
+  "tags": [
+    {
+      "label": "Git",
+      "permalink": "/blog/tags/git"
+    }
+  ],
+  "readingTime": 1.355,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "使用Git管理项目",
+    "date": "2021-05-14T00:00:00.000Z",
+    "categories": "Git",
+    "tags": [
+      "Git"
+    ]
+  },
+  "prevItem": {
+    "title": "重置PC端页面的CSS样式代码（reset.css）",
+    "permalink": "/blog/重置PC端页面的CSS样式代码（reset.css）"
+  },
+  "nextItem": {
+    "title": "剑指Offer——I.翻转单词顺序（JS实现）",
+    "permalink": "/blog/剑指Offer——I.翻转单词顺序（JS实现）"
+  }
+}

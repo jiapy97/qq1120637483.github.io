@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/通过npm暴露React项目配置",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/通过npm暴露React项目配置.md",
+  "source": "@site/blog/通过npm暴露React项目配置.md",
+  "title": "通过npm暴露React项目配置",
+  "description": "直接输入下面的命令",
+  "date": "2021-04-23T00:00:00.000Z",
+  "formattedDate": "2021年4月23日",
+  "tags": [
+    {
+      "label": "npm",
+      "permalink": "/blog/tags/npm"
+    }
+  ],
+  "readingTime": 0.17,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "通过npm暴露React项目配置",
+    "date": "2021-04-23T00:00:00.000Z",
+    "categories": "npm",
+    "tags": [
+      "npm"
+    ]
+  },
+  "prevItem": {
+    "title": "剑指Offer——从上到下打印二叉树III（JS实现）",
+    "permalink": "/blog/剑指Offer——从上到下打印二叉树III（JS实现）"
+  },
+  "nextItem": {
+    "title": "React-36：编程式路由导航",
+    "permalink": "/blog/React-36：编程式路由导航"
+  }
+}

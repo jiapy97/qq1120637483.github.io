@@ -1,0 +1,27 @@
+{
+  "unversionedId": "2022/W41/2022-10-12",
+  "id": "2022/W41/2022-10-12",
+  "title": "2022-10-12",
+  "description": "Info",
+  "source": "@site/journal/2022/W41/2022-10-12.md",
+  "sourceDirName": "2022/W41",
+  "slug": "/2022/W41/2022-10-12",
+  "permalink": "/journal/2022/W41/2022-10-12",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/journal/2022/W41/2022-10-12.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2022-10-11",
+    "permalink": "/journal/2022/W41/2022-10-11"
+  },
+  "next": {
+    "title": "2022-10-13",
+    "permalink": "/journal/2022/W41/2022-10-13"
+  }
+}

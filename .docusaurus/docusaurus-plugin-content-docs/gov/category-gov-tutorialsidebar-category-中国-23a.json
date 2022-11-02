@@ -1,0 +1,15 @@
+{
+  "title": "中国",
+  "slug": "/category/中国",
+  "permalink": "/gov/category/中国",
+  "navigation": {
+    "previous": {
+      "title": "概述",
+      "permalink": "/gov/"
+    },
+    "next": {
+      "title": "标准组织",
+      "permalink": "/gov/中国国家标准/标准组织"
+    }
+  }
+}

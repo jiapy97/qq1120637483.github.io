@@ -1,0 +1,27 @@
+{
+  "unversionedId": "C/lib 标准库/locale.h",
+  "id": "C/lib 标准库/locale.h",
+  "title": "locale.h",
+  "description": "简介",
+  "source": "@site/wiki\\programming-language\\C\\lib 标准库\\locale.h.md",
+  "sourceDirName": "C/lib 标准库",
+  "slug": "/C/lib 标准库/locale.h",
+  "permalink": "/programming-language/C/lib 标准库/locale.h",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/C/lib 标准库/locale.h.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "limits.h",
+    "permalink": "/programming-language/C/lib 标准库/limits.h"
+  },
+  "next": {
+    "title": "math.h",
+    "permalink": "/programming-language/C/lib 标准库/math.h"
+  }
+}

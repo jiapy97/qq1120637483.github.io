@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/VsCode通过snippet generator快速生成自定义代码片段",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/VsCode通过snippet generator快速生成自定义代码片段.md",
+  "source": "@site/blog\\VsCode通过snippet generator快速生成自定义代码片段.md",
+  "title": "VsCode通过snippet generator快速生成自定义代码片段",
+  "description": "一、首先在snippet creator上生成代码片段模板",
+  "date": "2021-10-12T00:00:00.000Z",
+  "formattedDate": "2021年10月12日",
+  "tags": [
+    {
+      "label": "VSCode",
+      "permalink": "/blog/tags/vs-code"
+    }
+  ],
+  "readingTime": 0.535,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "VsCode通过snippet generator快速生成自定义代码片段",
+    "date": "2021-10-12T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "VSCode",
+    "tags": [
+      "VSCode"
+    ]
+  },
+  "prevItem": {
+    "title": "LeetCode——最小路径和（动态规划）",
+    "permalink": "/blog/LeetCode——最小路径和（动态规划）"
+  },
+  "nextItem": {
+    "title": "LeetCode——最大子序和（贪心算法）",
+    "permalink": "/blog/LeetCode——最大子序和（贪心算法）"
+  }
+}

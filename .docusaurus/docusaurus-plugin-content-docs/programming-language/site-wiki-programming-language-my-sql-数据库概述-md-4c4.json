@@ -1,0 +1,46 @@
+{
+  "unversionedId": "MySQL/数据库概述",
+  "id": "MySQL/数据库概述",
+  "title": "数据库概述",
+  "description": "数据库概述",
+  "source": "@site/wiki\\programming-language\\MySQL\\数据库概述.md",
+  "sourceDirName": "MySQL",
+  "slug": "/MySQL/数据库概述",
+  "permalink": "/programming-language/MySQL/数据库概述",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/MySQL/数据库概述.md",
+  "tags": [
+    {
+      "label": "数据库",
+      "permalink": "/programming-language/tags/数据库"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "数据库概述",
+    "description": "数据库概述",
+    "keywords": [
+      "数据库",
+      "概述"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "sidebar_position": 1,
+    "author": "7Wate",
+    "date": "2022-08-31T00:00:00.000Z"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "包管理工具",
+    "permalink": "/programming-language/JavaScript/包管理工具"
+  },
+  "next": {
+    "title": "SQL 语句",
+    "permalink": "/programming-language/MySQL/SQL 语句"
+  }
+}

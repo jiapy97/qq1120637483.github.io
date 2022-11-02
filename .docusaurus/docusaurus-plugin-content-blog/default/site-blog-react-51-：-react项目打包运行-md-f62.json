@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/React-51：React项目打包运行",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/React-51：React项目打包运行.md",
+  "source": "@site/blog/React-51：React项目打包运行.md",
+  "title": "React-51：React项目打包运行",
+  "description": "1. build创建",
+  "date": "2021-04-27T00:00:00.000Z",
+  "formattedDate": "2021年4月27日",
+  "tags": [
+    {
+      "label": "React",
+      "permalink": "/blog/tags/react"
+    }
+  ],
+  "readingTime": 0.2,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "React-51：React项目打包运行",
+    "date": "2021-04-27T00:00:00.000Z",
+    "categories": "React",
+    "tags": [
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "React-50：一文学会redux开发者工具的基本使用",
+    "permalink": "/blog/React-50：一文学会redux开发者工具的基本使用"
+  },
+  "nextItem": {
+    "title": "剑指Offer——包含min函数的栈（JS实现）",
+    "permalink": "/blog/剑指Offer——包含min函数的栈（JS实现）"
+  }
+}

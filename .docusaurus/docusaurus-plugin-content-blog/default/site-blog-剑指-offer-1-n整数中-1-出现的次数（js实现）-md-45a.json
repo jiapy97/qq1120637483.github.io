@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/剑指Offer——1~n整数中1出现的次数（JS实现）",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/剑指Offer——1~n整数中1出现的次数（JS实现）.md",
+  "source": "@site/blog/剑指Offer——1~n整数中1出现的次数（JS实现）.md",
+  "title": "剑指Offer——1~n整数中1出现的次数（JS实现）",
+  "description": "题目描述",
+  "date": "2021-05-07T00:00:00.000Z",
+  "formattedDate": "2021年5月7日",
+  "tags": [
+    {
+      "label": "LeetCode",
+      "permalink": "/blog/tags/leet-code"
+    }
+  ],
+  "readingTime": 0.96,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "剑指Offer——1~n整数中1出现的次数（JS实现）",
+    "date": "2021-05-07T00:00:00.000Z",
+    "categories": "LeetCode",
+    "tags": [
+      "LeetCode"
+    ]
+  },
+  "prevItem": {
+    "title": "Git——创建分支并切换到这个分支",
+    "permalink": "/blog/Git——创建分支并切换到这个分支"
+  },
+  "nextItem": {
+    "title": "剑指Offer——II. 队列的最大值（JS实现）",
+    "permalink": "/blog/剑指Offer——II. 队列的最大值（JS实现）"
+  }
+}

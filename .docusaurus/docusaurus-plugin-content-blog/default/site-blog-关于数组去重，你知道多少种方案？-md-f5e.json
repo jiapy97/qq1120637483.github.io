@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/关于数组去重，你知道多少种方案？",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/关于数组去重，你知道多少种方案？.md",
+  "source": "@site/blog/关于数组去重，你知道多少种方案？.md",
+  "title": "关于数组去重，你知道多少种方案？",
+  "description": "方式一：通过Set",
+  "date": "2022-03-23T00:00:00.000Z",
+  "formattedDate": "2022年3月23日",
+  "tags": [
+    {
+      "label": "面试题",
+      "permalink": "/blog/tags/面试题"
+    }
+  ],
+  "readingTime": 2.15,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "关于数组去重，你知道多少种方案？",
+    "date": "2022-03-23T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "面试题",
+    "tags": [
+      "面试题"
+    ]
+  },
+  "prevItem": {
+    "title": "使用reduce实现数组扁平化",
+    "permalink": "/blog/使用reduce实现数组扁平化"
+  },
+  "nextItem": {
+    "title": "这一次，彻底搞懂进程与线程之间的联系",
+    "permalink": "/blog/这一次，彻底搞懂进程与线程之间的联系"
+  }
+}

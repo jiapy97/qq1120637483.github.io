@@ -1,0 +1,15 @@
+{
+  "title": "职场攻略",
+  "slug": "/category/职场攻略",
+  "permalink": "/roadmap/category/职场攻略",
+  "navigation": {
+    "previous": {
+      "title": "反向面试",
+      "permalink": "/roadmap/面试法则/反向面试"
+    },
+    "next": {
+      "title": "社会保障",
+      "permalink": "/roadmap/职场攻略/社会保障"
+    }
+  }
+}

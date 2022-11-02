@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/（最系统、最全面）这一次，彻底搞懂HTTP面试",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/（最系统、最全面）这一次，彻底搞懂HTTP面试.md",
+  "source": "@site/blog/（最系统、最全面）这一次，彻底搞懂HTTP面试.md",
+  "title": "（最系统、最全面）这一次，彻底搞懂HTTP面试",
+  "description": "无论是大厂面试还是小厂面试，无论是社招还是校招，博主做了大量的统计分析，计算机网络中的HTTP协议相关的考点，几乎是必考的，让我们一起来学习这个知识吧。",
+  "date": "2021-10-31T00:00:00.000Z",
+  "formattedDate": "2021年10月31日",
+  "tags": [
+    {
+      "label": "HTTP",
+      "permalink": "/blog/tags/http"
+    }
+  ],
+  "readingTime": 52.425,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "（最系统、最全面）这一次，彻底搞懂HTTP面试",
+    "date": "2021-10-31T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "HTTP",
+    "tags": [
+      "HTTP"
+    ]
+  },
+  "prevItem": {
+    "title": "Egg.js中路由的核心用法",
+    "permalink": "/blog/Egg.js中路由的核心用法"
+  },
+  "nextItem": {
+    "title": "Egg.js中间件的核心用法",
+    "permalink": "/blog/Egg.js中间件的核心用法"
+  }
+}

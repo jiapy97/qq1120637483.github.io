@@ -1,0 +1,33 @@
+{
+  "unversionedId": "网络安全/OpenSSH/简介",
+  "id": "网络安全/OpenSSH/简介",
+  "title": "简介",
+  "description": "SSH 是什么",
+  "source": "@site/work\\devsec\\网络安全\\OpenSSH\\简介.md",
+  "sourceDirName": "网络安全/OpenSSH",
+  "slug": "/网络安全/OpenSSH/简介",
+  "permalink": "/devsec/网络安全/OpenSSH/简介",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/work/devsec/网络安全/OpenSSH/简介.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "简介",
+    "title": "简介",
+    "sidebar_position": 1,
+    "data": "2022年4月13日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GnuPG 简明笔记",
+    "permalink": "/devsec/网络安全/OpenPGP/GnuPG 简明笔记"
+  },
+  "next": {
+    "title": "客户端",
+    "permalink": "/devsec/网络安全/OpenSSH/客户端"
+  }
+}

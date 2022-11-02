@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/有大用途的useRef",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/有大用途的useRef.md",
+  "source": "@site/blog\\有大用途的useRef.md",
+  "title": "有大用途的useRef",
+  "description": "使用useRef获取DOM元素",
+  "date": "2021-10-18T00:00:00.000Z",
+  "formattedDate": "2021年10月18日",
+  "tags": [
+    {
+      "label": "Hooks",
+      "permalink": "/blog/tags/hooks"
+    }
+  ],
+  "readingTime": 1.325,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "有大用途的useRef",
+    "date": "2021-10-18T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Hooks",
+    "tags": [
+      "Hooks"
+    ]
+  },
+  "prevItem": {
+    "title": "前端经久不衰的面试题--数组乱序",
+    "permalink": "/blog/前端经久不衰的面试题--数组乱序"
+  },
+  "nextItem": {
+    "title": "二刷--无重复字符的最长子串",
+    "permalink": "/blog/二刷--无重复字符的最长子串"
+  }
+}

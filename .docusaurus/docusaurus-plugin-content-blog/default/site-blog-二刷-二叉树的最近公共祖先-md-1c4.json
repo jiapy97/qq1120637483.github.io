@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/二刷--二叉树的最近公共祖先",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/二刷--二叉树的最近公共祖先.md",
+  "source": "@site/blog\\二刷--二叉树的最近公共祖先.md",
+  "title": "二刷--二叉树的最近公共祖先",
+  "description": "这是第二次刷这个题目了，可见这个题目的考频有多高。这是一刷的地址剑指Offer——二叉树的最近公共祖先（JS实现）。",
+  "date": "2021-09-08T00:00:00.000Z",
+  "formattedDate": "2021年9月8日",
+  "tags": [
+    {
+      "label": "LeetCode",
+      "permalink": "/blog/tags/leet-code"
+    }
+  ],
+  "readingTime": 1.255,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "二刷--二叉树的最近公共祖先",
+    "date": "2021-9-8",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "LeetCode",
+    "tags": [
+      "LeetCode"
+    ]
+  },
+  "prevItem": {
+    "title": "LeetCode——LRU 缓存机制（借助Map）",
+    "permalink": "/blog/LeetCode——LRU 缓存机制（借助Map）"
+  },
+  "nextItem": {
+    "title": "这一次，彻底搞懂闭包",
+    "permalink": "/blog/这一次，彻底搞懂闭包"
+  }
+}

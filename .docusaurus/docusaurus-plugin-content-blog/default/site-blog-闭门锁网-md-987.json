@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/闭门锁网",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/闭门锁网.md",
+  "source": "@site/blog/闭门锁网.md",
+  "title": "闭门锁网",
+  "description": "背道而驰的互联网开放",
+  "date": "2022-09-15T00:00:00.000Z",
+  "formattedDate": "2022年9月15日",
+  "tags": [
+    {
+      "label": "感悟",
+      "permalink": "/blog/tags/感悟"
+    }
+  ],
+  "readingTime": 8.105,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "闭门锁网",
+    "description": "背道而驰的互联网开放",
+    "keywords": [
+      "互联网",
+      "封闭"
+    ],
+    "tags": [
+      "感悟"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2022-09-15T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "习惯养成第一步",
+    "permalink": "/blog/习惯养成第一步"
+  },
+  "nextItem": {
+    "title": "Redemption 主题 0.2.1 版本",
+    "permalink": "/blog/Redemption 主题 0.2.1 版本"
+  }
+}

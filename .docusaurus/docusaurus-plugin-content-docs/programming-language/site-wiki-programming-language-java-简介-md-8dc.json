@@ -1,0 +1,33 @@
+{
+  "unversionedId": "Java/简介",
+  "id": "Java/简介",
+  "title": "简介",
+  "description": "Java 是什么",
+  "source": "@site/wiki\\programming-language\\Java\\简介.md",
+  "sourceDirName": "Java",
+  "slug": "/Java/简介",
+  "permalink": "/programming-language/Java/简介",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/Java/简介.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "简介",
+    "title": "简介",
+    "sidebar_position": 1,
+    "data": "2022年4月25日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GitHub 奇技淫巧",
+    "permalink": "/programming-language/Git/高级/Github/GitHub 奇技淫巧"
+  },
+  "next": {
+    "title": "基本语法",
+    "permalink": "/programming-language/Java/基本语法"
+  }
+}

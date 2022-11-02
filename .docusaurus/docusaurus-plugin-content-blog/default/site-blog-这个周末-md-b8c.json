@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/这个周末",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/这个周末.md",
+  "source": "@site/blog/这个周末.md",
+  "title": "这个周末",
+  "description": "这个周末",
+  "date": "2022-02-21T00:00:00.000Z",
+  "formattedDate": "2022年2月21日",
+  "tags": [
+    {
+      "label": "日记",
+      "permalink": "/blog/tags/日记"
+    }
+  ],
+  "readingTime": 3.365,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "这个周末",
+    "description": "这个周末",
+    "keywords": [
+      "老友",
+      "聚会"
+    ],
+    "tags": [
+      "日记"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2022-02-21T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "「转载」当代科技生活",
+    "permalink": "/blog/「转载」当代科技生活"
+  },
+  "nextItem": {
+    "title": "Redemption",
+    "permalink": "/blog/Redemption"
+  }
+}

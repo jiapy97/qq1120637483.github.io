@@ -1,0 +1,31 @@
+{
+  "unversionedId": "求职经验/写给软件工程师的建议",
+  "id": "求职经验/写给软件工程师的建议",
+  "title": "写给软件工程师的建议",
+  "description": "前言",
+  "source": "@site/work\\roadmap\\求职经验\\写给软件工程师的建议.md",
+  "sourceDirName": "求职经验",
+  "slug": "/求职经验/写给软件工程师的建议",
+  "permalink": "/roadmap/求职经验/写给软件工程师的建议",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/work/roadmap/求职经验/写给软件工程师的建议.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "id": "写给软件工程师的建议",
+    "title": "写给软件工程师的建议",
+    "data": "2022 年 3 月 21 日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "互联网行业-郑州",
+    "permalink": "/roadmap/求职经验/互联网行业-郑州"
+  },
+  "next": {
+    "title": "面试法则",
+    "permalink": "/roadmap/category/面试法则"
+  }
+}

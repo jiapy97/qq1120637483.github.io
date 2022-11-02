@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/Webpack中懒加载、预加载、PWA与多进程打包",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/Webpack中懒加载、预加载、PWA与多进程打包.md",
+  "source": "@site/blog\\Webpack中懒加载、预加载、PWA与多进程打包.md",
+  "title": "Webpack中懒加载、预加载、PWA与多进程打包",
+  "description": "懒加载的实现方法",
+  "date": "2021-12-06T00:00:00.000Z",
+  "formattedDate": "2021年12月6日",
+  "tags": [
+    {
+      "label": "Webpack",
+      "permalink": "/blog/tags/webpack"
+    }
+  ],
+  "readingTime": 3.235,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "Webpack中懒加载、预加载、PWA与多进程打包",
+    "date": "2021-12-06T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "Webpack",
+    "tags": [
+      "Webpack"
+    ]
+  },
+  "prevItem": {
+    "title": "Webpack面试题系统梳理（完美应对90%场景）",
+    "permalink": "/blog/Webpack面试题系统梳理"
+  },
+  "nextItem": {
+    "title": "Webpack中的tree shaking与code split的核心用法",
+    "permalink": "/blog/Webpack中的tree shaking与code split的核心用法"
+  }
+}

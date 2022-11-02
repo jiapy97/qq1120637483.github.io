@@ -1,0 +1,33 @@
+{
+  "unversionedId": "Java/基本语法",
+  "id": "Java/基本语法",
+  "title": "基本语法",
+  "description": "数据类型",
+  "source": "@site/wiki\\programming-language\\Java\\基本语法.md",
+  "sourceDirName": "Java",
+  "slug": "/Java/基本语法",
+  "permalink": "/programming-language/Java/基本语法",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/Java/基本语法.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "基本语法",
+    "title": "基本语法",
+    "sidebar_position": 2,
+    "data": "2022年4月26日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "简介",
+    "permalink": "/programming-language/Java/简介"
+  },
+  "next": {
+    "title": "控制语句",
+    "permalink": "/programming-language/Java/控制语句"
+  }
+}

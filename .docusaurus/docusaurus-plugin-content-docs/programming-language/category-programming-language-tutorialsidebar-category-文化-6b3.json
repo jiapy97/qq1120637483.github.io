@@ -1,0 +1,15 @@
+{
+  "title": "文化",
+  "slug": "/category/文化",
+  "permalink": "/programming-language/category/文化",
+  "navigation": {
+    "previous": {
+      "title": "数据库规范",
+      "permalink": "/programming-language/MySQL/数据库规范"
+    },
+    "next": {
+      "title": "发展历史",
+      "permalink": "/programming-language/Python/文化/发展历史"
+    }
+  }
+}

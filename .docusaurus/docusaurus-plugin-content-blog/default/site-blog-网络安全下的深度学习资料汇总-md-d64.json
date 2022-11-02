@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/网络安全下的深度学习资料汇总",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/网络安全下的深度学习资料汇总.md",
+  "source": "@site/blog\\网络安全下的深度学习资料汇总.md",
+  "title": "网络安全下的深度学习资料汇总",
+  "description": "文章来源",
+  "date": "2020-06-03T00:00:00.000Z",
+  "formattedDate": "2020年6月3日",
+  "tags": [
+    {
+      "label": "网络安全",
+      "permalink": "/blog/tags/网络安全"
+    }
+  ],
+  "readingTime": 0.185,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "网络安全下的深度学习资料汇总",
+    "date": "2020-06-03T00:00:00.000Z",
+    "categories": "网络安全",
+    "tags": [
+      "网络安全"
+    ]
+  },
+  "prevItem": {
+    "title": "HP笔记本播放视频前几秒没音",
+    "permalink": "/blog/HP笔记本播放视频前几秒没音"
+  },
+  "nextItem": {
+    "title": "centos7报错Selinux failed to解决方案",
+    "permalink": "/blog/centos7报错Selinux failed to解决方案"
+  }
+}

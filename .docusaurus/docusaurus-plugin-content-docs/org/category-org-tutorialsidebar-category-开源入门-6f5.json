@@ -1,0 +1,15 @@
+{
+  "title": "开源入门",
+  "slug": "/category/开源入门",
+  "permalink": "/org/category/开源入门",
+  "navigation": {
+    "previous": {
+      "title": "开源社区",
+      "permalink": "/org/"
+    },
+    "next": {
+      "title": "开源指北",
+      "permalink": "/org/开源入门/开源指北"
+    }
+  }
+}

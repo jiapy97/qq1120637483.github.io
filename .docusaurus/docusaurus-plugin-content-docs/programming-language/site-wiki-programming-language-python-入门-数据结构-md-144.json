@@ -1,0 +1,33 @@
+{
+  "unversionedId": "Python/入门/数据结构",
+  "id": "Python/入门/数据结构",
+  "title": "数据结构",
+  "description": "字符串",
+  "source": "@site/wiki\\programming-language\\Python\\入门\\数据结构.md",
+  "sourceDirName": "Python/入门",
+  "slug": "/Python/入门/数据结构",
+  "permalink": "/programming-language/Python/入门/数据结构",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/Python/入门/数据结构.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 2.5,
+  "frontMatter": {
+    "id": "数据结构",
+    "title": "数据结构",
+    "sidebar_position": 2.5,
+    "data": "2022年2月11日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "控制语句",
+    "permalink": "/programming-language/Python/入门/控制语句"
+  },
+  "next": {
+    "title": "函数方法",
+    "permalink": "/programming-language/Python/入门/函数方法"
+  }
+}

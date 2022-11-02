@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/LeetCode——用栈实现队列（入队栈+出队栈）",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/LeetCode——用栈实现队列（入队栈+出队栈）.md",
+  "source": "@site/blog\\LeetCode——用栈实现队列（入队栈+出队栈）.md",
+  "title": "LeetCode——用栈实现队列（入队栈+出队栈）",
+  "description": "题目描述",
+  "date": "2021-12-06T00:00:00.000Z",
+  "formattedDate": "2021年12月6日",
+  "tags": [
+    {
+      "label": "LeetCode",
+      "permalink": "/blog/tags/leet-code"
+    }
+  ],
+  "readingTime": 3.485,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "LeetCode——用栈实现队列（入队栈+出队栈）",
+    "date": "2021-12-06T00:00:00.000Z",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "LeetCode",
+    "tags": [
+      "LeetCode"
+    ]
+  },
+  "prevItem": {
+    "title": "Webpack面试题系统梳理（完美应对90%场景）",
+    "permalink": "/blog/Webpack面试题系统梳理（完美应对90%场景）"
+  },
+  "nextItem": {
+    "title": "Webpack中懒加载、预加载、PWA与多进程打包",
+    "permalink": "/blog/Webpack中懒加载、预加载、PWA与多进程打包"
+  }
+}

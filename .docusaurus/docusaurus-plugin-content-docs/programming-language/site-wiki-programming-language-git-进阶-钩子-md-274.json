@@ -1,0 +1,47 @@
+{
+  "unversionedId": "Git/进阶/钩子",
+  "id": "Git/进阶/钩子",
+  "title": "钩子",
+  "description": "Git 钩子",
+  "source": "@site/wiki\\programming-language\\Git\\进阶\\钩子.md",
+  "sourceDirName": "Git/进阶",
+  "slug": "/Git/进阶/钩子",
+  "permalink": "/programming-language/Git/进阶/钩子",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/Git/进阶/钩子.md",
+  "tags": [
+    {
+      "label": "Git",
+      "permalink": "/programming-language/tags/git"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "钩子",
+    "description": "Git 钩子",
+    "keywords": [
+      "Git",
+      "Hook",
+      "钩子"
+    ],
+    "tags": [
+      "Git"
+    ],
+    "sidebar_position": 1,
+    "author": "7Wate",
+    "date": "2022-09-13T00:00:00.000Z"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "进阶",
+    "permalink": "/programming-language/category/进阶"
+  },
+  "next": {
+    "title": "工作流",
+    "permalink": "/programming-language/Git/进阶/工作流"
+  }
+}

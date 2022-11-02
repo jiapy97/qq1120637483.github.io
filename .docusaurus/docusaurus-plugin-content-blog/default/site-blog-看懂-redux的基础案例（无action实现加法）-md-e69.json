@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/看懂Redux的基础案例（无action实现加法）",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/看懂Redux的基础案例（无action实现加法）.md",
+  "source": "@site/blog\\看懂Redux的基础案例（无action实现加法）.md",
+  "title": "看懂Redux的基础案例（无action实现加法）",
+  "description": "实现效果",
+  "date": "2021-05-08T00:00:00.000Z",
+  "formattedDate": "2021年5月8日",
+  "tags": [
+    {
+      "label": "React",
+      "permalink": "/blog/tags/react"
+    }
+  ],
+  "readingTime": 1.32,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "看懂Redux的基础案例（无action实现加法）",
+    "date": "2021-05-08T00:00:00.000Z",
+    "categories": "React",
+    "tags": [
+      "React"
+    ]
+  },
+  "prevItem": {
+    "title": "Redux原始版",
+    "permalink": "/blog/Redux原始版"
+  },
+  "nextItem": {
+    "title": "Git——创建分支并切换到这个分支",
+    "permalink": "/blog/Git——创建分支并切换到这个分支"
+  }
+}

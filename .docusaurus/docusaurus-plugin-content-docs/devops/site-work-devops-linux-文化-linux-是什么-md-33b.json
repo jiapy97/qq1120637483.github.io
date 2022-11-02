@@ -1,0 +1,33 @@
+{
+  "unversionedId": "Linux/文化/Linux 是什么",
+  "id": "Linux/文化/Linux 是什么",
+  "title": "Linux 是什么",
+  "description": "概述",
+  "source": "@site/work/devops/Linux/文化/Linux 是什么.md",
+  "sourceDirName": "Linux/文化",
+  "slug": "/Linux/文化/Linux 是什么",
+  "permalink": "/devops/Linux/文化/Linux 是什么",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/work/devops/Linux/文化/Linux 是什么.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "Linux 是什么",
+    "title": "Linux 是什么",
+    "sidebar_position": 1,
+    "data": "2022年8月5日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "文化",
+    "permalink": "/devops/category/文化"
+  },
+  "next": {
+    "title": "Linux 主流社区",
+    "permalink": "/devops/Linux/文化/Linux 主流社区"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/【青训营】- Script标签中async和defer属性总结",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/【青训营】- Script标签中async和defer属性总结.md",
+  "source": "@site/blog/【青训营】- Script标签中async和defer属性总结.md",
+  "title": "【青训营】- Script标签中async和defer属性总结",
+  "description": "为什么需要async和defer？",
+  "date": "2021-08-19T00:00:00.000Z",
+  "formattedDate": "2021年8月19日",
+  "tags": [
+    {
+      "label": "面试题",
+      "permalink": "/blog/tags/面试题"
+    }
+  ],
+  "readingTime": 2.465,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin"
+    }
+  ],
+  "frontMatter": {
+    "title": "【青训营】- Script标签中async和defer属性总结",
+    "date": "2021-8-19",
+    "author": "Justin",
+    "top": false,
+    "cover": false,
+    "categories": "面试题",
+    "tags": [
+      "面试题"
+    ]
+  },
+  "prevItem": {
+    "title": "【青训营】- Web标准与前端开发",
+    "permalink": "/blog/【青训营】- Web标准与前端开发"
+  },
+  "nextItem": {
+    "title": "LeetCode——替换后的最长重复字符（滑动窗口）",
+    "permalink": "/blog/LeetCode——替换后的最长重复字符（滑动窗口）"
+  }
+}

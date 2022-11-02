@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/人格类型测试",
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/blog/人格类型测试.md",
+  "source": "@site/blog/人格类型测试.md",
+  "title": "人格类型测试",
+  "description": "人格类型测试",
+  "date": "2022-04-06T00:00:00.000Z",
+  "formattedDate": "2022年4月6日",
+  "tags": [
+    {
+      "label": "日记",
+      "permalink": "/blog/tags/日记"
+    }
+  ],
+  "readingTime": 7.25,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Seven Wate",
+      "title": "For Freedom",
+      "url": "https://blog.7wate.com",
+      "imageURL": "https://www.7wate.com/logo.png",
+      "key": "7Wate"
+    }
+  ],
+  "frontMatter": {
+    "title": "人格类型测试",
+    "description": "人格类型测试",
+    "keywords": [
+      "人格类型",
+      "测试"
+    ],
+    "tags": [
+      "日记"
+    ],
+    "authors": [
+      "7Wate"
+    ],
+    "date": "2022-04-06T00:00:00.000Z"
+  },
+  "prevItem": {
+    "title": "一线城市拥有一亩三分地是什么体验",
+    "permalink": "/blog/一线城市拥有一亩三分地是什么体验"
+  },
+  "nextItem": {
+    "title": "自律的痛苦······",
+    "permalink": "/blog/自律的痛苦······"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "unversionedId": "Python/文化/社区文化",
+  "id": "Python/文化/社区文化",
+  "title": "社区文化",
+  "description": "Python 的社区文化",
+  "source": "@site/wiki/programming-language/Python/文化/社区文化.md",
+  "sourceDirName": "Python/文化",
+  "slug": "/Python/文化/社区文化",
+  "permalink": "/programming-language/Python/文化/社区文化",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/wiki/programming-language/Python/文化/社区文化.md",
+  "tags": [
+    {
+      "label": "Python",
+      "permalink": "/programming-language/tags/python"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "社区文化",
+    "description": "Python 的社区文化",
+    "keywords": [
+      "Python",
+      "社区文化"
+    ],
+    "tags": [
+      "Python"
+    ],
+    "sidebar_position": 5,
+    "author": "7Wate",
+    "date": "2022-10-25T00:00:00.000Z"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "生命周期",
+    "permalink": "/programming-language/Python/文化/生命周期"
+  },
+  "next": {
+    "title": "入门",
+    "permalink": "/programming-language/category/入门-1"
+  }
+}

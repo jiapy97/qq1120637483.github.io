@@ -1,0 +1,33 @@
+{
+  "unversionedId": "Tencent/腾讯代码安全指南/Go 安全指南",
+  "id": "Tencent/腾讯代码安全指南/Go 安全指南",
+  "title": "Go 安全指南",
+  "description": "1. 代码实现类",
+  "source": "@site/group/organization/Tencent/腾讯代码安全指南/Go安全指南.md",
+  "sourceDirName": "Tencent/腾讯代码安全指南",
+  "slug": "/Tencent/腾讯代码安全指南/Go 安全指南",
+  "permalink": "/org/Tencent/腾讯代码安全指南/Go 安全指南",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/group/organization/Tencent/腾讯代码安全指南/Go安全指南.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "Go 安全指南",
+    "title": "Go 安全指南",
+    "sidebar_position": 4,
+    "data": "2022年5月30日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JavaScript 安全指南",
+    "permalink": "/org/Tencent/腾讯代码安全指南/JavaScript 安全指南"
+  },
+  "next": {
+    "title": "Java 安全指南",
+    "permalink": "/org/Tencent/腾讯代码安全指南/Java 安全指南"
+  }
+}

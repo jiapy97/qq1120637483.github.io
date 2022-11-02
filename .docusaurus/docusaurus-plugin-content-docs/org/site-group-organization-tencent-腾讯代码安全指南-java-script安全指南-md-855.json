@@ -1,0 +1,33 @@
+{
+  "unversionedId": "Tencent/腾讯代码安全指南/JavaScript 安全指南",
+  "id": "Tencent/腾讯代码安全指南/JavaScript 安全指南",
+  "title": "JavaScript 安全指南",
+  "description": "JavaScript页面类",
+  "source": "@site/group\\organization\\Tencent\\腾讯代码安全指南\\JavaScript安全指南.md",
+  "sourceDirName": "Tencent/腾讯代码安全指南",
+  "slug": "/Tencent/腾讯代码安全指南/JavaScript 安全指南",
+  "permalink": "/org/Tencent/腾讯代码安全指南/JavaScript 安全指南",
+  "draft": false,
+  "editUrl": "https://git.7wate.com/zhouzhongping/wiki/src/branch/master/group/organization/Tencent/腾讯代码安全指南/JavaScript安全指南.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "qq1120637483",
+  "lastUpdatedAt": 1667351941,
+  "formattedLastUpdatedAt": "2022年11月2日",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "JavaScript 安全指南",
+    "title": "JavaScript 安全指南",
+    "sidebar_position": 3,
+    "data": "2022年5月30日"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "C,C++ 安全指南",
+    "permalink": "/org/Tencent/腾讯代码安全指南/C,C++ 安全指南"
+  },
+  "next": {
+    "title": "Go 安全指南",
+    "permalink": "/org/Tencent/腾讯代码安全指南/Go 安全指南"
+  }
+}
