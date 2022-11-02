@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[6729],{58374:a=>{a.exports=JSON.parse('{"label":"\u8c37\u6b4c\u6d4f\u89c8\u5668","permalink":"/blog/tags/\u8c37\u6b4c\u6d4f\u89c8\u5668","allTagsPath":"/blog/tags","count":3}')}}]);

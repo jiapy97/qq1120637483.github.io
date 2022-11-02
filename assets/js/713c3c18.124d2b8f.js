@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[87159],{84863:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/\u300a\u4f60\u4e0d\u77e5\u9053\u7684-java-script\u300b","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"7Wate \u7684\u4e2a\u4eba\u751f\u6d3b\u548c\u5de5\u4f5c\u8bb0\u5f55","blogTitle":"7Wate`s Blog"}')}}]);
