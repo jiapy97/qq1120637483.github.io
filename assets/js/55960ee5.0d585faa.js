@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[74121],{88070:s=>{s.exports=JSON.parse('[{"label":"Windows","permalink":"/docs/tags/windows","count":1}]')}}]);

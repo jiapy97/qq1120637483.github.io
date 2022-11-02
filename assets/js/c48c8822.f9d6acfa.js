@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[68261],{818:e=>{e.exports=JSON.parse('{"label":"LeetCode","permalink":"/blog/tags/leet-code","allTagsPath":"/blog/tags","count":142}')}}]);

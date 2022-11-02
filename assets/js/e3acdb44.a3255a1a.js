@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[24901],{87481:s=>{s.exports=JSON.parse('{"label":"Egg.js","permalink":"/blog/tags/egg-js","allTagsPath":"/blog/tags","count":22}')}}]);
