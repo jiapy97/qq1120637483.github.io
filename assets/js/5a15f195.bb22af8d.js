@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[59977],{56844:function(e){e.exports=JSON.parse('{"label":"ServerLess","permalink":"/tags/server-less","allTagsPath":"/tags","count":1}')}}]);

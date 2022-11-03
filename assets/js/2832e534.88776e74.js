@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[42476],{69870:function(e){e.exports=JSON.parse('{"permalink":"/page/13","page":13,"postsPerPage":10,"totalPages":73,"totalCount":723,"previousPage":"/page/12","nextPage":"/page/14","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

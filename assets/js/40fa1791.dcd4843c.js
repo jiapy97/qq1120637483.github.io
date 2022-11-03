@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[45913],{33030:function(a){a.exports=JSON.parse('{"permalink":"/tags/155-\u4e2a-java-script\u57fa\u7840\u95ee\u9898/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":18,"previousPage":"/tags/155-\u4e2a-java-script\u57fa\u7840\u95ee\u9898","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

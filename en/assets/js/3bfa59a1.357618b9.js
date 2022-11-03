@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[33881],{77109:function(e){e.exports=JSON.parse('{"permalink":"/en/tags/egg-js/page/2","page":2,"postsPerPage":10,"totalPages":3,"totalCount":22,"previousPage":"/en/tags/egg-js","nextPage":"/en/tags/egg-js/page/3","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

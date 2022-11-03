@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[46039],{31768:function(e){e.exports=JSON.parse('{"label":"Neo4j","permalink":"/tags/neo-4-j","allTagsPath":"/tags","count":2}')}}]);

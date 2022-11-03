@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[59905],{3969:function(e){e.exports=JSON.parse('{"label":"Socket.io","permalink":"/tags/socket-io","allTagsPath":"/tags","count":2}')}}]);

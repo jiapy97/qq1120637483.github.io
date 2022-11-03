@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[3067],{69038:function(e){e.exports=JSON.parse('{"permalink":"/tags/hexo","page":1,"postsPerPage":10,"totalPages":2,"totalCount":15,"nextPage":"/tags/hexo/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
