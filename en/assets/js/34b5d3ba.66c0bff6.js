@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[22234],{30687:function(a){a.exports=JSON.parse('{"label":"BootStrap","permalink":"/en/tags/boot-strap","allTagsPath":"/en/tags","count":1}')}}]);

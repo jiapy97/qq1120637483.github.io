@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[73845],{14069:function(e){e.exports=JSON.parse('{"label":"Ant Design","permalink":"/en/tags/ant-design","allTagsPath":"/en/tags","count":3}')}}]);

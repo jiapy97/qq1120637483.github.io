@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[99704],{21461:function(e){e.exports=JSON.parse('{"permalink":"/en/tags/vue/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":17,"previousPage":"/en/tags/vue","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
