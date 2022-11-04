@@ -11,7 +11,6 @@ const sidebars = {
       },
       items: [
         'skill/docusaurus/docusaurus-config',
-        'skill/docusaurus/docusaurus-style',
         'skill/docusaurus/docusaurus-component',
         'skill/docusaurus/docusaurus-plugin',
         'skill/docusaurus/docusaurus-search',

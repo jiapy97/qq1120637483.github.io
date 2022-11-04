@@ -43,10 +43,6 @@
     "message": "Juejin",
     "description": "The label of footer link with label=掘金 linking to https://juejin.cn/user/1565318510545901"
   },
-  "link.item.label.Discord": {
-    "message": "Discord",
-    "description": "The label of footer link with label=Discord linking to https://discord.gg/M8cVcjDxkz"
-  },
   "link.item.label.友链": {
     "message": "Friends",
     "description": "The label of footer link with label=友链 linking to friends"

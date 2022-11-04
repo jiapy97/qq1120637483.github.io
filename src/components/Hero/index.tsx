@@ -63,11 +63,6 @@ function Hero() {
                   <Translate id="hompage.hero.text.project">实战项目</Translate>
                 </Link>
               ),
-              link: (
-                <Link to="/website">
-                  <Translate id="hompage.hero.text.link">网址导航</Translate>
-                </Link>
-              ),
             }}>
             {`或许你需要{note}、{project}、{link}。`}
           </Translate>
