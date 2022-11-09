@@ -9,13 +9,13 @@ const config = {
   titleDelimiter: '-',
   url: "https://qq1120637483.github.io/",
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo2.png',
   organizationName: 'qq1120637483',
   projectName: 'blog',
   tagline: '记录所学知识，领略编程之美',
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   themeConfig: {
-    image: 'img/logo.png',
+    image: 'img/logo2.png',
     // announcementBar: {
     //   id: 'announcementBar-3',
     //   content: announcementBarContent,
@@ -36,15 +36,16 @@ const config = {
       }
     },
     navbar: {
-      title: 'Passion',
+      title: 'Faith&Passion',
       logo: {
-        alt: 'Passion',
-        src: 'img/logo.webp',
-        srcDark: 'img/logo.webp',
+        alt: 'Faith&Passion',
+        src: 'img/logo2.png',
+        srcDark: 'img/logo2.png',
       },
       items: [
+        { to: "archive", label: "🍁 博客", position: "right" },
         {
-          label: '学习',
+          label: '🦖 Wiki',
           position: 'right',
           items: [
             {
@@ -66,19 +67,39 @@ const config = {
           ],
         },
         {
-          label: '工具',
+          label: '💎 面经',
           position: 'right',
           items: [
             {
-              label: 'API服务',
-              to: 'https://api.kuizuo.cn',
+              label: '字节一面',
+              to: 'tags',
             },
           ],
         },
         {
-          label: '项目',
+          label: '⏰ LeetCode',
+          position: 'right',
+          items: [
+            {
+              label: 'API服务',
+              to: 'https://jpy.wiki/',
+            },
+          ],
+        },
+        {
+          label: '💻 项目',
           position: 'right',
           to: 'project',
+        },
+        {
+          label: '🏄‍♂️ 生活',
+          position: 'right',
+          to: 'https://jpy.wiki/',
+        },
+        {
+          label: '📜 随笔日记',
+          position: 'right',
+          to: 'https://jpy.wiki/',
         },
       ],
     },
@@ -160,11 +181,11 @@ const config = {
       minHeadingLevel: 2,
       maxHeadingLevel: 4,
     },
-    algolia: {
-      appId: 'GV6YN1ODMO',
-      apiKey: '50303937b0e4630bec4a20a14e3b7872',
-      indexName: 'kuizuo',
-    },
+    // algolia: {
+    //   appId: 'GV6YN1ODMO',
+    //   apiKey: '50303937b0e4630bec4a20a14e3b7872',
+    //   indexName: 'kuizuo',
+    // },
     zoom: {
       selector: '.markdown :not(em) > img',
       background: {
@@ -191,12 +212,10 @@ const config = {
       playgroundPosition: 'top',
     },
     socials: {
-      github: 'https://github.com/kuizuo',
+      wechat: 'https://p0.meituan.net/dpplatform/e245a4f89dca96e217f68716a56f7faa90559.jpg',
+      github: 'https://github.com/qq1120637483',
       juejin: 'https://juejin.cn/user/2559318802828711/posts',
-      csdn: 'https://blog.csdn.net/kuizuo12',
-      qq: 'https://wpa.qq.com/msgrd?v=3&amp;uin=911993023&amp;site=qq',
-      zhihu: 'https://www.zhihu.com/people/kuizuo',
-      cloudmusic: 'https://music.163.com/#/user/home?id=1333010742',
+      csdn: 'https://jiapy.blog.csdn.net/',
     },
   },
   presets: [

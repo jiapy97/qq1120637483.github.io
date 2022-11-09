@@ -47,24 +47,19 @@ function Hero() {
         </animated.div>
         <animated.p style={animatedTexts[1]}>
           <Translate id="homepage.hero.text">
-            {`在这里你能了解到各类实战开发的所遇到的问题，帮助你在学习的过程了解最新的技术栈，并希望我的个人经历对你有所启发。`}
+            {`长期写作最大的好处之一就是，写着写着，你的自我会变得越来越清晰。 你最终会明白自己是一个什么样的人，以及自己热爱的又是什么东西。——`}
           </Translate>
-          <br />
+          {/* <br /> */}
           <Translate
             id="homepage.hero.need"
             values={{
               note: (
-                <Link to="/docs/skill">
-                  <Translate id="hompage.hero.text.note">技术笔记</Translate>
-                </Link>
-              ),
-              project: (
-                <Link to="/project">
-                  <Translate id="hompage.hero.text.project">实战项目</Translate>
+                <Link to="https://zlearning.netlify.app/me/why.html">
+                  <Translate id="hompage.hero.text.note">《为什么要写博客》</Translate>
                 </Link>
               ),
             }}>
-            {`或许你需要{note}、{project}、{link}。`}
+            {`{note}`}
           </Translate>
         </animated.p>
         <SocialLinks animatedProps={animatedTexts[4]} />
@@ -92,38 +87,24 @@ export function SocialLinks({animatedProps, ...props}) {
     qq: string;
     wx: string;
     cloudmusic: string;
-    zhihu: string
+    zhihu: string;
+    wechat: string;
   };
 
   return (
     <animated.div className={styles.social__links} style={animatedProps}>
-      <a href="./rss.xml" target="_blank">
-        <RssIcon />
-      </a>
       <a href={socials.github} target="_blank">
         <GithubIcon />
       </a>
       <a href={socials.juejin} target="_blank">
         <JuejinIcon />
       </a>
-      {/* <a href='https://blog.csdn.net/kuizuo12' target='_blank'>
+      <a href='https://jiapy.blog.csdn.net/' target='_blank'>
         <CsdnIcon />
-      </a> */}
-      <a href={socials.qq} target="_blank">
-        <QqIcon />
       </a>
-      {/* <a href='' target='_blank'>
+      <a href={socials.wechat} target='_blank'>
         <WxIcon />
-      </a> */}
-      <a href={socials.twitter} target="_blank">
-        <TwitterIcon />
       </a>
-      <a href={socials.zhihu} target="_blank">
-        <ZhihuIcon />
-      </a>
-      {/* <a href={socials.cloudmusic} target="_blank">
-        <CloudMusicIcon />
-      </a> */}
 
     </animated.div>
   );

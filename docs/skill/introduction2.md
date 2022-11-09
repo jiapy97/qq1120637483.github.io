@@ -1,5 +1,5 @@
 ---
-id: introduction
+id: introduction2
 slug: /skill
 title: 技术笔记简介
 keywords:

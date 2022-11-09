@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   skill: [
-    'skill/introduction',
+    'skill/introduction2',
     {
       label: 'Docusaurus2 主题魔改',
       type: 'category',
