@@ -838,7 +838,7 @@ $('.nav-tabs a').click(function (e) {
 <div class="container">
     <div class="jumbotron">
         <h1>Hello, world!</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, sapiente amet tempora veritatis voluptas
+        <p>- dolor sit amet consectetur adipisicing elit. Dicta, sapiente amet tempora veritatis voluptas
             quis temporibus repudiandae ex nam similique.</p>
         <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
     </div>
@@ -859,10 +859,10 @@ $('.nav-tabs a').click(function (e) {
 ### 27.1 模板代码
 ```html
 <div class="container">
-    <div class="alert alert-success" role="alert">Lorem ipsum dolor sit amet.</div>
-    <div class="alert alert-info" role="alert">Lorem ipsum dolor sit amet.</div>
-    <div class="alert alert-warning" role="alert">Lorem ipsum dolor sit amet.</div>
-    <div class="alert alert-danger" role="alert">Lorem ipsum dolor sit amet.</div>
+    <div class="alert alert-success" role="alert">- dolor sit amet.</div>
+    <div class="alert alert-info" role="alert">- dolor sit amet.</div>
+    <div class="alert alert-warning" role="alert">- dolor sit amet.</div>
+    <div class="alert alert-danger" role="alert">- dolor sit amet.</div>
     <div class="alert alert-warning alert-dismissible" role="alert">
         <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span
                 aria-hidden="true">&times;</span></button>
@@ -1007,13 +1007,13 @@ $('.nav-tabs a').click(function (e) {
 <div class="container">
     <div class="panel panel-default">
         <div class="panel-body">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, voluptatum.
+          - dolor sit amet consectetur adipisicing elit. Itaque, voluptatum.
         </div>
       </div>
       <div class="panel panel-default">
         <div class="panel-heading">Panel heading without title</div>
         <div class="panel-body">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, eligendi.
+          - dolor sit amet consectetur adipisicing elit. Natus, eligendi.
         </div>
       </div>
       
@@ -1022,7 +1022,7 @@ $('.nav-tabs a').click(function (e) {
           <h3 class="panel-title">Panel title</h3>
         </div>
         <div class="panel-body">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto facere, eveniet nulla voluptatem qui debitis libero officia error dolor labore quod illum, perferendis quibusdam voluptatum accusamus beatae cumque. Deserunt, laborum! Eum, inventore laudantium soluta voluptatibus, voluptas mollitia facere sint harum ad iste, ex eius ea atque porro iusto rem nostrum.
+            - dolor sit amet, consectetur adipisicing elit. Iusto facere, eveniet nulla voluptatem qui debitis libero officia error dolor labore quod illum, perferendis quibusdam voluptatum accusamus beatae cumque. Deserunt, laborum! Eum, inventore laudantium soluta voluptatibus, voluptas mollitia facere sint harum ad iste, ex eius ea atque porro iusto rem nostrum.
         </div>
       </div>
       
@@ -1032,7 +1032,7 @@ $('.nav-tabs a').click(function (e) {
         <!-- Default panel contents -->
         <div class="panel-heading">Panel heading</div>
         <div class="panel-body">
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam quas et quaerat dolorem doloremque maxime sequi sunt optio nam quisquam!</p>
+          <p>- dolor sit amet consectetur, adipisicing elit. Ullam quas et quaerat dolorem doloremque maxime sequi sunt optio nam quisquam!</p>
         </div>
       
         <!-- Table -->
