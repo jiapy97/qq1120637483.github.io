@@ -39,7 +39,7 @@ const config = {
       title: 'Faith&Passion',
       logo: {
         alt: 'Faith&Passion',
-        src: 'img/logo2.png',
+        src: 'https://p0.meituan.net/dpplatform/6c0b1c2aff984bc7ce5da26faa1a7ba0225988.png',
         srcDark: 'img/logo2.png',
       },
       items: [

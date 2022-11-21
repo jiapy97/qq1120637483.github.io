@@ -221,7 +221,11 @@ html[data-theme='dark'] .theme-code-block {
   box-shadow: 0 -16px 24px var(--post-shadow-color);
   box-shadow: var(--blog-item-shadow);
 }
-
+.navbar__logo {
+  img {
+    border-radius: 50%;
+  }
+}
 /* navbar */
 .navbar {
   box-shadow: none;
