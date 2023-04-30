@@ -53,8 +53,8 @@ export default function BlogPostItemFooter(): JSX.Element | null {
                 height="16"
                 className="blog__author"
               />
-              {authors.map((a) => (
-                <span key={a.url} className="blog__author">
+              {authors.map((a,index) => (
+                <span key={index} className="blog__author">
                   <a href={a.url} className={styles.blogPostAuthor}>
                     {a.name}
                   </a>

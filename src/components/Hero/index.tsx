@@ -19,7 +19,18 @@ import TwitterIcon from '@site/static/icons/twitter.svg';
 import Button from '../Button';
 
 import styles from './styles.module.css';
-
+  // 手动添加mate标签
+  const addMeta = (name, content) => {
+    const meta = document.createElement('meta');
+    meta.content = content;
+    meta.name = name;
+    document.getElementsByTagName('head')[0].appendChild(meta);
+  };
+ 
+  addMeta(
+      'referrer',
+      'no-referrer',
+    );
 function Hero() {
   const {
     i18n: {currentLocale},

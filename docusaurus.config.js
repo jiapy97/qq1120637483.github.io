@@ -181,11 +181,6 @@ const config = {
       minHeadingLevel: 2,
       maxHeadingLevel: 4,
     },
-    // algolia: {
-    //   appId: 'GV6YN1ODMO',
-    //   apiKey: '50303937b0e4630bec4a20a14e3b7872',
-    //   indexName: 'kuizuo',
-    // },
     zoom: {
       selector: '.markdown :not(em) > img',
       background: {
@@ -193,20 +188,6 @@ const config = {
         dark: 'rgb(50, 50, 50)'
       },
       config: {}
-    },
-    matomo: {
-      matomoUrl: 'https://matomo.kuizuo.cn/',
-      siteId: '1',
-      phpLoader: 'matomo.php',
-      jsLoader: 'matomo.js',
-    },
-    giscus: {
-      repo: 'kuizuo/blog',
-      repoId: 'MDEwOlJlcG9zaXRvcnkzOTc2MjU2MTI=',
-      category: 'General',
-      categoryId: 'DIC_kwDOF7NJDM4CPK95',
-      mapping: 'title',
-      lang: 'zh-CN',
     },
     liveCodeBlock: {
       playgroundPosition: 'top',
@@ -223,10 +204,6 @@ const config = {
       '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          path: 'docs',
-          sidebarPath: 'sidebars.js',
-        },
         blog: false,
         theme: {
           customCss: [require.resolve('./src/css/custom.scss')],
@@ -245,17 +222,12 @@ const config = {
   ],
   // themes: ['@docusaurus/theme-live-codeblock'],
   plugins: [
-    'docusaurus-plugin-matomo',
     'docusaurus-plugin-image-zoom',
     'docusaurus-plugin-sass',
-    path.resolve(__dirname, './src/plugin/plugin-baidu-tongji'),
-    path.resolve(__dirname, './src/plugin/plugin-baidu-push'),
     [
       path.resolve(__dirname, './src/plugin/plugin-content-blog'), {
         path: 'blog',
         routeBasePath: '/',
-        editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
-          `https://github.com/kuizuo/blog/edit/main/${blogDirPath}/${blogPath}`,
         editLocalizedFiles: false,
         blogSidebarCount: 10,
         postsPerPage: 10,

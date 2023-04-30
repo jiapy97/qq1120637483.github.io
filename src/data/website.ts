@@ -472,13 +472,6 @@ export const websiteData: WebsiteCategory[] = [
         tags: ['Css', '教程'],
       },
       {
-        name: 'Bootstrap',
-        desc: 'Bootstrap 是全球最受欢迎的前端开源工具库，它支持 Sass 变量和 mixin、响应式栅格系统、自带大量组件和众多强大的 JavaScript 插件。基于 Bootstrap 提供的强大功能，能够让你快速设计并定制你的网站',
-        logo: 'https://img.kuizuo.cn/20210907055816.png',
-        href: 'https://v5.bootcss.com/',
-        tags: ['Css', '框架'],
-      },
-      {
         name: 'CSS常用样式',
         desc: 'CSS常用样式',
         logo: 'https://tse1-mm.cn.bing.net/th?id=OIP-C.EgSPriuEnAtlIWJV8R_E1QHaGs&w=107&h=100&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2',
